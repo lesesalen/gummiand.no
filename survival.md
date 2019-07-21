@@ -6,7 +6,11 @@ I bunnen av denne, finner du en TLDR;
 
 ## Livet som (ny) student
 
+nito/tekna
+
 ### Første Uka
+
+### Bøker
 
 ### Programmeringen 
 
@@ -49,7 +53,7 @@ På github skiller man gjerne mellom public og private repositories. Et offenlig
 Men frykt ikke. Det finnes håp!
 
 **Github student pack** 
-Ved å registrere studentkontoen din, kan du få masse snacks gratis (her)[https://education.github.com/pack]. Dette inkluderer gratis github, bootstrap studio, gitkraken (for de som liker grafiske grensesnitt), jetbrains lisenser, heroku for hosting, og mye mer.
+Ved å registrere studentkontoen din, kan du få masse snacks gratis [her](https://education.github.com/pack). Dette inkluderer gratis github, bootstrap studio, gitkraken (for de som liker grafiske grensesnitt), jetbrains lisenser, heroku for hosting, og mye mer.
 
 Første semester gjøres det meste av kodingen i Jupiter, så det er ikke nødvendig å stresse seg med å lære seg alt med en gang. Men det er kjekt å vite at disse tingene eksisterer, når det blir aktuelt!
 
@@ -103,20 +107,62 @@ Realistisk tips:
 
 ## Studentgrupper og dette med å engasjere seg sosialt
 
+Frivillig engasjement er en fantastisk måte å bli kjent med andre likesinnede studenter, få litt faglig påfyll og bygge nettverk. Mange studenter oppdager for sent at de gjerne skulle hatt et verv eller to på CV-en. 
+
+Engasjer deg! Her er det bare fordeler :) 
+
+Om du ønsker å arrangere noe for studentene og trenger penger, har Echo et eget søknadsskjema for dette. Det finner du [her](https://docs.google.com/forms/d/e/1FAIpQLSdf8jZhB_yKxEJEa461GmXz3JsdxqMoJLilQ49ZRlnqJw8ayg/viewform)
+
 ### Verv 
+
+Verv i studentforeninger er en fantastisk måte å engasjere seg i studentmiljøet. På informatikk har vi en mengde komiteer og grupper, som alle stadig trenger folk!
+
+Matnat fakultet har en studentavis som må skrives, en studentbar som trenger folk, fagforeningers studentlag, og mye mer. Så lenge du har tid til overs, har du ingenting å tape på å bli med i et lag eller en forening. 
 
 ### Konferanser
 
+IT-verdenen er bygget på konferanser, hvor man får faglig påfyll og muligheten til å treffe andre i fagmiljøet. Disse koster dessverre mange tusen kroner, og er out of reach for de aller fleste studenter. Konferanser er store dyr som trenger mange mennesker, og som ofte er drevet på frivillighet.
+
+Dette er en gyldne mulighet for deg som student. Som frivillig får du bidra til miljøet (mat for CV-en), bli kjent med andre folk og lære nye ting om spennende tech! Som frivillig har du ikke vakter hele tiden, så du får nok av tid til å se på foredrag. Du trenger ikke erfaring for å være frivillig, så det er verdt å prøve seg allerede på 1. året.
+
+Call for volunteers lyses ut noen måneder før konferansene, så det er verdt å følge med. Konferanser som Booster og Javazone publiserer også på Echos facebookside.
+
 ### **Echo**
 
-om Echo
+Ved II er Echo både fagutvalg og linjeforening. Echo består av 12 demokratisk valgte studenter. Echo gjør linjeforeningsting som å arrangee fester og faglige arrangement. I tillegg har Echo et overordnet ansvar for studentsaker som angår det faglige ved instituttet. Echo jobber utelukkende med å gjøre studiehverdagen for
+ informatikere bedre og er studentenes stemme opp mot instituttet, fakultetet og arbeidsmarkedet. 
 
-### Facebook grupper
+Har du noe du vil ta opp? Den beste måten å få sine innspill hørt hos fagutvalget, er å bruke dette [tilbakemeldingsskjemaet](https://docs.google.com/forms/d/e/1FAIpQLSe9wayHe_uX3LZyzG0aWa5sO_LcnI_y_UVPUi0JzixYfrtLhA/viewform).
+
+Om du ønsker å ta opp uønskede hendelser, anbefaler jeg deg sterkt å bruke UiBs ["Si ifra"-system](https://www.uib.no/student/111870/si-fra-om-studentmilj%C3%B8et). Da blir sakene håndtert av studentombudet. 
+
+I begge tilbakemeldingsplattformer er det mulig å gi tilbakemeldinger anonymt. All informasjon om echo, finner du på **fagutvalget.no**
+
+### Facebook grupper tilknyttet Echo
+
+Echo har flere facebookgrupper og sider du kan være med i. Her kommer litt info om flere av dem. 
+
+- **echo – Fagutvalget for informatikk, UiB** er den offisielle facebookgruppen til echo. Her publiseres alt fra nyheter som er aktuelle for studenter til fester og andre faglige arrangement.
+
+- **echo Aktiv** Facebook-gruppe hvor man kan få med folk på aktiviteter som å gå på tur, spille fotball, paintball, konserter etc
+- **echo Makerspace** Echo har et lite makerspace med 3d-printer og verktøy. Har du et hobbyprosjekt du kunne tenke deg å jobbe med, og trenger hardware? Da kan makerspacet være for deg!
+  
+- **echo squash** Facebookgruppe som echo Aktiv, men kun for squash. Liker du squash og trenger noen å spille med? Da er dette gruppa for deg!
+- **Næringslivskontakt for informatikkstudenter, Bergen** På denne facebooksiden, publiserer Echos bedriftskomité stillingsutlysnigner som er relevante for IT-studenter. Dette er alt fra deltidsjobber i startups til internships og stillinger for nyutdannede.
 
 ### Bedriftspresentasjoner
 
+Bedriftskomiteen arrangerer 8-12 bedriftspresentasjoner i semesteret. Her kommer bedrifter for å presentere seg overfor studenter og bli kjent med dem. Selve presentasjonen varer gjerne en til halvannen time, og etterfølges av mat og drikke. Da reiser man gjerne ut og spiser på en restaurant på bedriftens regning. Hvilke bedrifter som kommer, varierer stort. Her er alt fra sikkerhetsselskap som Mnemonic, til NAV og konsulentselskap som Bekk og Computas.
+
+Tid/Sted: Torsdager (som regel), etter kl 16.15 på Høyteknologisenteret
+
+Påmelding: Publiseres på facebook og fagutvalget klokken 12, en uke i forkant. merk: dette gjelder uansett hvilken dag bedriftspresentasjonen er.
+
+Ikke alle bedriftspresentasjoner er åpne for alle årstrinn. Hvilke trinn den aktuelle bedriftspresentasjonen er åpen for vil informeres i selve posten og på skjemaet. Om du lyver om årstrinnet ditt under en bedpress, kommer du til å bli utestengt fra samtlige bedriftspresentasjoner i et semester.
+
 ### For den sikkerhetsinteresserte
 
+Ved II finnes det en faggruppe som heter **Helt Sikker*. Helt Sikker er en studentorganisasjon som har som målsetning å tilby studenter en arena for å lære informasjonssikkerhet, og samtidig bygge et miljø for sikkerhetsinteresserte studenter. Helt Sikker arrangerer workshops, CTF-er, foredrag mm. Om dette høres spennende ut, finner du mer informasjon på heltsikker.no eller på deres [facebook-side.](https://www.facebook.com/groups/heltsikker/)
 
 # TLDR; 
 
