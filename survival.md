@@ -1,8 +1,10 @@
-# II Survival guide 
+# II Survival guide: "Det alle vet, men ingen forteller deg"
 
-Som ny student er det mange ting du må få oversikt over, og overgangen fra vgs til universitet er for mange utfordrende. Nå er det ditt eget ansvar å holde oversikt over forelesninger, innleveringer og å lese til eksamen. I tillegg skal du håndtere et tonn med informasjon og samtidig kose deg i studietiden. Dette er en survival guide for deg som går ditt første år ved UiBs institutt for Informatikk, II.
+Som ny student er det mange ting du må få oversikt over, og overgangen fra vgs til universitet er for mange utfordrende. Nå er det ditt eget ansvar å holde oversikt over forelesninger, innleveringer og å lese til eksamen. I tillegg skal du håndtere et tonn med informasjon og samtidig kose deg i studietiden. Dette er en survival guide for deg som går ditt første år som informatikkstudent.
 
-I bunnen av denne, finner du en TLDR; 
+>Disclaimer: Denne guiden reflekterer i stor grad mine personlige synspunkt og meninger, og representerer hverken Echo, Helt Sikker eller UiB. 
+
+Om du bare trenger å finne "den linken", er det en TLDR; i bunnen.
 
 ## Livet som (ny) student
 
@@ -11,6 +13,8 @@ nito/tekna
 ### Første Uka
 
 ### Bøker
+
+### Fag
 
 ### Programmeringen 
 
@@ -74,12 +78,19 @@ Hver torsdag fra 13-15 steker de vafler, så de kan gjerne kjennes igjen på luk
 
 ### Ordliste over begreper
 
+SEB
+Kont/konte
+II
+Matnat
+
 ### Kalender
 
 ### Studieveiledere
+
 Om du lurer på noe som helst vedr studieprogresjon, instituttet eller studiet i seg selv, er studieveilederne tilgjengelige for deg! De holder til i 4. etg på insitutt for Informatikk, og bak infoskranken på Matnat.
 
 For bachelorstudenter: Ida Rosenlund 
+For masterstudenter: Pål Gunnestad
 
 ## Forelesninger, Innleveringer og Eksamen
 
@@ -93,17 +104,43 @@ En stor forskjell er dog at dette som regel ikke er obligatorisk. Det er med and
 
 Du har med andre ord ansvar for din egen læring! Om forelesningene ikke fungerer for deg, reis på lesesalen og les deg opp med hjelp av andre ressurser. Det finnes som regel mange kilder til læring, så det gjelder å finne den som funker best for deg. 
 
-Realistisk tips: 
+Realistiske tips til å være student: 
 => gå i gruppetimer / kollekviegrupper
 => gjør (litt) av ekstreoppgavene
 => Gå i (noen) forelesninger
 
+Om du ikke vil i en forelesning burde du fortsatt reise på lesesalen. Selv om jeg ikke har særlig tro på læring ved osmose, er det lurt å være deltakende i miljøet. 
+
+- Du blir kjent med andre studenter
+- Du vet ikke hvem du kan spørre om hjelp uten å ha truffet dem. 
+- Vi har mange "kjøkkenforelesninger" hvor noen kanskje har funnet noe kult, eller har et hobbyprosjekt de vil snakke om. Eller jobbe med.
+
+
 ### Innleveringer
 
+De aller fleste fagene har arbeidskrav i form av innleveringer. Noen har også deleksamener som gjerne teller for 10-ish prosent av sluttkarakteren. Fagene funker som regel enten slik at du må bestå feks 6/8 innleveringer, eller at du får et ekstra forsøk om du skulle stryke. Det er som regel ikke lov til å samarbeide "offiselt" på oppgaver som er obligatoriske arbeidskrav, og universitet er strenge på plagiat. Husk at det dog er lov til å hjelpe hverandre. Personlig tenker jeg at samarbeid er lurt, så lenge du har i bakhodet at det er forskjell på å få hjelp og å skrive av og at du fort gjør deg selv en bjørnetjeneste om du ikke lærer deg pensum. 
+
+Hvordan hvert fag fungerer blir gjerne opplyst om på **første** forelesning i tillegg til fagets emnesider på uib.no og mitt.uib. 
 
 ### Eksamen
 
+Omtrent alle fag ved II har avsluttende eksamen som karaktergrunnlag i faget. Ofte får du gjerne 30% av sluttkarakteren fra obligene, og 70% fra eksamen. Karakterfordelingen går fra A til F, og tilsvarer karakter A=6 og F= 1 (stryk) og man trenger som regel 40% (E) på avsluttende eksamen for å stå i faget. Ved UiB har man tre forsøk på å stå et fag. Dette betyr at man normal sett kan gå opp til eksamen i et fag tre ganger, men det er mulig å søke om et fjerde forsøk om det er snakk om et obligatorisk fag. Om du skal trekke deg fra eksamen, er det smart å melde seg av på studetweb senest 14 dager før eksamensdato. På denne måten unngår du å bruke et forsøk. Du kan når som helst melde deg opp til konte-eksamen, gitt at arbeidskravene er bestått. Arbeidskrav teller ofte som bestått også ett påfølgende semester. Vi har skriftlig, muntlig og digital eksamen. Skriftlig eksamen er med penn og gjennomslagsark, muntlig eksamen er nettopp det og digital eksamen tar man ved å bruke  Insperas Safe Exam Browser (SEB). Her bruker man gjerne sin egen maskin og laster ned programvaren på forhånd. Under eksamen får du et dagspassord, også er maskinen ellers låst ned i denne perioden. Eksamensformen er avklart ved semesterstart, og ingen fag har muntlig eksamen første studieår.
+
+#### Stryk
+
+Om du skulle stryke et fag, stopper ikke studieprogresjonen din, men om det er et obligatorisk fag for graden, må dette faget være bestått innen du er ferdig. Du kan fritt melde deg til påfølgende konteeksamen. Om man skulle stryke feks INF142 som går på våren, er konten ofte i midten av september. Og tilsvarende februar/mars for fag som går på høsten. **Unntaket** til denne regelen er fag som går (undervises) både høst og vår, som **MAT111**. Da er det ikke tidlig eksamen, men ordinær eksamen påfølende semester. Så lenge det er plass i faget, kan du når som helst ta et fag på nytt, så lenge du ikke har brukt tre forsøk.
+
 ## Lesesaler og grupperom
+
+>Matnat har ganske få grupperom og alle er alltid opptatt.
+
+Matnat har dog et stort bibliotek og et fantastisk læringssenter, i tillegg til en større lesesal. 
+
+### Institutt for informatikk
+
+Informatikklesesalen i datablokka, også kjent som "lesesalen" blant informatikkstudenter, er en lesesal med store gruppebord. Her er det kjøkken med (gratis) kaffe, kjøleskap, brødrister og mikro. Denne er åpen for alle informatikkstudenter og er "vårt eget territorie". Den administreres i sin helhet av fagutvalget, og er døgnåpen. Dette er ikke en stille lesesal i den forstand at det er lov å prate sammen og samarbeide. Her er terskelen også veldig lav for å få hjelp. Husk å bruke innestemme.  Det er også lov å bare komme for å henge og drikke kaffe. Informatikkfestene pleier også å arrangeres her. Kjøkkenet kan for mange være skummelt da det ofte sitter eldre studenter i sofaen. De aller færreste biter, og om du sier hei først, kommer de garantert til å si hei tilbake!
+
+I 2. etg. om du holder hardt venstre etter trappen, er det også et mindre stillerom. Dette er en stille leseslal med skillevegger mellom bordene. Denne er åpen mellom 8 og 17 på hverdager. Det finnes også et par kollokvieøyer og en håndfull grupperom i andre etg + ellers i bygget. Når disse ikke brukes til undervisning kan de bookes her: https://www.uib.no/foransatte/90989/rombestilling
 
 ## Studentgrupper og dette med å engasjere seg sosialt
 
@@ -134,7 +171,7 @@ Ved II er Echo både fagutvalg og linjeforening. Echo består av 12 demokratisk 
 
 Har du noe du vil ta opp? Den beste måten å få sine innspill hørt hos fagutvalget, er å bruke dette [tilbakemeldingsskjemaet](https://docs.google.com/forms/d/e/1FAIpQLSe9wayHe_uX3LZyzG0aWa5sO_LcnI_y_UVPUi0JzixYfrtLhA/viewform).
 
-Om du ønsker å ta opp uønskede hendelser, anbefaler jeg deg sterkt å bruke UiBs ["Si ifra"-system](https://www.uib.no/student/111870/si-fra-om-studentmilj%C3%B8et). Da blir sakene håndtert av studentombudet. 
+Om du ønsker å ta opp uønskede hendelser, anbefaler jeg deg sterkt å bruke UiBs ["Si ifra"-system](https://www.uib.no/student/111870/si-fra-om-studentmilj%C3%B8et). Da blir sakene håndtert av studentombudet. Send det gjerne også i Echos tilbakemeldingsskjema og vis til at du også har brukt "si ifra".
 
 I begge tilbakemeldingsplattformer er det mulig å gi tilbakemeldinger anonymt. All informasjon om echo, finner du på **fagutvalget.no**
 
@@ -143,10 +180,8 @@ I begge tilbakemeldingsplattformer er det mulig å gi tilbakemeldinger anonymt. 
 Echo har flere facebookgrupper og sider du kan være med i. Her kommer litt info om flere av dem. 
 
 - **echo – Fagutvalget for informatikk, UiB** er den offisielle facebookgruppen til echo. Her publiseres alt fra nyheter som er aktuelle for studenter til fester og andre faglige arrangement.
-
 - **echo Aktiv** Facebook-gruppe hvor man kan få med folk på aktiviteter som å gå på tur, spille fotball, paintball, konserter etc
 - **echo Makerspace** Echo har et lite makerspace med 3d-printer og verktøy. Har du et hobbyprosjekt du kunne tenke deg å jobbe med, og trenger hardware? Da kan makerspacet være for deg!
-  
 - **echo squash** Facebookgruppe som echo Aktiv, men kun for squash. Liker du squash og trenger noen å spille med? Da er dette gruppa for deg!
 - **Næringslivskontakt for informatikkstudenter, Bergen** På denne facebooksiden, publiserer Echos bedriftskomité stillingsutlysnigner som er relevante for IT-studenter. Dette er alt fra deltidsjobber i startups til internships og stillinger for nyutdannede.
 
@@ -162,13 +197,13 @@ Ikke alle bedriftspresentasjoner er åpne for alle årstrinn. Hvilke trinn den a
 
 ### For den sikkerhetsinteresserte
 
-Ved II finnes det en faggruppe som heter **Helt Sikker*. Helt Sikker er en studentorganisasjon som har som målsetning å tilby studenter en arena for å lære informasjonssikkerhet, og samtidig bygge et miljø for sikkerhetsinteresserte studenter. Helt Sikker arrangerer workshops, CTF-er, foredrag mm. Om dette høres spennende ut, finner du mer informasjon på heltsikker.no eller på deres [facebook-side.](https://www.facebook.com/groups/heltsikker/)
+Ved II finnes det en faggruppe som heter **Helt Sikker**. Helt Sikker er en studentorganisasjon/linjeforening som har som målsetning å tilby studenter en arena for å lære informasjonssikkerhet, og samtidig bygge et miljø for sikkerhetsinteresserte studenter. Helt Sikker arrangerer workshops, CTF-er, foredrag mm. Om dette høres spennende ut, finner du mer informasjon på heltsikker.no eller på deres [facebook-side.](https://www.facebook.com/groups/heltsikker/)
 
 # TLDR; 
 
 #### Nyttige linker 
 Jetbrians: https://www.jetbrains.com/student/
-Eclipe: https://www.eclipse.org/
+Eclipe: https://www.eclipse.org/ (men bruk Intellij)
 Codingbat
 Codeacademy
 Kattis
