@@ -9,10 +9,41 @@ Om du bare trenger å finne "den linken", er det en TLDR; i bunnen.
 ## Livet som (ny) student
 
 nito/tekna
+spotify har studentrabatt
+2good2go
 
 ### Første Uka
 
+### Ordliste over begreper
+
+SEB
+Kont/konte
+II
+Matnat
+
+### Kalender for et typisk semester
+
+første uka
+1. september
+
+Høstferie
+
+Slutten av november -> ekasmen 
+
+### Studieveiledere
+
+Om du lurer på noe som helst vedr studieprogresjon, instituttet eller studiet i seg selv, er studieveilederne tilgjengelige for deg! De holder til i 4. etg på insitutt for Informatikk, og bak infoskranken på Matnat.
+
+For bachelorstudenter: Ida Rosenlund 
+For masterstudenter: Pål Gunnestad
+
 ### Bøker
+
+Pensumbøker er dyre. En del bøker er greie å ha nye, mens andre er supre å kjøpe brukt. I en del fag kan du også slippe unna med å bruke en eldre versjon også. Det som skiller er som regel et kapittel og noen oppgavetekster, så i fag som INF142 går det helt fint å bruke en eldre utgave. Ofte bruker man også samme utgave i flere år, så det pleier å være mulig å få tak i brukte bøker i OK+ stand. Du trenger aldri pensumbøkene til første forelesning, så det er ikke vits i å stresse med å ha gjort alle innkjøpene til semesterstart. Mange bøker kan man også finne gratis på nettet i pdf-format, om det er mer din jam. 
+
+Sjekk ut facebookgrupper som "UiB - Børs - Kjøp/selg bøker, Billetter og annet", "Pensum på MatNat UiB" og "UiB Kjøp/salg informatikkpensum". Sjekk også ut Bookis-appen for enda flere brukte bøker! 
+
+Om du liker bøkene dine nye, er det også helt OK, men sjekk ut adlibris.no. Bøkene er som regel en god del billigere der enn på Akademika. Akademika finner du forøvrig på studentsenteret på Nygårshøyden om du trenger kalkulator, bøker eller annet matriell. Adlibris kan noen ganger ta litt tid, men pleier å være verdt det! Om 
 
 ### Fag
 
@@ -61,6 +92,10 @@ Ved å registrere studentkontoen din, kan du få masse snacks gratis [her](https
 
 Første semester gjøres det meste av kodingen i Jupiter, så det er ikke nødvendig å stresse seg med å lære seg alt med en gang. Men det er kjekt å vite at disse tingene eksisterer, når det blir aktuelt!
 
+#### Greia med utviklere og gummiender
+
+>Gummiender er en populær meme blant IT-folk, og refererer til "rubber duck debugging". Ofte er alt du trenger for å løse et problem, å forklare koden høyt til deg selv eller andre. Noen bruker medstudenter, andre bruker gummiender og noen bruker ingenting. Valget er helt opp til deg! Men dette er faktisk en god måte å få et nytt perspektiv på problemet.
+
 ### Matematikken
 
 Matematikken er for mange tøff det første året. I mat111 har man 8 obligaoriske innleveringer i løpet av semesteret, hvor 6 av dem må bestås. Det arrangeres gruppetimer hver uke hvor man kan jobbe med oppgaver og få hjelp av en gruppeleder som selv er student og har tatt faget. Om du er typen som ikke trives særlig godt i forelesninger anbefaler jeg virkelig å gå i gruppetimene! I dem kan du i stor grad jobbe i ditt eget tempo og få veiledningen tilpasset det du faktisk sliter med på det tidspunktet. 
@@ -73,24 +108,7 @@ Instituttet har sin egen orakeltjeneste. Et par timer, to ganger i uka står en 
 
 Hver torsdag fra 13-15 steker de vafler, så de kan gjerne kjennes igjen på lukta. Vaflene er for alle, så man trenger virkelig ikke stille spørsmål, for å kvalifisere til en vaffel.
 
->Protip: Om noen steker vafler på lesesalen, blir de sannsynligvis lønnet av universitetet for å svare på spørsmål. Det betyr at ingen spørsmål er for dumme!
-
-
-### Ordliste over begreper
-
-SEB
-Kont/konte
-II
-Matnat
-
-### Kalender
-
-### Studieveiledere
-
-Om du lurer på noe som helst vedr studieprogresjon, instituttet eller studiet i seg selv, er studieveilederne tilgjengelige for deg! De holder til i 4. etg på insitutt for Informatikk, og bak infoskranken på Matnat.
-
-For bachelorstudenter: Ida Rosenlund 
-For masterstudenter: Pål Gunnestad
+>Protip: Om noen steker vafler på lesesalen, blir de sannsynligvis lønnet av universitetet for å svare på spørsmål. Det betyr at ingen spørsmål er for dumme! 
 
 ## Forelesninger, Innleveringer og Eksamen
 
