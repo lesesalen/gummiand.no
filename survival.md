@@ -23,17 +23,18 @@ Spotify har studentrabatt.
 
 Disse linkene er stappfulle av nyttig informasjon og tidsfrister: [UiBs sjekkliste for studiestart](https://www.uib.no/student/127911/sjekkliste-i-studiestarten) og [Matnat sin guide for hva som skjer rundt semesterstart](https://www.uib.no/matnat/52774/velkommen-som-ny-student#uke-33-12-nbsp-16-august-).
 
-Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesninger, programmøte, semesterregistrering, studentkort og mye mer. Og det er mange ting som skal gjøres. I klassemottaket vil du få mye informasjon om den første tiden din ved UiB, samt bli informert om viktige tidsfrister og ting du må tenke på. Her blir du også kjent med andre studenter som går samme linje som deg, og som har fagkombinasjon.
+Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesninger, programmøte, semesterregistrering, studentkort og mye mer. Og det er mange ting som skal gjøres. I klassemottaket vil du få mye informasjon om den første tiden din ved UiB, samt bli informert om viktige tidsfrister og ting du må tenke på. Her blir du også kjent med andre studenter som går samme linje og/eller har samme fagkombinasjon som deg.
 
 - Studentkort får du på studentsenteret.
 - Studentbevis har du gjennom studentbevis-appen. 
-- Du må semesterregistrere deg på studentweb, om ikke dette gjøres automagisk.
+- Du må semesterregistrere deg på studentweb.
 - Møte opp på programmøtet og de første forelesningene. Det vil være et programmøte hvor oppmøte er obligatorisk (Les: Du mister studieplassen din om du ikke møter). Her får du litt info om hvordan insituttet funker, hvem som er studieveiledere osv. I de første forelesningene blir det gitt praktisk informasjon om det aktuelle faget. Dette er ting som eksamensdato, eksamensform, obligatorisk aktivitet, hvem som er gruppeledere etc. 
 
->Du må betale semesteravgiften før du får studielånet
+>Du må betale semesteravgiften før du får utbetalt studielånet.
 
 ### Ordliste og nyttige begreper
 
+Mitt UiB
 SEB
 Kont/konte
 II
@@ -44,6 +45,9 @@ TLDR;
 CTF
 FU
 Git
+Open Source
+Versjonskontroll
+debugging
 
 Steder
 
@@ -93,14 +97,14 @@ Pensumbøker er dyre. En del bøker er greie å ha nye, mens andre er supre å k
 
 Sjekk ut facebookgrupper som "UiB - Børs - Kjøp/selg bøker, Billetter og annet", "Pensum på MatNat UiB" og "UiB Kjøp/salg informatikkpensum". Sjekk også ut Bookis-appen for enda flere brukte bøker! 
 
-Om du liker bøkene dine nye, er det også helt OK, men sjekk ut adlibris.no. Bøkene er som regel en god del billigere der enn på Akademika. Akademika finner du forøvrig på studentsenteret på Nygårshøyden om du trenger kalkulator, bøker eller annet matriell. Adlibris kan noen ganger ta litt tid, men pleier å være verdt det! Om 
+Om du liker bøkene dine nye, er det også helt OK, men sjekk ut adlibris.no. Bøkene er som regel en god del billigere der enn på Akademika. Akademika finner du forøvrig på studentsenteret på Nygårshøyden om du trenger kalkulator, bøker eller annet matriell. Adlibris kan noen ganger ta litt tid, men pleier å være verdt det!
 
 ### Fag
 
 Første semester har man INF100, MAT111 og ex.phil. Semesteret etter har man INF101, MNF130 og et linjespesifikk fag.
 
 
->I det daglige omtales gjerne informatikkfag som ikke er inf100, kun som nummeret. Istedenfor å hele tiden si feks "INF143", sier man gjerne bare "143". Så om noen prater om et fag uten å nevne fagkoden, er det bare å tenke "informatikkfag". Noen ganger kan det også være et matematikkfag(#fuckingMat220). Så om du er i tvil, er det bare å spørre!
+>I det daglige omtales gjerne informatikkfag som ikke er inf100, kun som nummeret. Istedenfor å hele tiden si feks "INF143", sier man gjerne bare "143". Så om noen prater om et fag uten å nevne fagkoden, er det bare å tenke "informatikkfag". Noen ganger kan det også være et matematikkfag, som har unike fagkoder (feks mat220). Så om du er i tvil, er det bare å spørre!
 
 Echo har en onenote (link), hvor du kan finne notater til en del fag. Notatene dekker ikke alle fag siden den ble skrevet for et par år siden, også er kvaliteten på de forskjellige notatene litt så som så, men sjekk den ut!
 
@@ -108,17 +112,17 @@ Echo har en onenote (link), hvor du kan finne notater til en del fag. Notatene d
 
 >Å lære seg programmering er som å lære å lese på nytt
 
-De fleste av studentene som går på dette instituttet kunne ikke programmere før de begynte. Førsteårsfagene bygger på dette, og du kommer til å lære deg programmering fra scratch. Å lære seg å programmere er som å lære å lese på nytt. Det er et helt nytt språk med sin egen grammatikk, sin egne gloser og uttrykk og sin egen logikk. I begynnelsen klarer man kanskje å forstå et og annet "ord". Med litt trening, hele uttrykk og setninger og til slutt leser man kode helt "flytende". Programmering er kun mengdetrening, og ingen er eksperter med en gang.
+De fleste av studentene som går på dette instituttet kunne ikke programmere før de begynte. Førsteårsfagene baserer seg på dette, og du kommer til å lære deg programmering fra scratch. Å lære seg å programmere er som å lære å lese på nytt. Det er et helt nytt språk med sin egen grammatikk, sin egne gloser og uttrykk og sin egen logikk. I begynnelsen klarer man kanskje å forstå et og annet "ord". Med litt trening, hele uttrykk og setninger og til slutt leser man kode helt "flytende". Programmering er kun mengdetrening, og ingen er eksperter med en gang.
 
 >Det tar tid før koding og lesing av kode faller naturlig, ikke forvent å mestre det med en gang
 
 #### Om Programmering
 
-I ditt første semester lærer du å programmere i Python (INF100). I INF101 kommer du til å lære java. Avhengig av valgfag og studieprogram vil du kanskje komme borti Haskell og C++ på senere tidspunkt. I løpet av studietiden kommer du til å bli kjent med en hel drøss med teknologier, og selv om det kanskje høres helt overveldende ut med en gang, vil alt gi mening etterhvert. For selv om du i første semester, føler du har mer enn nok med Python, kommer du etterhvert til å kunne det så godt at språket ikke spiller stor rolle.
+I ditt første semester lærer du å programmere i Python (INF100). I INF101 kommer du til å lære Java. Avhengig av valgfag og studieprogram vil du kanskje komme borti Haskell og C++ på senere tidspunkt. I løpet av studietiden kommer du til å bli kjent med en hel drøss med teknologier, og selv om det kanskje høres helt overveldende ut med en gang, vil alt gi mening etterhvert. For selv om du i første semester, føler du har mer enn nok med Python, kommer du etterhvert til å kunne programmere så godt at språket du programmerer i ikke spiller stor rolle.
 
 Programmering er som sagt mengdetrening, så det absolutt viktigste du kan gjøre for å bli trygg på dette, er å programmere mye. Du vil få en del oppgaver i INF100 (både obligatoriske og frivillige), men det er utrolig viktig å trene mye på dette. Programmering er et håndtverk, og den raskeste måten å bli flink på er gjennom å faktisk skrive kode. Under kommer noen tips til nettsider og andre kilder til mer strukturert trening, men som sagt er det viktigste at du skriver og jobber med kode, ikke hvor eller hvordan du gjør det. 
 
-Codingbat.com er en nettside som har mange konkrete oppgaver i java og python. Alle oppgavene har opptil flere tester og en del av dem har løsningsforslag. Alt kan gjøres i nettleseren.
+Codingbat.com er en nettside som har mange konkrete oppgaver i Java og Python. Alle oppgavene har opptil flere tester og en del av dem har løsningsforslag. Alt kan gjøres i nettleseren.
 
 Kattis er en nettside som har mange programmeringsnøtter som en kan prøve seg på. Her laster man opp løsningen sin i form av et program som løser oppgaven og det testes med masse eksempler og du får tilbakemelding på om programmet løste problemet eller ikke. Her kan man velge blant de aller fleste programmeringsspråkene.
 
@@ -132,11 +136,11 @@ Når man programmerer har man gjerne to typer verktøy. Enten en IDE eller en ed
 
 De (sannsynligvis) beste IDEene utvikles av Jetbrians. [Jetbrains](https://www.jetbrains.com/student/) har IDE-er for flere språk. Mest aktuelt for nye studenter er gjerne Intellij for Java, og Pycharm for python. På deres sider, kan man laste ned community editions gratis, eller registrere seg som student. Da bruker du uib-eposten din og får proffesional-versjonen gratis. Begge deler er fullverdige utviklingsmiljø for studenter, men ultimate utgaven har flere features. 
 
-Eclipse er en annen populær IDE for Java. Denne er gratis for alle. Personlig foretrekker jeg Intellij. Bruk Intellij.
+Eclipse er en annen populær IDE for Java. Denne er gratis for alle, og funker fjell på linux-systemer. Personlig foretrekker jeg Intellij. Bruk Intellij.
 
 #### Git, github, gitlab, bitbucket
 
-Git er et verktøy for versjonskontroll og kodedeling. Dette betyr at man blant annet kan lagre hele historikken til hvordan koden har utviklet seg, og det er mulig å gå tilbake til et hvilket som helst commit-punkt. 
+Git er et verktøy for versjonskontroll og kodedeling. Dette betyr at man blant annet kan lagre hele historikken til hvordan koden har utviklet seg, og det er mulig å gå tilbake til et hvilket som helst punkt. 
 
 Det finnes flere tjenester som tilbyr Git-versjonskontroll. Den mest kjente er Github. Det finnes fag ved instituttet hvor man også bruker gitlab til å administrere innleveringer. En del liker også å bruke bitbucket. Hvordan man derimot bruker selve Git-teknologien er likt for alle tilbyderne.
 
@@ -161,9 +165,9 @@ Khanacademy.com er en helt gratis nettside som har supre kurs i matematikk, kjem
 
 ### Orakeltjeneste
 
-Instituttet har sin egen orakeltjeneste. Et par timer, to ganger i uka står en gruppe eldre studenter på kjøkkenet på lesesalen, for å svare på spørsmål. De har grønne(?) gensere og fagkoder på ryggen som viser hvilke fag de er mest komfortable med å bistå i. Man kan generelt spørre hvem som helst på lesesalen, om de ikke kan svare på spørsmålet, kjenner de garantert noen som kan! 
+Instituttet har sin egen orakeltjeneste. Et par timer, to ganger i uka står en gruppe eldre studenter på kjøkkenet på lesesalen, for å svare på spørsmål. De har grønne gensere og fagkoder på ryggen som viser hvilke fag de er mest komfortable med å bistå i. Man kan generelt spørre hvem som helst på lesesalen, om de ikke kan svare på spørsmålet, kjenner de garantert noen som kan! 
 
-Hver torsdag fra 13-15 steker de vafler, så de kan gjerne kjennes igjen på lukta. Vaflene er for alle, så man trenger virkelig ikke stille spørsmål, for å kvalifisere til en vaffel.
+Hver torsdag fra 13-15 steker de vafler, så de kan gjerne kjennes igjen på lukta. Vaflene er helt gratis og for alle, så man trenger virkelig ikke stille spørsmål for å kvalifisere til en vaffel.
 
 >Protip: Om noen steker vafler på lesesalen, blir de sannsynligvis lønnet av universitetet for å svare på spørsmål. Det betyr at ingen spørsmål er for dumme! 
 
@@ -171,9 +175,9 @@ Hver torsdag fra 13-15 steker de vafler, så de kan gjerne kjennes igjen på luk
 
 ### Forelesninger
 
-En av de største overgangene fra vgs til universitetet er hvordan undervisningen foregår. I en forelesning kan det være en underviser på 250 studenter. Her blir gjerne teorien gjennomgått. 
+En av de største overgangene fra vgs til universitetet er hvordan undervisningen foregår. I en forelesning kan fort være 250 studenter og en foreleser, og ofte blir kun teorien gjennomgått.
 
-I tillegg til forelesningene har man gjerne ukentlige gruppetimer, hvor man kan jobbemed ukesoppgaver og innleveringer. Her er det også enklere å stille spørsmål. Selv om det ofte er fullt mulig å stille spørsmål i forelesnignene. 
+I tillegg til forelesningene har man gjerne ukentlige gruppetimer hvor man kan jobbe med ukesoppgaver og innleveringer. Her er det også enklere å stille spørsmål. Selv om det ofte er fullt mulig å stille spørsmål i forelesnignene. 
 
 En stor forskjell er dog at dette som regel ikke er obligatorisk. Det er med andre ord ditt eget ansvar å delta på forelesninger og gruppetimer. 
 
@@ -187,8 +191,8 @@ Realistiske tips til å være student:
 Om du ikke vil i en forelesning burde du fortsatt reise på lesesalen. Selv om jeg ikke har særlig tro på læring ved osmose, er det lurt å være deltakende i miljøet. 
 
 - Du blir kjent med andre studenter
-- Du vet ikke hvem du kan spørre om hjelp uten å ha truffet dem. 
-- Vi har mange "kjøkkenforelesninger" hvor noen kanskje har funnet noe kult, eller har et hobbyprosjekt de vil snakke om. Eller jobbe med.
+- Du vet ikke hvem du kan spørre om hjelp uten å ha truffet dem.
+- Vi har mange "kjøkkenforelesninger" hvor noen kanskje har funnet noe kult, eller har et hobbyprosjekt de vil snakke om eller jobbe med.
 
 
 ### Innleveringer
@@ -199,7 +203,7 @@ Hvordan hvert fag fungerer blir gjerne opplyst om på **første** forelesning i 
 
 ### Eksamen
 
-Omtrent alle fag ved II har avsluttende eksamen som karaktergrunnlag i faget. Ofte får du gjerne 30% av sluttkarakteren fra obligene, og 70% fra eksamen. Karakterfordelingen går fra A til F, og tilsvarer karakter A=6 og F= 1 (stryk) og man trenger som regel 40% (E) på avsluttende eksamen for å stå i faget. Ved UiB har man tre forsøk på å stå et fag. Dette betyr at man normal sett kan gå opp til eksamen i et fag tre ganger, men det er mulig å søke om et fjerde forsøk om det er snakk om et obligatorisk fag. Om du skal trekke deg fra eksamen, er det smart å melde seg av på studetweb senest 14 dager før eksamensdato. På denne måten unngår du å bruke et forsøk. Du kan når som helst melde deg opp til konte-eksamen, gitt at arbeidskravene er bestått. Arbeidskrav teller ofte som bestått også ett påfølgende semester. Vi har skriftlig, muntlig og digital eksamen. Skriftlig eksamen er med penn og gjennomslagsark, muntlig eksamen er nettopp det og digital eksamen tar man ved å bruke  Insperas Safe Exam Browser (SEB). Her bruker man gjerne sin egen maskin og laster ned programvaren på forhånd. Under eksamen får du et dagspassord, også er maskinen ellers låst ned i denne perioden. Eksamensformen er avklart ved semesterstart, og ingen fag har muntlig eksamen første studieår.
+Omtrent alle fag ved II har avsluttende eksamen som karaktergrunnlag i faget. Ofte får du gjerne 30% av sluttkarakteren fra obligene, og 70% fra eksamen. Karakterfordelingen går fra A til F, og tilsvarer karakter A=6 og F= 1 (stryk) og man trenger som regel 40% (E) på avsluttende eksamen for å stå i faget. Ved UiB har man tre forsøk på å stå et fag. Dette betyr at man normal sett kan gå opp til eksamen i et fag tre ganger, men det er mulig å søke om et fjerde forsøk om det er snakk om et obligatorisk fag. Om du skal trekke deg fra eksamen, er det smart å melde seg av på studetweb senest 14 dager før eksamensdato. På denne måten unngår du å bruke et forsøk. Du kan når som helst melde deg opp til konte-eksamen, gitt at arbeidskravene er bestått. Arbeidskrav teller ofte som bestått også ett påfølgende semester. Vi har skriftlig, muntlig og digital eksamen. Skriftlig eksamen er med penn og gjennomslagsark, muntlig eksamen er nettopp det og digital eksamen tar man ved å bruke  Insperas Safe Exam Browser (SEB). Her bruker man gjerne sin egen maskin og laster ned programvaren på forhånd. SEB kjører kun på Windows og OSX, og kan ikke kjøres i en VM. UiB har lånepc-er tilgjengelig under eksamen som du kan bruke om du feks kun har linux, men dette må bestilles på forhånd. Under eksamen får du et dagspassord, også er maskinen ellers låst ned i denne perioden. Eksamensformen er avklart ved semesterstart, og ingen fag har muntlig eksamen første studieår.
 
 Ved II pleier man å ha en av to lengder på eksamen, enten tre eller fem timer. Tretimers eksamen kan avholdes enten fra 9-12 eller fra 15-18. Dette vil "settes i stein" 14 dager før eksamen, men kan svinge litt før det. Som regel pleier eksamensdato og tidspunkt å være bestemt tidlig i semesteret, mens lokalet ikke blir bestemt før eksamen nærmer seg.
 
@@ -209,7 +213,7 @@ Om du skulle stryke et fag, stopper ikke studieprogresjonen din, men om det er e
 
 ## Lesesaler og grupperom
 
->Matnat har ganske få grupperom og alle er alltid opptatt.
+>Matnat har ganske få grupperom og de er ofte opptatt.
 
 Matnat har dog et stort bibliotek og et fantastisk læringssenter, i tillegg til en større lesesal. 
 
@@ -227,7 +231,7 @@ Engasjer deg! Her er det bare fordeler :)
 
 Om du ønsker å arrangere noe for studentene og trenger penger, har Echo et eget søknadsskjema for dette. Det finner du [her](https://docs.google.com/forms/d/e/1FAIpQLSdf8jZhB_yKxEJEa461GmXz3JsdxqMoJLilQ49ZRlnqJw8ayg/viewform)
 
-### Verv 
+### Verv
 
 Verv i studentforeninger er en fantastisk måte å engasjere seg i studentmiljøet. På informatikk har vi en mengde komiteer og grupper, som alle stadig trenger folk!
 
@@ -248,9 +252,9 @@ Ved II er Echo både fagutvalg og linjeforening. Echo består av 12 demokratisk 
 
 Har du noe du vil ta opp? Den beste måten å få sine innspill hørt hos fagutvalget, er å bruke dette [tilbakemeldingsskjemaet](https://docs.google.com/forms/d/e/1FAIpQLSe9wayHe_uX3LZyzG0aWa5sO_LcnI_y_UVPUi0JzixYfrtLhA/viewform).
 
-Om du ønsker å ta opp uønskede hendelser, anbefaler jeg deg sterkt å bruke UiBs ["Si ifra"-system](https://www.uib.no/student/111870/si-fra-om-studentmilj%C3%B8et). Da blir sakene håndtert av studentombudet. Send det gjerne også i Echos tilbakemeldingsskjema og vis til at du også har brukt "si ifra".
+Om du ønsker å ta opp uønskede hendelser, burde du derimot bruke UiBs ["Si ifra"-system](https://www.uib.no/student/111870/si-fra-om-studentmilj%C3%B8et). Da blir sakene håndtert av studentombudet. Send det gjerne også i Echos tilbakemeldingsskjema og vis til at du også har brukt "si ifra".
 
-I begge tilbakemeldingsplattformer er det mulig å gi tilbakemeldinger anonymt. All informasjon om echo, finner du på **fagutvalget.no**
+I begge tilbakemeldingsplattformer er det mulig å gi tilbakemeldinger anonymt. All informasjon om echo, finner du på **echo.uib.no**
 
 Echo har også en samling funfacts på: https://echo.uib.no/visste-du-at/. Her finner du blant annet link til onenoten med en del notater på.
 
