@@ -8,6 +8,7 @@ Om du bare trenger å finne "den linken", er det en TLDR; i bunnen.
 
 ## Livet som (ny) student
 
+
 Her følger noen tips til studenthverdagen ved II.
 
 Fagforeninger som Nito og Tekna har studentmedlemsskap som gir deg de samme fordlene som ordentlige medlemsskap, til ca 300 kr/år. Nito har en engangsavgift, mens tekna tar 150 kr pr semester. For dette får du et utvalg gode forsikringer, lån og andre goder. Tilbudet er omtrent likt hos begge to. 
@@ -18,6 +19,8 @@ Begge fagforeningene har studentlag ved UiB og HVL som arrangerer faglige kræsj
 
 ### Første Uka
 
+Disse linkene er stappfulle av nyttig informasjon og tidsfrister: [UiBs sjekkliste for studiestart](https://www.uib.no/student/127911/sjekkliste-i-studiestarten) og [Matnat sin guide for hva som skjer rundt semesterstart](https://www.uib.no/matnat/52774/velkommen-som-ny-student#uke-33-12-nbsp-16-august-).
+
 Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesninger, programmøte, semesterregistrering, studentkort og mye mer. Og det er mange ting som skal gjøres. I klassemottaket vil du få mye informasjon om den første tiden din ved UiB, samt bli informert om viktige tidsfrister og ting du må tenke på. Her blir du også kjent med andre studenter som går samme linje som deg, og som har fagkombinasjon.
 
 - Studentkort får du på studentsenteret.
@@ -27,7 +30,7 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 
 >Du må betale semesteravgiften før du får studielånet
 
-### Ordliste over begreper
+### Ordliste og nyttige begreper
 
 SEB
 Kont/konte
@@ -35,6 +38,21 @@ II
 Matnat
 Git
 IDE
+TLDR;
+CTF
+FU
+Git
+
+Steder
+
+RFB
+Høytek
+Vilvite
+Allegaten
+Biblioteket
+Høyskolen/HVL 
+
+Stack(overflow), Multithreading, Frontend/backend, Funksjonellt/OO, Dependency,pakker/biblotek. Mulig du vil forklare noen av dem
 
 ### Kalender for et typisk semester
 
@@ -45,9 +63,10 @@ IDE
 **9. desember:** Studentweb åpner for neste semesters registrering, men fristen er ikke før 1. februar 2020. <br>
 
 Et typisk semester foregår slik: 
-- Første uka er det oppstart og fadderuke. 
+
+- Første uka er det oppstart og fadderuke.
 - Andre uke begynner undervisning
-- 1. sepember er frist for å semesterregistrere seg (velge fag) og betale semesteravgift. 
+- Første sepember er frist for å semesterregistrere seg (velge fag) og betale semesteravgift. 
 - Det er høstferie andre-ish uka i oktober. Da pleier en del forelesere også å ha forelesningsfri.
 - I slutten av november begynner eksamensperioden. Forelesninger og innleveringer pleier normalt å gå ut første uka i desember. Etter det er det eksamenslesing og ingen forelesninger resten av semesteret. Siste dato eksamen *kan* avholdes er 22. desember, men det er relativt sjelden. Når du har avlagt din siste eksamen er semesteret over.
 
@@ -76,9 +95,12 @@ Om du liker bøkene dine nye, er det også helt OK, men sjekk ut adlibris.no. B�
 
 ### Fag
 
->I det daglige omtales gjerne informatikkfag som ikke er inf100, kun som nummeret. Istedenfor å hele tiden si feks "INF143", sier man gjerne bare "143". Så om noen prater om et fag uten å nevne fagkoden, er det bare å tenke "informatikkfag". Noen ganger kan det også være et matematikkfag. #fuckingMat220. Så om du er i tvil, er det bare å spørre!
+Første semester har man INF100, MAT111 og ex.phil. Semesteret etter har man INF101, MNF130 og et linjespesifikk fag.
 
-Echo har en onenote (link), hvor du kan finne notater til en del fag. Notatene dekker ikke alle fag siden den ble skrevet for et par år siden, også er kvaliteten på de forskjellige notatene litt så som så. Det skader dog ikke å ta en kikk!
+
+>I det daglige omtales gjerne informatikkfag som ikke er inf100, kun som nummeret. Istedenfor å hele tiden si feks "INF143", sier man gjerne bare "143". Så om noen prater om et fag uten å nevne fagkoden, er det bare å tenke "informatikkfag". Noen ganger kan det også være et matematikkfag(#fuckingMat220). Så om du er i tvil, er det bare å spørre!
+
+Echo har en onenote (link), hvor du kan finne notater til en del fag. Notatene dekker ikke alle fag siden den ble skrevet for et par år siden, også er kvaliteten på de forskjellige notatene litt så som så, men sjekk den ut!
 
 ### Programmeringen 
 
