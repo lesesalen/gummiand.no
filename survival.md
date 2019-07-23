@@ -15,6 +15,8 @@ Fagforeninger som Nito og Tekna har studentmedlemsskap som gir deg de samme ford
 
 Begge fagforeningene har studentlag ved UiB og HVL som arrangerer faglige kræsjkurs og kurs i ting som boligkjøp og CV-skriving. I tillegg til ting som ølsmaking og turer. De har ikke alltid de samme kræsjkursene eller foredragsholderne, så det er ikke så dumt å være med i begge. 
 
+Spotify har studentrabatt. 
+
 **Har du noen tips?** 
 
 ### Første Uka
