@@ -14,7 +14,7 @@ Fagforeninger som Nito og Tekna har studentmedlemsskap som gir deg de samme ford
 
 Begge fagforeningene har studentlag ved UiB og HVL som arrangerer faglige kræsjkurs og kurs i ting som boligkjøp og CV-skriving. I tillegg til ting som ølsmaking og turer. De har ikke alltid de samme kræsjkursene eller foredragsholderne, så det er ikke så dumt å være med i begge. 
 
-**Har du noen tips? Tips meg gjerne** 
+**Har du noen tips?** 
 
 ### Første Uka
 
@@ -48,8 +48,8 @@ Et typisk semester foregår slik:
 - Første uka er det oppstart og fadderuke. 
 - Andre uke begynner undervisning
 - 1. sepember er frist for å semesterregistrere seg (velge fag) og betale semesteravgift. 
-- Typ midt i oktober er det høstferie. Da pleier en del forelesere også å ha forelesningsfri.
-- I slutten av november begynner eksamensperioden. Forelesninger og innleveringer pleier normalt å gå ut første uka i desember. Etter det er det eksamenslesing og ingen forelesninger resten av semesteret. Siste dato eksamen *kan* avholdes er 22. desember, men det er relativt sjelden. Når du har avlagt din siste eksamen er semesteret over. 
+- Det er høstferie andre-ish uka i oktober. Da pleier en del forelesere også å ha forelesningsfri.
+- I slutten av november begynner eksamensperioden. Forelesninger og innleveringer pleier normalt å gå ut første uka i desember. Etter det er det eksamenslesing og ingen forelesninger resten av semesteret. Siste dato eksamen *kan* avholdes er 22. desember, men det er relativt sjelden. Når du har avlagt din siste eksamen er semesteret over.
 
 ### Studieveiledere
 
