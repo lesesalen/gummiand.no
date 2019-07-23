@@ -9,10 +9,17 @@ Om du bare trenger å finne "den linken", er det en TLDR; i bunnen.
 ## Livet som (ny) student
 
 nito/tekna
-spotify har studentrabatt
-2good2go
 
 ### Første Uka
+
+Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesninger, programmøte, semesterregistrering, studentkort og mye mer. Og det er mange ting som skal gjøres. I klassemottaket vil du få mye informasjon om den første tiden din ved UiB, samt bli informert om viktige tidsfrister og ting du må tenke på. Her blir du også kjent med andre studenter som går samme linje som deg, og som har fagkombinasjon.
+
+- Studentkort får du på studentsenteret.
+- Studentbevis har du gjennom studentbevis-appen. 
+- Du må semesterregistrere deg på studentweb, om ikke dette gjøres automagisk.
+- Møte opp på programmøtet og de første forelesningene. Det vil være et programmøte hvor oppmøte er obligatorisk (Les: Du mister studieplassen din om du ikke møter). Her får du litt info om hvordan insituttet funker, hvem som er studieveiledere osv. I de første forelesningene blir det gitt praktisk informasjon om det aktuelle faget. Dette er ting som eksamensdato, eksamensform, obligatorisk aktivitet, hvem som er gruppeledere etc. 
+
+>Du må betale semesteravgiften før du får studielånet
 
 ### Ordliste over begreper
 
@@ -20,6 +27,7 @@ SEB
 Kont/konte
 II
 Matnat
+Git
 
 ### Kalender for et typisk semester
 
@@ -32,10 +40,18 @@ Slutten av november -> ekasmen
 
 ### Studieveiledere
 
-Om du lurer på noe som helst vedr studieprogresjon, instituttet eller studiet i seg selv, er studieveilederne tilgjengelige for deg! De holder til i 4. etg på insitutt for Informatikk, og bak infoskranken på Matnat.
+Om du lurer på noe som helst vedr studieprogresjon, instituttet eller studiet i seg selv, er studieveilederne tilgjengelige for deg! De holder til i 4. etg på insitutt for Informatikk, og bak infoskranken på Matnat. Ved II har vi følgende studieveiledere:
 
-For bachelorstudenter: Ida Rosenlund 
-For masterstudenter: Pål Gunnestad
+| Studieveileder                              | Område                                                |
+|---------------------------------------------|-------------------------------------------------------|
+| Ida Rosenlund ( ida.rosenlund@uib.no )      | Bachelorprogram, utveksling, innpassing               |
+| Pål Magnus Gunnestad ( pal.gunnestad@uib.no | Masterprogram, forskerutdanning (PhD)                 |
+| Mo Yan Yuen ( mo.yan.yuen@uib.no)           | Eksamen, timeplan, emneevaluering                     |
+| liljan Myhr ( liljan.myhr@uib.no )          | Gruppelederansettelser, klager på karakterfastsetting |
+
+Det er tryggest å booke time med dem på epost i forkant, men om du har et raskt spørsmål eller to, eller noe som haster, er de som regel å nå på kontoret. Du kan generelt sett spørre hvem som helst om hva som helst, og om de ikke kan svare på spørsmålet ditt, kan de alltid peke deg i retning av noen som kan! 
+
+Om du har krav på (eller kan ha krav på) tilrettelagt undervisning eller eksamen, er dette folkene å prate med. 
 
 ### Bøker
 
@@ -46,6 +62,8 @@ Sjekk ut facebookgrupper som "UiB - Børs - Kjøp/selg bøker, Billetter og anne
 Om du liker bøkene dine nye, er det også helt OK, men sjekk ut adlibris.no. Bøkene er som regel en god del billigere der enn på Akademika. Akademika finner du forøvrig på studentsenteret på Nygårshøyden om du trenger kalkulator, bøker eller annet matriell. Adlibris kan noen ganger ta litt tid, men pleier å være verdt det! Om 
 
 ### Fag
+
+Echo har en onenote (link), hvor du kan finne notater til en del fag. Notatene dekker ikke alle fag siden den ble skrevet for et par år siden, også er kvaliteten på de forskjellige notatene litt så som så. Det skader dog ikke å ta en kikk! 
 
 ### Programmeringen 
 
@@ -185,13 +203,15 @@ Call for volunteers lyses ut noen måneder før konferansene, så det er verdt �
 ### **Echo**
 
 Ved II er Echo både fagutvalg og linjeforening. Echo består av 12 demokratisk valgte studenter. Echo gjør linjeforeningsting som å arrangee fester og faglige arrangement. I tillegg har Echo et overordnet ansvar for studentsaker som angår det faglige ved instituttet. Echo jobber utelukkende med å gjøre studiehverdagen for
- informatikere bedre og er studentenes stemme opp mot instituttet, fakultetet og arbeidsmarkedet. 
+ informatikere bedre og er studentenes stemme opp mot instituttet, fakultetet og arbeidsmarkedet. Echo har primært to kommunkasjonskanaler, facebook-siden ["echo – Fagutvalget for informatikk, UiB"](https://www.facebook.com/groups/informatikk/) og nettsiden [https://echo.uib.no/](https://echo.uib.no/). Tommelfingerregelen er at alt publiseres på facebbok, mens det meste publiseres på nettsiden. Med det meste tenker jeg på ting som fester, workshops og nyheter. Bedriftspresentasjoner kommer på nettsiden først, så det er lurt å følge med på begge.
 
 Har du noe du vil ta opp? Den beste måten å få sine innspill hørt hos fagutvalget, er å bruke dette [tilbakemeldingsskjemaet](https://docs.google.com/forms/d/e/1FAIpQLSe9wayHe_uX3LZyzG0aWa5sO_LcnI_y_UVPUi0JzixYfrtLhA/viewform).
 
 Om du ønsker å ta opp uønskede hendelser, anbefaler jeg deg sterkt å bruke UiBs ["Si ifra"-system](https://www.uib.no/student/111870/si-fra-om-studentmilj%C3%B8et). Da blir sakene håndtert av studentombudet. Send det gjerne også i Echos tilbakemeldingsskjema og vis til at du også har brukt "si ifra".
 
 I begge tilbakemeldingsplattformer er det mulig å gi tilbakemeldinger anonymt. All informasjon om echo, finner du på **fagutvalget.no**
+
+Echo har også en samling funfacts på: https://echo.uib.no/visste-du-at/. Her finner du blant annet link til onenoten med en del notater på.
 
 ### Facebook grupper tilknyttet Echo
 
@@ -220,7 +240,7 @@ Ved II finnes det en faggruppe som heter **Helt Sikker**. Helt Sikker er en stud
 # TLDR; 
 
 #### Nyttige linker 
-Jetbrians: https://www.jetbrains.com/student/
+Jetbrians: https://www.jetbrains.com/student/ (Intellij, Pycharm, webstorm etc)
 Eclipe: https://www.eclipse.org/ (men bruk Intellij)
 Codingbat
 Codeacademy
