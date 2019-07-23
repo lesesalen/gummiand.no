@@ -8,7 +8,13 @@ Om du bare trenger å finne "den linken", er det en TLDR; i bunnen.
 
 ## Livet som (ny) student
 
-nito/tekna
+Her følger noen tips til studenthverdagen ved II.
+
+Fagforeninger som Nito og Tekna har studentmedlemsskap som gir deg de samme fordlene som ordentlige medlemsskap, til ca 300 kr/år. Nito har en engangsavgift, mens tekna tar 150 kr pr semester. For dette får du et utvalg gode forsikringer, lån og andre goder. Tilbudet er omtrent likt hos begge to. 
+
+Begge fagforeningene har studentlag ved UiB og HVL som arrangerer faglige kræsjkurs og kurs i ting som boligkjøp og CV-skriving. I tillegg til ting som ølsmaking og turer. De har ikke alltid de samme kræsjkursene eller foredragsholderne, så det er ikke så dumt å være med i begge. 
+
+**Har du noen tips? Tips meg gjerne** 
 
 ### Første Uka
 
@@ -31,12 +37,18 @@ Git
 
 ### Kalender for et typisk semester
 
-første uka
-1. september
+##### Høstsemesteret
+**12. august:** Semesterstart
+**1. september:** Frist for å godkjenne utdanningsplan for høstsemesteret **og** betale semesteravgift.
+**1. desember:** Hvert enkelt emnes timeplan for vårsemesteret blir publisert. I tillegg blir literaturlister (pensum) og eksamensplan publisert.  
+**9. desember:** Studentweb åpner for neste semesters registrering, men fristen er ikke før 1. februar 2020. 
 
-Høstferie
-
-Slutten av november -> ekasmen 
+Et typisk semester foregår slik: 
+- Første uka er det oppstart og fadderuke. 
+- Andre uke begynner undervisning
+- 1. sepember er frist for å semesterregistrere seg (velge fag) og betale semesteravgift. 
+- Typ midt i oktober er det høstferie. Da pleier en del forelesere også å ha forelesningsfri.
+- I slutten av november begynner eksamensperioden. Forelesninger og innleveringer pleier normalt å gå ut første uka i desember. Etter det er det eksamenslesing og ingen forelesninger resten av semesteret. Siste dato eksamen *kan* avholdes er 22. desember, men det er relativt sjelden. Når du har avlagt din siste eksamen er semesteret over. 
 
 ### Studieveiledere
 
@@ -161,6 +173,8 @@ Hvordan hvert fag fungerer blir gjerne opplyst om på **første** forelesning i 
 ### Eksamen
 
 Omtrent alle fag ved II har avsluttende eksamen som karaktergrunnlag i faget. Ofte får du gjerne 30% av sluttkarakteren fra obligene, og 70% fra eksamen. Karakterfordelingen går fra A til F, og tilsvarer karakter A=6 og F= 1 (stryk) og man trenger som regel 40% (E) på avsluttende eksamen for å stå i faget. Ved UiB har man tre forsøk på å stå et fag. Dette betyr at man normal sett kan gå opp til eksamen i et fag tre ganger, men det er mulig å søke om et fjerde forsøk om det er snakk om et obligatorisk fag. Om du skal trekke deg fra eksamen, er det smart å melde seg av på studetweb senest 14 dager før eksamensdato. På denne måten unngår du å bruke et forsøk. Du kan når som helst melde deg opp til konte-eksamen, gitt at arbeidskravene er bestått. Arbeidskrav teller ofte som bestått også ett påfølgende semester. Vi har skriftlig, muntlig og digital eksamen. Skriftlig eksamen er med penn og gjennomslagsark, muntlig eksamen er nettopp det og digital eksamen tar man ved å bruke  Insperas Safe Exam Browser (SEB). Her bruker man gjerne sin egen maskin og laster ned programvaren på forhånd. Under eksamen får du et dagspassord, også er maskinen ellers låst ned i denne perioden. Eksamensformen er avklart ved semesterstart, og ingen fag har muntlig eksamen første studieår.
+
+Ved II pleier man å ha en av to lengder på eksamen, enten tre eller fem timer. Tretimers eksamen kan avholdes enten fra 9-12 eller fra 15-18. Dette vil "settes i stein" 14 dager før eksamen, men kan svinge litt før det. Som regel pleier eksamensdato og tidspunkt å være bestemt tidlig i semesteret, mens lokalet ikke blir bestemt før eksamen nærmer seg.
 
 #### Stryk
 
