@@ -76,7 +76,9 @@ Om du liker bøkene dine nye, er det også helt OK, men sjekk ut adlibris.no. B�
 
 ### Fag
 
-Echo har en onenote (link), hvor du kan finne notater til en del fag. Notatene dekker ikke alle fag siden den ble skrevet for et par år siden, også er kvaliteten på de forskjellige notatene litt så som så. Det skader dog ikke å ta en kikk! 
+>I det daglige omtales gjerne informatikkfag som ikke er inf100, kun som nummeret. Istedenfor å hele tiden si feks "INF143", sier man gjerne bare "143". Så om noen prater om et fag uten å nevne fagkoden, er det bare å tenke "informatikkfag". Noen ganger kan det også være et matematikkfag. #fuckingMat220. Så om du er i tvil, er det bare å spørre!
+
+Echo har en onenote (link), hvor du kan finne notater til en del fag. Notatene dekker ikke alle fag siden den ble skrevet for et par år siden, også er kvaliteten på de forskjellige notatene litt så som så. Det skader dog ikke å ta en kikk!
 
 ### Programmeringen 
 
