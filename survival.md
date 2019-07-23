@@ -34,14 +34,15 @@ Kont/konte
 II
 Matnat
 Git
+IDE
 
 ### Kalender for et typisk semester
 
 ##### Høstsemesteret
-**12. august:** Semesterstart
-**1. september:** Frist for å godkjenne utdanningsplan for høstsemesteret **og** betale semesteravgift.
-**1. desember:** Hvert enkelt emnes timeplan for vårsemesteret blir publisert. I tillegg blir literaturlister (pensum) og eksamensplan publisert.  
-**9. desember:** Studentweb åpner for neste semesters registrering, men fristen er ikke før 1. februar 2020. 
+**12. august:** Semesterstart <br>
+**1. september:** Frist for å godkjenne utdanningsplan for høstsemesteret **og** betale semesteravgift. <br>
+**1. desember:** Hvert enkelt emnes timeplan for vårsemesteret blir publisert. I tillegg blir literaturlister (pensum) og eksamensplan publisert. <br> 
+**9. desember:** Studentweb åpner for neste semesters registrering, men fristen er ikke før 1. februar 2020. <br>
 
 Et typisk semester foregår slik: 
 - Første uka er det oppstart og fadderuke. 
@@ -103,7 +104,7 @@ Codeacademy.com har kurs for mange programmeringsspråk (Feks. Python). Ikke all
 
 Når man programmerer har man gjerne to typer verktøy. Enten en IDE eller en editor. En IDE er et program som man bruker til å programmere; her får man gjerne vertøy som syntax highlighting, advarsler og kompilatorer. I INF100 bruker du kanskje Jupiter til alle oppgaver og innleveringer, men til senere vil du innstallere en egen IDE.
 
-De (sannsynligvis) beste IDEene utvikles av Jetbrians. Jetbrains har IDEs for flere språk. Mest aktuelt for nye studenter er gjerne Intellij for Java, og Pycharm for python. På deres sider, kan man laste ned community editions gratis, eller registrere seg som student. Da bruker du uib-eposten din og får proffesional-versjonen gratis. Begge deler er fullverdige utviklingsmiljø for studenter, men ultimate utgaven har flere features. [Jetbrains](https://www.jetbrains.com/student/)
+De (sannsynligvis) beste IDEene utvikles av Jetbrians. [Jetbrains](https://www.jetbrains.com/student/) har IDE-er for flere språk. Mest aktuelt for nye studenter er gjerne Intellij for Java, og Pycharm for python. På deres sider, kan man laste ned community editions gratis, eller registrere seg som student. Da bruker du uib-eposten din og får proffesional-versjonen gratis. Begge deler er fullverdige utviklingsmiljø for studenter, men ultimate utgaven har flere features. 
 
 Eclipse er en annen populær IDE for Java. Denne er gratis for alle. Personlig foretrekker jeg Intellij. Bruk Intellij.
 
@@ -254,9 +255,9 @@ Ved II finnes det en faggruppe som heter **Helt Sikker**. Helt Sikker er en stud
 # TLDR; 
 
 #### Nyttige linker 
-Jetbrians: https://www.jetbrains.com/student/ (Intellij, Pycharm, webstorm etc)
-Eclipe: https://www.eclipse.org/ (men bruk Intellij)
-Codingbat
-Codeacademy
-Kattis
-github student pack: https://education.github.com/pack
+Jetbrians: https://www.jetbrains.com/student/ (Intellij, Pycharm, webstorm etc)  
+Eclipe: https://www.eclipse.org/ (men bruk Intellij)  
+Codingbat  
+Codeacademy  
+Kattis  
+github student pack: https://education.github.com/pack  
