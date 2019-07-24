@@ -1,6 +1,6 @@
 # II Survival guide: "Det alle vet, men ingen forteller deg"
 
-Som ny student er det mange ting du må få oversikt over, og overgangen fra vgs til universitet er for mange utfordrende. Nå er det ditt eget ansvar å holde oversikt over forelesninger, innleveringer og å lese til eksamen. I tillegg skal du håndtere et tonn med informasjon og samtidig kose deg i studietiden. Dette er en survival guide for deg som går ditt første år som informatikkstudent.
+Som ny student er det mange ting du må få oversikt over, og overgangen fra vgs til universitet er for mange utfordrende. Nå er det ditt eget ansvar å holde oversikt over forelesninger, innleveringer og lese til eksamen. I tillegg skal du håndtere et tonn med informasjon og samtidig kose deg i studietiden. Dette er en survival guide for deg som går ditt første år som informatikkstudent.
 
 >Disclaimer: Denne guiden reflekterer i stor grad mine personlige synspunkt og meninger, og representerer hverken Echo, Helt Sikker eller UiB.
 
