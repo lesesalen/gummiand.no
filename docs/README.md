@@ -345,7 +345,7 @@ Bedriftskomiteen arrangerer 8-12 bedriftspresentasjoner i semesteret. Her kommer
 
 Tid/Sted: Torsdager (som regel), etter kl 16.15 på Høyteknologisenteret
 
-Påmelding: Publiseres på facebook og fagutvalget klokken 12, en uke i forkant. merk: dette gjelder uansett hvilken dag bedriftspresentasjonen er.
+Påmelding: Publiseres på Echos offisielle kommuniksjonskanaler (echo.uib.no og facebook) klokken 12, en uke i forkant. merk: dette gjelder uansett hvilken dag bedriftspresentasjonen er.
 
 Ikke alle bedriftspresentasjoner er åpne for alle årstrinn. Hvilke trinn den aktuelle bedriftspresentasjonen er åpen for vil informeres i selve posten og på skjemaet. Om du lyver om årstrinnet ditt under en bedpress, kommer du til å bli utestengt fra samtlige bedriftspresentasjoner i et skoleår.
 
