@@ -209,7 +209,9 @@ Ved II pleier man å ha en av to lengder på eksamen, enten tre eller fem timer.
 
 #### Stryk
 
-Om du skulle stryke et fag, stopper ikke studieprogresjonen din, men om det er et obligatorisk fag for graden, må dette faget være bestått innen du er ferdig. Du kan fritt melde deg til påfølgende konteeksamen. Om man skulle stryke feks INF142 som går på våren, er konten ofte i midten av september. Og tilsvarende februar/mars for fag som går på høsten. **Unntaket** til denne regelen er fag som går (undervises) både høst og vår, som **MAT111**. Da er det ikke tidlig eksamen, men ordinær eksamen påfølende semester. Så lenge det er plass i faget, kan du når som helst ta et fag på nytt, så lenge du ikke har brukt tre forsøk.
+Om du skulle stryke et fag, stopper ikke studieprogresjonen din, men om det er et obligatorisk fag for graden, må dette faget være bestått innen du er ferdig. Du kan fritt melde deg til påfølgende konteeksamen. Om man skulle stryke feks INF142 som går på våren, er konten ofte i midten av september. Og tilsvarende februar/mars for fag som går på høsten. **Unntaket** til denne regelen er fag som går (undervises) både høst og vår, som **DAT103**. Da er det ikke tidlig eksamen, men ordinær eksamen påfølende semester. Så lenge det er plass i faget kan du når som helst ta et fag på nytt, så lenge du ikke har brukt tre forsøk.
+
+MAT111 har tidlig eksamen for studenter med [**gyldig fravær**](https://www.uib.no/student/108981/rett-til-ny-vurdering). Siden dette faget går høst og vår, er det ellers ikke tidlig eksamen. Om du stryker eller vil melde deg til eksamen på nytt, vil denne være i den ordinære eksamensperioden (midten av mai til midten av juni).
 
 ## Lesesaler og grupperom
 
