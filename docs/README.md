@@ -46,10 +46,11 @@ Kontaktinfo til studieveiledere finner du [her](#studieveiledere).
 Alle bedriftspresentasjoner legges ut på echo.uib.no og Echos offisiele facebookgruppe ca kl.12, en uke før bedriftspresentasjonens dato.
 Echo har en [kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
 
-[WolframAlpha](https://www.wolframalpha.com/) er et powerhouse av en kalkulator.
+Nyttige lenker:
 
 - github student pack: https://education.github.com/pack  
 - Khanacademy: https://nb.khanacademy.org/
+- Wolfram Alpha: https://www.wolframalpha.com/
   
 IDEs:
 
