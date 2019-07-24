@@ -287,7 +287,7 @@ Call for volunteers lyses ut noen måneder før konferansene, så det er verdt �
 ### **Echo**
 
 Ved II er Echo både fagutvalg og linjeforening. Echo består av 12 demokratisk valgte studenter. Echo gjør linjeforeningsting som å arrangee fester og faglige arrangement. I tillegg har Echo et overordnet ansvar for studentsaker som angår det faglige ved instituttet. Echo jobber utelukkende med å gjøre studiehverdagen for
- informatikere bedre og er studentenes stemme opp mot instituttet, fakultetet og arbeidsmarkedet. Echo har primært to kommunkasjonskanaler, facebook-siden ["echo – Fagutvalget for informatikk, UiB"](https://www.facebook.com/groups/informatikk/) og nettsiden [https://echo.uib.no/](https://echo.uib.no/). Tommelfingerregelen er at alt publiseres på facebook, mens det meste publiseres på nettsiden. Med det meste tenker jeg på ting som fester, workshops og nyheter. Bedriftspresentasjoner kommer på nettsiden først, så det er lurt å følge med på begge.
+ informatikere bedre og er studentenes stemme opp mot instituttet, fakultetet og arbeidsmarkedet. Echo har primært to kommunkasjonskanaler, facebook-siden ["echo – Fagutvalget for informatikk, UiB"](https://www.facebook.com/groups/informatikk/) og nettsiden [https://echo.uib.no/](https://echo.uib.no/). Tommelfingerregelen er at alt publiseres på facebook, mens det meste publiseres på nettsiden. Med det meste tenker jeg på ting som fester, workshops og nyheter. Bedriftspresentasjoner kommer på nettsiden først, så det er lurt å følge med på begge. Arrangementer i regi av echo er også å finne i [Echos kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
 
 Har du noe du vil ta opp? Den beste måten å få sine innspill hørt hos fagutvalget, er å bruke dette [tilbakemeldingsskjemaet](https://docs.google.com/forms/d/e/1FAIpQLSe9wayHe_uX3LZyzG0aWa5sO_LcnI_y_UVPUi0JzixYfrtLhA/viewform).
 
@@ -325,11 +325,18 @@ Ved II finnes det en faggruppe som heter **Helt Sikker**. Helt Sikker er en stud
 
 # TLDR; 
 
+Matnat har en [sjekkliste for studiestart](https://www.uib.no/student/127911/sjekkliste-i-studiestarten).
 
-Jetbrians: https://www.jetbrains.com/student/ (Intellij, Pycharm, webstorm etc)  
-Eclipe: https://www.eclipse.org/ (men bruk Intellij)  
-Codingbat  
-Codeacademy  
-Kattis  
-github student pack: https://education.github.com/pack  
- 
+Kontaktinfo til studieveiledere finner du [her](#Studieveiledere).
+Alle bedriftspresentasjoner legges ut på echo.uib.no ca kl.12, en uke før bedriftspresentasjonens dato. 
+Echo har en [kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
+
+Andre nyttige linker:
+
+- github student pack: https://education.github.com/pack  
+- Khanacademy: https://nb.khanacademy.org/
+- Jetbrians: https://www.jetbrains.com/student/ (Intellij, Pycharm, webstorm etc)  
+- Eclipe: https://www.eclipse.org/ (men bruk Intellij)  
+- Codingbat: https://codingbat.com/python
+- Codeacademy: https://www.codecademy.com/  
+- Kattis: https://open.kattis.com/ 
