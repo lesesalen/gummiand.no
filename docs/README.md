@@ -15,6 +15,7 @@ Innholdsfortegnelse:
     - [Studieveiledere](#studieveiledere)
     - [Bøker](#bøker)
     - [Fag](#fag)
+    - [Valg av PC](#valg-av-pc)
     - [Programmeringen](#programmeringen)
       - [Om Programmering](#om-Programmering)
       - [IDEs og Editors](#ides-og-editors)
@@ -116,16 +117,18 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 | Tech-ord                      | Forklaring                                                                             |
 |-------------------------------|----------------------------------------------------------------------------------------|
 | Git                           | Versjonskontroll-teknologi. Bransjestandard.                                           |
-| IDE                           | "Integrated Development Environment". Program man bruker til å programmere             |
-| TLDR;                         | "Too long, didn´t read"                                                                |
-| CTF                           | "Capture the flag". Type hackerkonkurranse                                             |
-| Open source                   | Kildekode som er offentlig tilgjengelig for alle. Motsatt av closed source             |
 | Versjonskontroll              | System for å lagre flere versjoner av filer                                            |
+| IDE                           | "Integrated Development Environment". Program man bruker til å programmere             |
+| Open source                   | Kildekode som er offentlig tilgjengelig for alle. Motsatt av closed source             |
+| bugs                          | Små og større feil i programvare. Som regel ikke-kritisk.                              |
 | debugging                     | Feilsøking og fiksing i kode                                                           |
 | stackoverflow                 | Populær nettside for å finne svar på programmeringsproblemer                           |
 | Frontend/backend              | Frontend: "Det brukeren ser". Backend "server-programvare og logikk brukeren ikke ser" |
 | Funksjonelt/ Objektsorientert | Programmeringsparadigmer. Funksjonelt: Rust/Haskell, Objektsorientert: Java            |
-| bugs                          | Små og større feil i programvare. Som regel ikke-kritisk.                              |
+| CTF                           | "Capture the flag". Type hackerkonkurranse                                             |
+| TLDR;                         | "Too long, didn´t read"                                                                |
+| Linux                         | "Type operativsystem", alternativt til Windows og OSX                                  |
+
 
 ### Kalender for et typisk høstsemester
 
@@ -172,6 +175,11 @@ Første semester har man INF100, MAT111 og ex.phil. Semesteret etter har man INF
 >I det daglige omtales gjerne informatikkfag som ikke er inf100, kun som nummeret. Istedenfor å hele tiden si feks "INF143", sier man gjerne bare "143". Så om noen prater om et fag uten å nevne fagkoden, er det bare å tenke "informatikkfag". Noen ganger kan det også være et matematikkfag, som har unike fagkoder (feks mat220). Så om du er i tvil, er det bare å spørre!
 
 Echo har en onenote (link), hvor du kan finne notater til en del fag. Notatene dekker ikke alle fag siden den ble skrevet for et par år siden, også er kvaliteten på de forskjellige notatene litt så som så, men sjekk den ut!
+
+### Valg av PC
+Det er ofte mye usikkerhet når det kommer til hvilken PC og operativsystem en skal velge. På informatikkstudiet bruker omtrent like mange Windows som OSX som en eller annen Linuxdistro. Det eneste som er verdt å merke seg er at eksamensprogramvaren ikke er Linuxkompatibelt og krever en lånepc (se [eksamen](#eksamen)). 
+
+Om du skal velge PC ut fra et kriterie, burde det (etter min mening) være Ram (minne). Velg 16GB, så har du nok til å kjøre virtuelle maskiner også. 
 
 ### Programmeringen
 
@@ -232,7 +240,7 @@ Khanacademy.com er en helt gratis nettside som har supre kurs i matematikk, kjem
 
 ### Orakeltjeneste
 
-Instituttet har sin egen orakeltjeneste. Et par timer, to ganger i uka står en gruppe eldre studenter på kjøkkenet på lesesalen, for å svare på spørsmål. De har grønne gensere og fagkoder på ryggen som viser hvilke fag de er mest komfortable med å bistå i. Man kan generelt spørre hvem som helst på lesesalen, om de ikke kan svare på spørsmålet, kjenner de garantert noen som kan! 
+Instituttet har sin egen orakeltjeneste. Et par timer, to ganger i uka står en gruppe eldre studenter på kjøkkenet på lesesalen, for å svare på spørsmål. De har røde gensere og fagkoder på ryggen som viser hvilke fag de er mest komfortable med å bistå i. Man kan generelt spørre hvem som helst på lesesalen, om de ikke kan svare på spørsmålet, kjenner de garantert noen som kan! 
 
 Hver torsdag fra 13-15 steker de vafler, så de kan gjerne kjennes igjen på lukta. Vaflene er helt gratis og for alle, så man trenger virkelig ikke stille spørsmål for å kvalifisere til en vaffel.
 
