@@ -109,7 +109,7 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 | Administrasjonsbygget | Eksamenslokale i Solheimsgaten på Danmarksplass                       |
 | Høyskolen/HVL         | Høyskolen på Vestlandet. Ligger ved Kronstad bybanestopp              |
 
-
+&nbsp;
 
 | Tech-ord                      | Forklaring                                                                             |
 |-------------------------------|----------------------------------------------------------------------------------------|
