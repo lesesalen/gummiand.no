@@ -14,9 +14,9 @@ Fagforeninger som Nito og Tekna har studentmedlemsskap som gir deg de samme ford
 
 Begge fagforeningene har studentlag ved UiB og HVL som arrangerer faglige kræsjkurs og kurs i ting som boligkjøp og CV-skriving. I tillegg til ting som ølsmaking og turer. De har ikke alltid de samme kræsjkursene eller foredragsholderne, så det er ikke dumt å være med i begge. 
 
-Spotify har studentrabatt. 
+Spotify har studentrabatt.
 
-Om du har lærevansker som dysleksi og dyskalkuli kan du ha prav på ekstra stipend.
+Elever og studenter i høyere og annen utdanning som ikke kan jobbe ved siden av utdanningen på grunn av nedsatt funksjonsevne, kan få et ekstrastipend. Ekstrastipendet på 3 763 kroner per måned kommer i tillegg til vanlig studiestøtte fra Lånekassen. Dersom du er deltidsstudent, blir ekstrastipendet redusert tilsvarende deltidsprosenten din. Du finner mer informasjon på [lånekassens sider](https://www.lanekassen.no/nb-NO/Stipend-og-lan/Hoyere-utdanning/Hvor-mye-kan-du-fa/Nye-stotteordninger-for-elever-og-studenter-med-nedsatt-funksjonsevne/Ekstra-stipend-/)
 
 **Har du noen tips?** 
 
