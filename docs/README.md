@@ -8,7 +8,6 @@ Om du bare trenger å finne "den linken", er det en TLDR; i bunnen.
 
 ## Livet som (ny) student
 
-
 Her følger noen tips til studenthverdagen ved II.
 
 Fagforeninger som Nito og Tekna har studentmedlemsskap som gir deg de samme fordlene som ordentlige medlemsskap, til ca 300 kr/år. Nito har en engangsavgift, mens tekna tar 150 kr pr semester. For dette får du et utvalg gode forsikringer, lån og andre goder. Tilbudet er omtrent likt hos begge to. 
@@ -34,35 +33,43 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 
 ### Ordliste og nyttige begreper
 
-Mitt UiB
-SEB
-Kont/konte
-II
-Matnat
-Git
-IDE
-TLDR;
-CTF
-FU
-Git
-Open Source
-Versjonskontroll
-debugging
-
-Steder
-
-RFB
-Høytek
-Vilvite
-Allegaten
-Biblioteket
-Høyskolen/HVL 
-
 Stack(overflow), Multithreading, Frontend/backend, Funksjonellt/OO, Dependency,pakker/biblotek. Mulig du vil forklare noen av dem
+
+| UiB-ord               | Forklaring                                                            |
+|-----------------------|-----------------------------------------------------------------------|
+| Mitt UiB              | UiB sitt internsystem for fag, kommunikasjon, innleveringer etc       |
+| SEB                   | Forkortelse for Safe Exam Browser                                     |
+| Sebra                 | Sebra.uib.no: Her oppretter du studentkonto og endrer passord         |
+| Kont/Konte            | Nytt eksamensforsøk, normalt tidlig eksamen for studenter som stryker |
+| II                    | Insitutt for informatikk                                              |
+| Matnat                | Matematisk-Naturvitenskapelig fakultet                                |
+| FU                    | Kort for "Fagutvalget", som er Echos tidligere navn                   |
+| RFB                   | Realfagsbygget. Se "matnat"                                           |
+| Høytek                | Høyteknologisenteret. Thormøhlensgt 55                                |
+| Vilvite               | Undervisningslokaler i nabobygget (som er Vitensenteret)              |
+| Allegaten             | Undervisningslokale ved Matnat                                        |
+| Administrasjonsbygget | Eksamenslokale i Solheimsgaten på Danmarksplass                       |
+| Høyskolen/HVL         | Høyskolen på Vestlandet. Ligger ved Kronstad bybanestopp              |
+
+
+| Tech-ord                      | Forklaring                                                                             |
+|-------------------------------|----------------------------------------------------------------------------------------|
+| Git                           | Versjonskontroll-teknologi. Bransjestandard.                                           |
+| IDE                           | "Integrated Development Environment". Program man bruker til å programmere             |
+| TLDR;                         | "Too long, didn´t read"                                                                |
+| CTF                           | "Capture the flag". Type hackerkonkurranse                                             |
+| Open source                   | Kildekode som er offentlig tilgjengelig for alle. Motsatt av closed source             |
+| Versjonskontroll              | System for å lagre flere versjoner av filer                                            |
+| debugging                     | Feilsøking og fiksing i kode                                                           |
+| stackoverflow                 | Populær nettside for å finne svar på programmeringsproblemer                           |
+| Frontend/backend              | Frontend: "Det brukeren ser". Backend "server-programvare og logikk brukeren ikke ser" |
+| Funksjonelt/ Objektsorientert | Programmeringsparadigmer. Funksjonelt: Rust/Haskell, Objektsorientert: Java            |
+| bugs                          | Små og større feil i programvare. Som regel ikke-kritisk.                              |
 
 ### Kalender for et typisk semester
 
 ##### Høstsemesteret
+
 **12. august:** Semesterstart <br>
 **1. september:** Frist for å godkjenne utdanningsplan for høstsemesteret **og** betale semesteravgift. <br>
 **1. desember:** Hvert enkelt emnes timeplan for vårsemesteret blir publisert. I tillegg blir literaturlister (pensum) og eksamensplan publisert. <br> 
@@ -103,12 +110,11 @@ Om du liker bøkene dine nye, er det også helt OK, men sjekk ut adlibris.no. B�
 
 Første semester har man INF100, MAT111 og ex.phil. Semesteret etter har man INF101, MNF130 og et linjespesifikk fag.
 
-
 >I det daglige omtales gjerne informatikkfag som ikke er inf100, kun som nummeret. Istedenfor å hele tiden si feks "INF143", sier man gjerne bare "143". Så om noen prater om et fag uten å nevne fagkoden, er det bare å tenke "informatikkfag". Noen ganger kan det også være et matematikkfag, som har unike fagkoder (feks mat220). Så om du er i tvil, er det bare å spørre!
 
 Echo har en onenote (link), hvor du kan finne notater til en del fag. Notatene dekker ikke alle fag siden den ble skrevet for et par år siden, også er kvaliteten på de forskjellige notatene litt så som så, men sjekk den ut!
 
-### Programmeringen 
+### Programmeringen
 
 >Å lære seg programmering er som å lære å lese på nytt
 
