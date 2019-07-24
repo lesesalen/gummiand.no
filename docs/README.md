@@ -33,8 +33,6 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 
 ### Ordliste og nyttige begreper
 
-Stack(overflow), Multithreading, Frontend/backend, Funksjonellt/OO, Dependency,pakker/biblotek. Mulig du vil forklare noen av dem
-
 | UiB-ord               | Forklaring                                                            |
 |-----------------------|-----------------------------------------------------------------------|
 | Mitt UiB              | UiB sitt internsystem for fag, kommunikasjon, innleveringer etc       |
