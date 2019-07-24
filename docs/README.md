@@ -148,7 +148,7 @@ På github skiller man gjerne mellom public og private repositories. Et offenlig
 
 Men frykt ikke. Det finnes håp!
 
-**Github student pack** 
+#### Github student pack
 Ved å registrere studentkontoen din, kan du få masse snacks gratis [her](https://education.github.com/pack). Dette inkluderer gratis github, bootstrap studio, gitkraken (for de som liker grafiske grensesnitt), jetbrains lisenser, heroku for hosting, og mye mer.
 
 Første semester gjøres det meste av kodingen i Jupiter, så det er ikke nødvendig å stresse seg med å lære seg alt med en gang. Men det er kjekt å vite at disse tingene eksisterer, når det blir aktuelt!
@@ -171,7 +171,7 @@ Hver torsdag fra 13-15 steker de vafler, så de kan gjerne kjennes igjen på luk
 
 >Protip: Om noen steker vafler på lesesalen, blir de sannsynligvis lønnet av universitetet for å svare på spørsmål. Det betyr at ingen spørsmål er for dumme! 
 
-## Forelesninger, Innleveringer og Eksamen
+## Forelesninger, innleveringer og eksamen
 
 ### Forelesninger
 
@@ -205,7 +205,7 @@ Hvordan hvert fag fungerer blir gjerne opplyst om på **første** forelesning i 
 
 Omtrent alle fag ved II har avsluttende eksamen som karaktergrunnlag i faget. Ofte får du gjerne 30% av sluttkarakteren fra obligene, og 70% fra eksamen. Karakterfordelingen går fra A til F, og tilsvarer karakter A=6 og F= 1 (stryk) og man trenger som regel 40% (E) på avsluttende eksamen for å stå i faget. Ved UiB har man tre forsøk på å stå et fag. Dette betyr at man normal sett kan gå opp til eksamen i et fag tre ganger, men det er mulig å søke om et fjerde forsøk om det er snakk om et obligatorisk fag. Om du skal trekke deg fra eksamen, er det smart å melde seg av på studetweb senest 14 dager før eksamensdato. På denne måten unngår du å bruke et forsøk. Du kan når som helst melde deg opp til konte-eksamen, gitt at arbeidskravene er bestått. Arbeidskrav teller ofte som bestått også ett påfølgende semester. Vi har skriftlig, muntlig og digital eksamen. Skriftlig eksamen er med penn og gjennomslagsark, muntlig eksamen er nettopp det og digital eksamen tar man ved å bruke  Insperas Safe Exam Browser (SEB). Her bruker man gjerne sin egen maskin og laster ned programvaren på forhånd. SEB kjører kun på Windows og OSX, og kan ikke kjøres i en VM. UiB har lånepc-er tilgjengelig under eksamen som du kan bruke om du feks kun har linux, men dette må bestilles på forhånd. Under eksamen får du et dagspassord, også er maskinen ellers låst ned i denne perioden. Eksamensformen er avklart ved semesterstart, og ingen fag har muntlig eksamen første studieår.
 
-Ved II pleier man å ha en av to lengder på eksamen, enten tre eller fem timer. Tretimers eksamen kan avholdes enten fra 9-12 eller fra 15-18. Dette vil "settes i stein" 14 dager før eksamen, men kan svinge litt før det. Som regel pleier eksamensdato og tidspunkt å være bestemt tidlig i semesteret, mens lokalet ikke blir bestemt før eksamen nærmer seg.
+Ved II pleier man å ha en av to lengder på eksamen, enten tre eller fem timer. Tretimers eksamen kan avholdes enten fra 9-12 eller fra 15-18. Dette vil "settes i stein" 14 dager før eksamen, men kan svinge litt før det. Eksamensdato er bestemt ved semesterstart, mens tid go sted ofte kommer senere. Femtimers eksamen er alltid 9-14.
 
 #### Stryk
 
@@ -221,7 +221,7 @@ Matnat har dog et stort bibliotek og et fantastisk læringssenter, i tillegg til
 
 ### Institutt for informatikk
 
-Informatikklesesalen i datablokka, også kjent som "lesesalen" blant informatikkstudenter, er en lesesal med store gruppebord. Her er det kjøkken med (gratis) kaffe, kjøleskap, brødrister og mikro. Denne er åpen for alle informatikkstudenter og er "vårt eget territorie". Den administreres i sin helhet av fagutvalget, og er døgnåpen. Dette er ikke en stille lesesal i den forstand at det er lov å prate sammen og samarbeide. Her er terskelen også veldig lav for å få hjelp. Husk å bruke innestemme.  Det er også lov å bare komme for å henge og drikke kaffe. Informatikkfestene pleier også å arrangeres her. Kjøkkenet kan for mange være skummelt da det ofte sitter eldre studenter i sofaen. De aller færreste biter, og om du sier hei først, kommer de garantert til å si hei tilbake!
+Informatikklesesalen i datablokka, også kjent som "lesesalen" blant informatikkstudenter, er en lesesal med store gruppebord. Her er det kjøkken med (gratis) kaffe, kjøleskap, brødrister og mikro. Denne er åpen for alle informatikkstudenter og er "vårt eget territorie". Denne administreres i sin helhet av Echo, og er døgnåpen. Dette er ikke en stille lesesal i den forstand at det er lov å prate sammen og samarbeide. Her er terskelen også veldig lav for å få hjelp. Husk å bruke innestemme.  Det er også lov å bare komme for å henge og drikke kaffe. Informatikkfestene pleier også å arrangeres her. Kjøkkenet kan for mange være skummelt da det ofte sitter eldre studenter i sofaen. De aller færreste biter, og om du sier hei først, kommer de garantert til å si hei tilbake!
 
 I 2. etg. om du holder hardt venstre etter trappen, er det også et mindre stillerom. Dette er en stille leseslal med skillevegger mellom bordene. Denne er åpen mellom 8 og 17 på hverdager. Det finnes også et par kollokvieøyer og en håndfull grupperom i andre etg + ellers i bygget. Når disse ikke brukes til undervisning kan de bookes her: https://www.uib.no/foransatte/90989/rombestilling
 
@@ -252,13 +252,15 @@ Call for volunteers lyses ut noen måneder før konferansene, så det er verdt �
 ### **Echo**
 
 Ved II er Echo både fagutvalg og linjeforening. Echo består av 12 demokratisk valgte studenter. Echo gjør linjeforeningsting som å arrangee fester og faglige arrangement. I tillegg har Echo et overordnet ansvar for studentsaker som angår det faglige ved instituttet. Echo jobber utelukkende med å gjøre studiehverdagen for
- informatikere bedre og er studentenes stemme opp mot instituttet, fakultetet og arbeidsmarkedet. Echo har primært to kommunkasjonskanaler, facebook-siden ["echo – Fagutvalget for informatikk, UiB"](https://www.facebook.com/groups/informatikk/) og nettsiden [https://echo.uib.no/](https://echo.uib.no/). Tommelfingerregelen er at alt publiseres på facebbok, mens det meste publiseres på nettsiden. Med det meste tenker jeg på ting som fester, workshops og nyheter. Bedriftspresentasjoner kommer på nettsiden først, så det er lurt å følge med på begge.
+ informatikere bedre og er studentenes stemme opp mot instituttet, fakultetet og arbeidsmarkedet. Echo har primært to kommunkasjonskanaler, facebook-siden ["echo – Fagutvalget for informatikk, UiB"](https://www.facebook.com/groups/informatikk/) og nettsiden [https://echo.uib.no/](https://echo.uib.no/). Tommelfingerregelen er at alt publiseres på facebook, mens det meste publiseres på nettsiden. Med det meste tenker jeg på ting som fester, workshops og nyheter. Bedriftspresentasjoner kommer på nettsiden først, så det er lurt å følge med på begge.
 
 Har du noe du vil ta opp? Den beste måten å få sine innspill hørt hos fagutvalget, er å bruke dette [tilbakemeldingsskjemaet](https://docs.google.com/forms/d/e/1FAIpQLSe9wayHe_uX3LZyzG0aWa5sO_LcnI_y_UVPUi0JzixYfrtLhA/viewform).
 
-Om du ønsker å ta opp uønskede hendelser, burde du derimot bruke UiBs ["Si ifra"-system](https://www.uib.no/student/111870/si-fra-om-studentmilj%C3%B8et). Da blir sakene håndtert av studentombudet. Send det gjerne også i Echos tilbakemeldingsskjema og vis til at du også har brukt "si ifra".
+Om du ønsker å ta opp uønskede hendelser, burde du derimot bruke UiBs ["Si ifra"-system](https://www.uib.no/student/111870/si-fra-om-studentmilj%C3%B8et). Da blir sakene håndtert av studentombudet. Send det gjerne også i Echos tilbakemeldingsskjema og vis til at du også har brukt "si ifra". Det er større sannsynlighet for at hendelsen tas på alvor dersom man informerer de ulike instansene om at hendelsen er rapportert inn til flere. 
 
-I begge tilbakemeldingsplattformer er det mulig å gi tilbakemeldinger anonymt. All informasjon om echo, finner du på **echo.uib.no**
+**Om det er snakk om lovbrudd, skal man snakke naturligvis snakke med politiet. Politiet kan nås på 02800 eller nødnummer 112.**
+
+I begge tilbakemeldingsplatformer er det mulig å gi tilbakemeldinger anonymt. All informasjon om echo, finner du på **echo.uib.no**
 
 Echo har også en samling funfacts på: https://echo.uib.no/visste-du-at/. Her finner du blant annet link til onenoten med en del notater på.
 
