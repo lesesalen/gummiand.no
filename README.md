@@ -1,5 +1,3 @@
 # II Survival-guide
 
-Survival guide for førsteklassinger ved II. 
-
-Les den her: https://mtverraen.github.io/Informatikk-UiB-survival-guide/
+Survival guide for førsteklassinger ved II. Guiden finner du i sin helhet på gummiand.no!
