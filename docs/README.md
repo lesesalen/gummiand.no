@@ -45,24 +45,25 @@ Matnat har en [sjekkliste for studiestart](https://www.uib.no/student/127911/sje
 Kontaktinfo til studieveiledere finner du [her](#studieveiledere).
 Alle bedriftspresentasjoner legges ut på echo.uib.no og Echos offisiele facebookgruppe ca kl.12, en uke før bedriftspresentasjonens dato.
 Echo har en [kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
+Booking av grupperom: [https://www.uib.no/foransatte/90989/rombestilling](https://www.uib.no/foransatte/90989/rombestilling)
 
 Nyttige lenker:
 
-- github student pack: https://education.github.com/pack  
-- Khanacademy: https://nb.khanacademy.org/
-- Wolfram Alpha: https://www.wolframalpha.com/
+- github student pack: [https://education.github.com/pack](https://education.github.com/pack)
+- Khanacademy: [https://nb.khanacademy.org/](https://nb.khanacademy.org/)
+- Wolfram Alpha: [https://www.wolframalpha.com/](https://www.wolframalpha.com/)
   
 IDEs:
 
-- Jetbrians: https://www.jetbrains.com/student/ (Intellij, Pycharm, webstorm etc)  
-- Eclipse: https://www.eclipse.org/ (men bruk Intellij)  
+- Jetbrians: [https://www.jetbrains.com/student/](https://www.jetbrains.com/student/) (Intellij, Pycharm, webstorm etc)  
+- Eclipse: [https://www.eclipse.org/](https://www.eclipse.org/) (men bruk Intellij)  
   
 Programmeringssider:
 
-- Codingbat: https://codingbat.com/python
-- Codeacademy: https://www.codecademy.com/  
-- Kattis: https://open.kattis.com/ 
-- hackerrank: https://www.hackerrank.com/
+- Codingbat: [https://codingbat.com/python](https://codingbat.com/python)
+- Codeacademy: [https://www.codecademy.com/](https://www.codecademy.com/)  
+- Kattis: [https://open.kattis.com/](https://open.kattis.com/ )
+- hackerrank: [https://www.hackerrank.com/](https://www.hackerrank.com/)
 
 
 ## Livet som (ny) student
@@ -289,13 +290,13 @@ Matnat har dog et stort bibliotek og et fantastisk læringssenter, i tillegg til
 
 Informatikklesesalen i datablokka, også kjent som "lesesalen" blant informatikkstudenter, er en lesesal med store gruppebord. Her er det kjøkken med (gratis) kaffe, kjøleskap, brødrister og mikro. Denne er åpen for alle informatikkstudenter og er "vårt eget territorie". Denne administreres i sin helhet av Echo, og er døgnåpen. Dette er ikke en stille lesesal i den forstand at det er lov å prate sammen og samarbeide. Her er terskelen også veldig lav for å få hjelp. Husk å bruke innestemme.  Det er også lov å bare komme for å henge og drikke kaffe. Informatikkfestene pleier også å arrangeres her. Kjøkkenet kan for mange være skummelt da det ofte sitter eldre studenter i sofaen. De aller færreste biter, og om du sier hei først, kommer de garantert til å si hei tilbake!
 
-I 2. etg. om du holder hardt venstre etter trappen, er det også et mindre stillerom. Dette er en stille leseslal med skillevegger mellom bordene. Denne er åpen mellom 8 og 17 på hverdager. Det finnes også et par kollokvieøyer og en håndfull grupperom i andre etg + ellers i bygget. Når disse ikke brukes til undervisning kan de bookes her: https://www.uib.no/foransatte/90989/rombestilling
+I 2. etg. om du holder hardt venstre etter trappen, er det også et mindre stillerom. Dette er en stille leseslal med skillevegger mellom bordene. Denne er åpen mellom 8 og 17 på hverdager. Det finnes også et par kollokvieøyer og en håndfull grupperom i andre etg + ellers i bygget. Når disse ikke brukes til undervisning kan de bookes her: [https://www.uib.no/foransatte/90989/rombestilling](https://www.uib.no/foransatte/90989/rombestilling)
 
 ## Studentgrupper og dette med å engasjere seg sosialt
 
-Frivillig engasjement er en fantastisk måte å bli kjent med andre likesinnede studenter, få litt faglig påfyll og bygge nettverk. Mange studenter oppdager for sent at de gjerne skulle hatt et verv eller to på CV-en. 
+Frivillig engasjement er en fantastisk måte å bli kjent med andre likesinnede studenter, få litt faglig påfyll og bygge nettverk. Mange studenter oppdager for sent at de gjerne skulle hatt et verv eller to på CV-en.
 
-Engasjer deg! Her er det bare fordeler :) 
+Engasjer deg! Her er det bare fordeler :)
 
 Om du ønsker å arrangere noe for studentene og trenger penger, har Echo et eget søknadsskjema for dette. Det finner du [her](https://docs.google.com/forms/d/e/1FAIpQLSdf8jZhB_yKxEJEa461GmXz3JsdxqMoJLilQ49ZRlnqJw8ayg/viewform)
 
@@ -303,7 +304,7 @@ Om du ønsker å arrangere noe for studentene og trenger penger, har Echo et ege
 
 Verv i studentforeninger er en fantastisk måte å engasjere seg i studentmiljøet. På informatikk har vi en mengde komiteer og grupper, som alle stadig trenger folk!
 
-Matnat fakultet har en studentavis som må skrives, en studentbar som trenger folk, fagforeningers studentlag, og mye mer. Så lenge du har tid til overs, har du ingenting å tape på å bli med i et lag eller en forening. 
+Matnat fakultet har en studentavis som må skrives, en studentbar som trenger folk, fagforeningers studentlag, og mye mer. Så lenge du har tid til overs, har du ingenting å tape på å bli med i et lag eller en forening.
 
 Mange vurderer å engasjere seg for sent. Det er kun styret i Echo som velges med ordinært valg hvert år. Andre undergrupper og komiteer har opptak en gang eller to i året ved at man sender inn en søknad. Det er mange som vurderer å engasjere seg for sent. Om du går ditt 3+ studieår, har du dessverre liten sjanse vil å bli valgt, ettersom at man foretrekker studenter som kan være med så lenge som mulig. Avhengig av gruppen eller studentorganisasjonen pleier et verv sjelden å ta mye tid ut av uka, men forhør deg med medlemmer for sikkerhets skyld.
 
@@ -328,7 +329,7 @@ Om du ønsker å ta opp uønskede hendelser, burde du derimot bruke UiBs ["Si if
 
 I begge tilbakemeldingsplatformer er det mulig å gi tilbakemeldinger anonymt. All informasjon om echo, finner du på **echo.uib.no**
 
-Echo har også en samling funfacts på: https://echo.uib.no/visste-du-at/. Her finner du blant annet link til onenoten med en del notater på.
+Echo har også en samling funfacts på: [https://echo.uib.no/visste-du-at/](https://echo.uib.no/visste-du-at/). Her finner du blant annet link til onenoten med en del notater på.
 
 ### Facebook grupper tilknyttet Echo
 
