@@ -6,6 +6,41 @@ Som ny student er det mange ting du må få oversikt over, og overgangen fra vgs
 
 Om du bare trenger å finne "den linken", er det en TLDR; i bunnen.
 
+- [II Survival guide: "Det alle vet, men ingen forteller deg"](#II-Survival-guide-%22Det-alle-vet-men-ingen-forteller-deg%22)
+  - [Livet som (ny) student](#Livet-som-ny-student)
+    - [Første Uka](#F%C3%B8rste-Uka)
+    - [Ordliste og nyttige begreper](#Ordliste-og-nyttige-begreper)
+    - [Kalender for et typisk høstsemester](#Kalender-for-et-typisk-h%C3%B8stsemester)
+    - [Studieveiledere](#Studieveiledere)
+    - [Bøker](#B%C3%B8ker)
+    - [Fag](#Fag)
+    - [Programmeringen](#Programmeringen)
+      - [Om Programmering](#Om-Programmering)
+      - [IDEs og Editors](#IDEs-og-Editors)
+      - [Git, github, gitlab, bitbucket](#Git-github-gitlab-bitbucket)
+      - [Github student pack](#Github-student-pack)
+      - [Greia med utviklere og gummiender](#Greia-med-utviklere-og-gummiender)
+    - [Matematikken](#Matematikken)
+    - [Orakeltjeneste](#Orakeltjeneste)
+  - [Forelesninger, innleveringer og eksamen](#Forelesninger-innleveringer-og-eksamen)
+    - [Forelesninger](#Forelesninger)
+    - [Innleveringer](#Innleveringer)
+    - [Eksamen](#Eksamen)
+      - [Stryk](#Stryk)
+  - [Lesesaler og grupperom](#Lesesaler-og-grupperom)
+    - [Institutt for informatikk](#Institutt-for-informatikk)
+  - [Studentgrupper og dette med å engasjere seg sosialt](#Studentgrupper-og-dette-med-%C3%A5-engasjere-seg-sosialt)
+    - [Verv](#Verv)
+    - [Konferanser](#Konferanser)
+    - [**Echo**](#Echo)
+    - [Facebook grupper tilknyttet Echo](#Facebook-grupper-tilknyttet-Echo)
+    - [Bedriftspresentasjoner](#Bedriftspresentasjoner)
+    - [For den sikkerhetsinteresserte](#For-den-sikkerhetsinteresserte)
+- [TLDR;](#TLDR)
+      
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Livet som (ny) student
 
 Her følger noen tips til studenthverdagen ved II.
@@ -294,7 +329,7 @@ Ved II finnes det en faggruppe som heter **Helt Sikker**. Helt Sikker er en stud
 
 # TLDR; 
 
-#### Nyttige linker 
+
 Jetbrians: https://www.jetbrains.com/student/ (Intellij, Pycharm, webstorm etc)  
 Eclipe: https://www.eclipse.org/ (men bruk Intellij)  
 Codingbat  
