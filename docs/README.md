@@ -64,9 +64,7 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 | Funksjonelt/ Objektsorientert | Programmeringsparadigmer. Funksjonelt: Rust/Haskell, Objektsorientert: Java            |
 | bugs                          | Små og større feil i programvare. Som regel ikke-kritisk.                              |
 
-### Kalender for et typisk semester
-
-##### Høstsemesteret
+### Kalender for et typisk høstsemester
 
 **12. august:** Semesterstart <br>
 **1. september:** Frist for å godkjenne utdanningsplan for høstsemesteret **og** betale semesteravgift. <br>
