@@ -5,6 +5,7 @@ Som ny student er det mange ting du må få oversikt over, og overgangen fra vgs
 >Disclaimer: Denne guiden reflekterer i stor grad mine personlige synspunkt og meninger, og representerer hverken Echo, Helt Sikker eller UiB.
 
 Innholdsfortegnelse:
+
 - [II Survival guide: "Det alle vet, men ingen forteller deg"](#II-Survival-guide-%22Det-alle-vet-men-ingen-forteller-deg%22)
   - [TLDR;](#TLDR)
   - [Livet som (ny) student](#Livet-som-ny-student)
@@ -42,7 +43,7 @@ Innholdsfortegnelse:
 Matnat har en [sjekkliste for studiestart](https://www.uib.no/student/127911/sjekkliste-i-studiestarten).
 
 Kontaktinfo til studieveiledere finner du [her](#Studieveiledere).
-Alle bedriftspresentasjoner legges ut på echo.uib.no ca kl.12, en uke før bedriftspresentasjonens dato. 
+Alle bedriftspresentasjoner legges ut på echo.uib.no og Echos offisiele facebookgruppe ca kl.12, en uke før bedriftspresentasjonens dato.
 Echo har en [kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
 
 [WolframAlpha](https://www.wolframalpha.com/) er et powerhouse av en kalkulator.
@@ -350,4 +351,3 @@ Ikke alle bedriftspresentasjoner er åpne for alle årstrinn. Hvilke trinn den a
 ### For den sikkerhetsinteresserte
 
 Ved II finnes det en faggruppe som heter **Helt Sikker**. Helt Sikker er en studentorganisasjon/linjeforening som har som målsetning å tilby studenter en arena for å lære informasjonssikkerhet, og samtidig bygge et miljø for sikkerhetsinteresserte studenter. Helt Sikker arrangerer workshops, CTF-er, foredrag mm. Om dette høres spennende ut, finner du mer informasjon på [heltsikker.no](https://www.heltsikker.no/) eller på deres [facebook-side.](https://www.facebook.com/groups/heltsikker/)
-
