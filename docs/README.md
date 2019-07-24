@@ -157,7 +157,7 @@ Første semester gjøres det meste av kodingen i Jupiter, så det er ikke nødve
 
 #### Greia med utviklere og gummiender
 
->Gummiender er en populær meme blant IT-folk, og refererer til "rubber duck debugging". Ofte er alt du trenger for å løse et problem, å forklare koden høyt til deg selv eller andre. Noen bruker medstudenter, andre bruker gummiender og noen bruker ingenting. Valget er helt opp til deg! Men dette er faktisk en god måte å få et nytt perspektiv på problemet.
+Gummiender er en populær meme blant IT-folk, og refererer til "rubber duck debugging". Ofte er alt du trenger for å løse et problem, å forklare koden høyt til deg selv eller andre. Noen bruker medstudenter, andre bruker gummiender og noen bruker ingenting. Valget er helt opp til deg! Men dette er faktisk en god måte å få et nytt perspektiv på problemet.
 
 ### Matematikken
 
