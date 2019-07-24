@@ -108,7 +108,8 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 | Allegaten             | Undervisningslokale ved Matnat                                        |
 | Administrasjonsbygget | Eksamenslokale i Solheimsgaten på Danmarksplass                       |
 | Høyskolen/HVL         | Høyskolen på Vestlandet. Ligger ved Kronstad bybanestopp              |
-<br>
+
+
 
 | Tech-ord                      | Forklaring                                                                             |
 |-------------------------------|----------------------------------------------------------------------------------------|
