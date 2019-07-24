@@ -35,7 +35,7 @@ Innholdsfortegnelse:
     - [Facebook grupper tilknyttet Echo](#Facebook-grupper-tilknyttet-Echo)
     - [Bedriftspresentasjoner](#Bedriftspresentasjoner)
     - [For den sikkerhetsinteresserte](#For-den-sikkerhetsinteresserte)
-- [TLDR;](#TLDR)
+  - [TLDR;](#TLDR)
   
 ## Livet som (ny) student
 
@@ -323,7 +323,7 @@ Ikke alle bedriftspresentasjoner er åpne for alle årstrinn. Hvilke trinn den a
 
 Ved II finnes det en faggruppe som heter **Helt Sikker**. Helt Sikker er en studentorganisasjon/linjeforening som har som målsetning å tilby studenter en arena for å lære informasjonssikkerhet, og samtidig bygge et miljø for sikkerhetsinteresserte studenter. Helt Sikker arrangerer workshops, CTF-er, foredrag mm. Om dette høres spennende ut, finner du mer informasjon på [heltsikker.no](https://www.heltsikker.no/) eller på deres [facebook-side.](https://www.facebook.com/groups/heltsikker/)
 
-# TLDR; 
+## TLDR; 
 
 Matnat har en [sjekkliste for studiestart](https://www.uib.no/student/127911/sjekkliste-i-studiestarten).
 
