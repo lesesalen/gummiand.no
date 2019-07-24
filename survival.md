@@ -2,7 +2,7 @@
 
 Som ny student er det mange ting du må få oversikt over, og overgangen fra vgs til universitet er for mange utfordrende. Nå er det ditt eget ansvar å holde oversikt over forelesninger, innleveringer og å lese til eksamen. I tillegg skal du håndtere et tonn med informasjon og samtidig kose deg i studietiden. Dette er en survival guide for deg som går ditt første år som informatikkstudent.
 
->Disclaimer: Denne guiden reflekterer i stor grad mine personlige synspunkt og meninger, og representerer hverken Echo, Helt Sikker eller UiB. 
+>Disclaimer: Denne guiden reflekterer i stor grad mine personlige synspunkt og meninger, og representerer hverken Echo, Helt Sikker eller UiB.
 
 Om du bare trenger å finne "den linken", er det en TLDR; i bunnen.
 
@@ -13,7 +13,7 @@ Her følger noen tips til studenthverdagen ved II.
 
 Fagforeninger som Nito og Tekna har studentmedlemsskap som gir deg de samme fordlene som ordentlige medlemsskap, til ca 300 kr/år. Nito har en engangsavgift, mens tekna tar 150 kr pr semester. For dette får du et utvalg gode forsikringer, lån og andre goder. Tilbudet er omtrent likt hos begge to. 
 
-Begge fagforeningene har studentlag ved UiB og HVL som arrangerer faglige kræsjkurs og kurs i ting som boligkjøp og CV-skriving. I tillegg til ting som ølsmaking og turer. De har ikke alltid de samme kræsjkursene eller foredragsholderne, så det er ikke så dumt å være med i begge. 
+Begge fagforeningene har studentlag ved UiB og HVL som arrangerer faglige kræsjkurs og kurs i ting som boligkjøp og CV-skriving. I tillegg til ting som ølsmaking og turer. De har ikke alltid de samme kræsjkursene eller foredragsholderne, så det er ikke dumt å være med i begge. 
 
 Spotify har studentrabatt. 
 
@@ -237,6 +237,8 @@ Verv i studentforeninger er en fantastisk måte å engasjere seg i studentmiljø
 
 Matnat fakultet har en studentavis som må skrives, en studentbar som trenger folk, fagforeningers studentlag, og mye mer. Så lenge du har tid til overs, har du ingenting å tape på å bli med i et lag eller en forening. 
 
+Mange vurderer å engasjere seg for sent. Det er kun styret i Echo som velges med ordinært valg hvert år. Andre undergrupper og komiteer har opptak en gang eller to i året ved at man sender inn en søknad. Det er mange som vurderer å engasjere seg for sent. Om du går ditt 3+ studieår, har du dessverre liten sjanse vil å bli valgt, ettersom at man foretrekker studenter som kan være med så lenge som mulig. Avhengig av gruppen eller studentorganisasjonen pleier et verv sjelden å ta mye tid ut av uka, men forhør deg med medlemmer for sikkerhets skyld.
+
 ### Konferanser
 
 IT-verdenen er bygget på konferanser, hvor man får faglig påfyll og muligheten til å treffe andre i fagmiljøet. Disse koster dessverre mange tusen kroner, og er out of reach for de aller fleste studenter. Konferanser er store dyr som trenger mange mennesker, og som ofte er drevet på frivillighet.
@@ -276,11 +278,11 @@ Tid/Sted: Torsdager (som regel), etter kl 16.15 på Høyteknologisenteret
 
 Påmelding: Publiseres på facebook og fagutvalget klokken 12, en uke i forkant. merk: dette gjelder uansett hvilken dag bedriftspresentasjonen er.
 
-Ikke alle bedriftspresentasjoner er åpne for alle årstrinn. Hvilke trinn den aktuelle bedriftspresentasjonen er åpen for vil informeres i selve posten og på skjemaet. Om du lyver om årstrinnet ditt under en bedpress, kommer du til å bli utestengt fra samtlige bedriftspresentasjoner i et semester.
+Ikke alle bedriftspresentasjoner er åpne for alle årstrinn. Hvilke trinn den aktuelle bedriftspresentasjonen er åpen for vil informeres i selve posten og på skjemaet. Om du lyver om årstrinnet ditt under en bedpress, kommer du til å bli utestengt fra samtlige bedriftspresentasjoner i et skoleår.
 
 ### For den sikkerhetsinteresserte
 
-Ved II finnes det en faggruppe som heter **Helt Sikker**. Helt Sikker er en studentorganisasjon/linjeforening som har som målsetning å tilby studenter en arena for å lære informasjonssikkerhet, og samtidig bygge et miljø for sikkerhetsinteresserte studenter. Helt Sikker arrangerer workshops, CTF-er, foredrag mm. Om dette høres spennende ut, finner du mer informasjon på heltsikker.no eller på deres [facebook-side.](https://www.facebook.com/groups/heltsikker/)
+Ved II finnes det en faggruppe som heter **Helt Sikker**. Helt Sikker er en studentorganisasjon/linjeforening som har som målsetning å tilby studenter en arena for å lære informasjonssikkerhet, og samtidig bygge et miljø for sikkerhetsinteresserte studenter. Helt Sikker arrangerer workshops, CTF-er, foredrag mm. Om dette høres spennende ut, finner du mer informasjon på [heltsikker.no](https://www.heltsikker.no/) eller på deres [facebook-side.](https://www.facebook.com/groups/heltsikker/)
 
 # TLDR; 
 
@@ -291,3 +293,4 @@ Codingbat
 Codeacademy  
 Kattis  
 github student pack: https://education.github.com/pack  
+ 
