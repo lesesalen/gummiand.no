@@ -228,7 +228,7 @@ Matematikken er for mange tøff det første året. I mat111 har man 8 obligaoris
 
 Khanacademy.com er en helt gratis nettside som har supre kurs i matematikk, kjemi, fysikk og mer! Veldig nyttig for matematikkfagene. Siden har små videosnutter hvor du lærer et mindre konsept.  Gjerne etterfulgt av et par oppgaver så du får øve seg på det du nettopp lærte. Videoene er bare på rundt 10-15 minutter så det er ikke like overveldene som en totimers forelesning. 
 
-[WolframAlpha](https://www.wolframalpha.com/) er en kraftig nettbasert kalkulator/orakel side. Fantastisk for å løse seige ligninger. Den finnes også som mobilapp. Pro-versjonen av appen er en engangsbetaling á 32 kr, mens wolfram-pro koster $4.75 i måneden.
+[WolframAlpha](https://www.wolframalpha.com/) er en kraftig nettbasert kalkulator/orakelside. Fantastisk for å løse seige ligninger. Den finnes også som mobilapp. Pro-versjonen av appen er en engangsbetaling á 32 kr, mens wolfram-pro koster $4.75 i måneden.
 
 ### Orakeltjeneste
 
@@ -325,7 +325,7 @@ Har du noe du vil ta opp? Den beste måten å få sine innspill hørt hos fagutv
 
 Om du ønsker å ta opp uønskede hendelser, burde du derimot bruke UiBs ["Si ifra"-system](https://www.uib.no/student/111870/si-fra-om-studentmilj%C3%B8et). Da blir sakene håndtert av studentombudet. Send det gjerne også i Echos tilbakemeldingsskjema og vis til at du også har brukt "si ifra". Det er større sannsynlighet for at hendelsen tas på alvor dersom man informerer de ulike instansene om at hendelsen er rapportert inn til flere. 
 
-**Om det er snakk om lovbrudd, skal man snakke naturligvis snakke med politiet. Politiet kan nås på 02800 eller nødnummer 112.**
+**Om det er snakk om lovbrudd skal man snakke naturligvis kontakte politiet.**
 
 I begge tilbakemeldingsplatformer er det mulig å gi tilbakemeldinger anonymt. All informasjon om echo, finner du på **echo.uib.no**
 
