@@ -4,8 +4,6 @@ Som ny student er det mange ting du må få oversikt over, og overgangen fra vgs
 
 >Disclaimer: Denne guiden reflekterer i stor grad mine personlige synspunkt og meninger, og representerer hverken Echo, Helt Sikker eller UiB.
 
-Om du bare trenger å finne "den linken", er det en TLDR; i bunnen.
-
 - [II Survival guide: "Det alle vet, men ingen forteller deg"](#II-Survival-guide-%22Det-alle-vet-men-ingen-forteller-deg%22)
   - [Livet som (ny) student](#Livet-som-ny-student)
     - [Første Uka](#F%C3%B8rste-Uka)
