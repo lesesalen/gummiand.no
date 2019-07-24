@@ -16,6 +16,8 @@ Begge fagforeningene har studentlag ved UiB og HVL som arrangerer faglige kræsj
 
 Spotify har studentrabatt. 
 
+Om du har lærevansker som dysleksi og dyskalkuli kan du ha prav på ekstra stipend.
+
 **Har du noen tips?** 
 
 ### Første Uka
@@ -163,7 +165,7 @@ Gummiender er en populær meme blant IT-folk, og refererer til "rubber duck debu
 
 Matematikken er for mange tøff det første året. I mat111 har man 8 obligaoriske innleveringer i løpet av semesteret, hvor 6 av dem må bestås. Det arrangeres gruppetimer hver uke hvor man kan jobbe med oppgaver og få hjelp av en gruppeleder som selv er student og har tatt faget. Om du er typen som ikke trives særlig godt i forelesninger anbefaler jeg virkelig å gå i gruppetimene! I dem kan du i stor grad jobbe i ditt eget tempo og få veiledningen tilpasset det du faktisk sliter med på det tidspunktet. 
 
-Khanacademy.com er en helt gratis nettside som har supre kurs i matematikk, kjemi, fysikk og mer! Veldig nyttig for matematikkfagene. Siden har små videosnutter hvor du lærer et mindre konsept.  Gjerne etterfulgt av et par oppgaver så du får øve seg på det du nettopp lærte. Videoene er bare på rundt 10-15 minutter så det er ikke like overveldene som en 2 timers forelesning. 
+Khanacademy.com er en helt gratis nettside som har supre kurs i matematikk, kjemi, fysikk og mer! Veldig nyttig for matematikkfagene. Siden har små videosnutter hvor du lærer et mindre konsept.  Gjerne etterfulgt av et par oppgaver så du får øve seg på det du nettopp lærte. Videoene er bare på rundt 10-15 minutter så det er ikke like overveldene som en totimers forelesning. 
 
 ### Orakeltjeneste
 
