@@ -49,7 +49,7 @@ Spotify har studentrabatt.
 
 Elever og studenter i høyere og annen utdanning som ikke kan jobbe ved siden av utdanningen på grunn av nedsatt funksjonsevne, kan få et ekstrastipend. Ekstrastipendet på 3 763 kroner per måned kommer i tillegg til vanlig studiestøtte fra Lånekassen. Dersom du er deltidsstudent, blir ekstrastipendet redusert tilsvarende deltidsprosenten din. Du finner mer informasjon på [lånekassens sider](https://www.lanekassen.no/nb-NO/Stipend-og-lan/Hoyere-utdanning/Hvor-mye-kan-du-fa/Nye-stotteordninger-for-elever-og-studenter-med-nedsatt-funksjonsevne/Ekstra-stipend-/)
 
-**Har du noen tips?** 
+**Har du noen tips? ta kontakt med meg, eller lag en pull request** 
 
 ### Første Uka
 
