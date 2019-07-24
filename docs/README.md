@@ -35,10 +35,7 @@ Som ny student er det mange ting du må få oversikt over, og overgangen fra vgs
     - [Bedriftspresentasjoner](#Bedriftspresentasjoner)
     - [For den sikkerhetsinteresserte](#For-den-sikkerhetsinteresserte)
 - [TLDR;](#TLDR)
-      
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
+  
 ## Livet som (ny) student
 
 Her følger noen tips til studenthverdagen ved II.
