@@ -39,12 +39,12 @@ Innholdsfortegnelse:
     - [Bedriftspresentasjoner](#bedriftspresentasjoner)
     - [For den sikkerhetsinteresserte](#for-den-sikkerhetsinteresserte)
 
-## TLDR;
+## TL;DR
 
 Matnat har en [sjekkliste for studiestart](https://www.uib.no/student/127911/sjekkliste-i-studiestarten).
 
 Kontaktinfo til studieveiledere finner du [her](#studieveiledere).
-Alle bedriftspresentasjoner legges ut på echo.uib.no og Echos offisiele facebookgruppe ca kl.12, en uke før bedriftspresentasjonens dato.
+Alle [bedriftspresentasjoner](#bedriftspresentasjoner) legges ut på echo.uib.no og Echos offisiele facebookgruppe ca kl.12, en uke før bedriftspresentasjonens dato.
 Echo har en [kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
 Booking av grupperom: [https://www.uib.no/foransatte/90989/rombestilling](https://www.uib.no/foransatte/90989/rombestilling)
 
@@ -126,8 +126,9 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 | Frontend/backend              | Frontend: "Det brukeren ser". Backend "server-programvare og logikk brukeren ikke ser" |
 | Funksjonelt/ Objektsorientert | Programmeringsparadigmer. Funksjonelt: Rust/Haskell, Objektsorientert: Java            |
 | CTF                           | "Capture the flag". Type hackerkonkurranse                                             |
-| TLDR;                         | "Too long, didn´t read"                                                                |
-| Linux                         | "Type operativsystem", alternativt til Windows og OSX                                  |
+| TL;DR                         | "Too long, didn´t read"                                                                |
+| Linux                         | "gratis operativsystem", alternativ til Windows og OSX                                 |
+| Distro                        | Når brukt om linux: Distribusjon. Refererer til Linux-variant                          | 
 
 
 ### Kalender for et typisk høstsemester
@@ -177,9 +178,10 @@ Første semester har man INF100, MAT111 og ex.phil. Semesteret etter har man INF
 Echo har en onenote (link), hvor du kan finne notater til en del fag. Notatene dekker ikke alle fag siden den ble skrevet for et par år siden, også er kvaliteten på de forskjellige notatene litt så som så, men sjekk den ut!
 
 ### Valg av PC
+
 Det er ofte mye usikkerhet når det kommer til hvilken PC og operativsystem en skal velge. På informatikkstudiet bruker omtrent like mange Windows som OSX som en eller annen Linuxdistro. Det eneste som er verdt å merke seg er at eksamensprogramvaren ikke er Linuxkompatibelt og krever en lånepc (se [eksamen](#eksamen)). 
 
-Om du skal velge PC ut fra et kriterie, burde det (etter min mening) være Ram (minne). Velg 16GB, så har du nok til å kjøre virtuelle maskiner også. 
+Om du skal velge PC ut fra et kriterie, burde det (etter min mening) være Ram (minne). Velg 16GB, så har du nok til å kjøre virtuelle maskiner også. Dette er en PC du skal dra med deg, så vekt er kanskje en faktor å vurdere. Stikkontakter finnes i alle auditorium, så batterilevetid er nok mindre viktig. Under mitt første år brukte jeg skole-PC-en fra vgs, og den funket også helt fint, selv om den ikke var topspekket.
 
 ### Programmeringen
 
@@ -341,7 +343,7 @@ Echo har også en samling funfacts på: [https://echo.uib.no/visste-du-at/](http
 
 ### Facebook grupper tilknyttet Echo
 
-Echo har flere facebookgrupper og sider du kan være med i. Her kommer litt info om flere av dem. 
+Echo har flere facebookgrupper og sider du kan være med i. Her kommer litt info om flere av dem.
 
 - **echo – Fagutvalget for informatikk, UiB** er den offisielle facebookgruppen til echo. Her publiseres alt fra nyheter som er aktuelle for studenter til fester og andre faglige arrangement.
 - **echo Aktiv** Facebook-gruppe hvor man kan få med folk på aktiviteter som å gå på tur, spille fotball, paintball, konserter etc
