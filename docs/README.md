@@ -183,10 +183,10 @@ En stor forskjell er dog at dette som regel ikke er obligatorisk. Det er med and
 
 Du har med andre ord ansvar for din egen læring! Om forelesningene ikke fungerer for deg, reis på lesesalen og les deg opp med hjelp av andre ressurser. Det finnes som regel mange kilder til læring, så det gjelder å finne den som funker best for deg. 
 
-Realistiske tips til å være student: 
-=> gå i gruppetimer / kollekviegrupper
-=> gjør (litt) av ekstreoppgavene
-=> Gå i (noen) forelesninger
+Realistiske tips til å være student: <br>
+=> gå i gruppetimer / kollekviegrupper <br>
+=> gjør (litt) av ekstraoppgavene <br>
+=> Gå i (noen) forelesninger <br>
 
 Om du ikke vil i en forelesning burde du fortsatt reise på lesesalen. Selv om jeg ikke har særlig tro på læring ved osmose, er det lurt å være deltakende i miljøet. 
 
