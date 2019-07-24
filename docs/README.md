@@ -6,6 +6,7 @@ Som ny student er det mange ting du må få oversikt over, og overgangen fra vgs
 
 Innholdsfortegnelse:
 - [II Survival guide: "Det alle vet, men ingen forteller deg"](#II-Survival-guide-%22Det-alle-vet-men-ingen-forteller-deg%22)
+  - [TLDR;](#TLDR)
   - [Livet som (ny) student](#Livet-som-ny-student)
     - [Første Uka](#F%C3%B8rste-Uka)
     - [Ordliste og nyttige begreper](#Ordliste-og-nyttige-begreper)
@@ -35,8 +36,33 @@ Innholdsfortegnelse:
     - [Facebook grupper tilknyttet Echo](#Facebook-grupper-tilknyttet-Echo)
     - [Bedriftspresentasjoner](#Bedriftspresentasjoner)
     - [For den sikkerhetsinteresserte](#For-den-sikkerhetsinteresserte)
-  - [TLDR;](#TLDR)
+
+## TLDR; 
+
+Matnat har en [sjekkliste for studiestart](https://www.uib.no/student/127911/sjekkliste-i-studiestarten).
+
+Kontaktinfo til studieveiledere finner du [her](#Studieveiledere).
+Alle bedriftspresentasjoner legges ut på echo.uib.no ca kl.12, en uke før bedriftspresentasjonens dato. 
+Echo har en [kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
+
+[WolframAlpha](https://www.wolframalpha.com/) er et powerhouse av en kalkulator.
+
+- github student pack: https://education.github.com/pack  
+- Khanacademy: https://nb.khanacademy.org/
   
+IDEs:
+
+- Jetbrians: https://www.jetbrains.com/student/ (Intellij, Pycharm, webstorm etc)  
+- Eclipse: https://www.eclipse.org/ (men bruk Intellij)  
+  
+Programmeringssider:
+
+- Codingbat: https://codingbat.com/python
+- Codeacademy: https://www.codecademy.com/  
+- Kattis: https://open.kattis.com/ 
+- hackerrank: https://www.hackerrank.com/
+
+
 ## Livet som (ny) student
 
 Her følger noen tips til studenthverdagen ved II.
@@ -198,6 +224,8 @@ Matematikken er for mange tøff det første året. I mat111 har man 8 obligaoris
 
 Khanacademy.com er en helt gratis nettside som har supre kurs i matematikk, kjemi, fysikk og mer! Veldig nyttig for matematikkfagene. Siden har små videosnutter hvor du lærer et mindre konsept.  Gjerne etterfulgt av et par oppgaver så du får øve seg på det du nettopp lærte. Videoene er bare på rundt 10-15 minutter så det er ikke like overveldene som en totimers forelesning. 
 
+[WolframAlpha](https://www.wolframalpha.com/) er en kraftig nettbasert kalkulator/orakel side. Fantastisk for å løse seige ligninger. Den finnes også som mobilapp. Pro-versjonen av appen er en engangsbetaling á 32 kr, mens wolfram-pro koster $4.75 i måneden.
+
 ### Orakeltjeneste
 
 Instituttet har sin egen orakeltjeneste. Et par timer, to ganger i uka står en gruppe eldre studenter på kjøkkenet på lesesalen, for å svare på spørsmål. De har grønne gensere og fagkoder på ryggen som viser hvilke fag de er mest komfortable med å bistå i. Man kan generelt spørre hvem som helst på lesesalen, om de ikke kan svare på spørsmålet, kjenner de garantert noen som kan! 
@@ -323,20 +351,3 @@ Ikke alle bedriftspresentasjoner er åpne for alle årstrinn. Hvilke trinn den a
 
 Ved II finnes det en faggruppe som heter **Helt Sikker**. Helt Sikker er en studentorganisasjon/linjeforening som har som målsetning å tilby studenter en arena for å lære informasjonssikkerhet, og samtidig bygge et miljø for sikkerhetsinteresserte studenter. Helt Sikker arrangerer workshops, CTF-er, foredrag mm. Om dette høres spennende ut, finner du mer informasjon på [heltsikker.no](https://www.heltsikker.no/) eller på deres [facebook-side.](https://www.facebook.com/groups/heltsikker/)
 
-## TLDR; 
-
-Matnat har en [sjekkliste for studiestart](https://www.uib.no/student/127911/sjekkliste-i-studiestarten).
-
-Kontaktinfo til studieveiledere finner du [her](#Studieveiledere).
-Alle bedriftspresentasjoner legges ut på echo.uib.no ca kl.12, en uke før bedriftspresentasjonens dato. 
-Echo har en [kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
-
-Andre nyttige linker:
-
-- github student pack: https://education.github.com/pack  
-- Khanacademy: https://nb.khanacademy.org/
-- Jetbrians: https://www.jetbrains.com/student/ (Intellij, Pycharm, webstorm etc)  
-- Eclipe: https://www.eclipse.org/ (men bruk Intellij)  
-- Codingbat: https://codingbat.com/python
-- Codeacademy: https://www.codecademy.com/  
-- Kattis: https://open.kattis.com/ 
