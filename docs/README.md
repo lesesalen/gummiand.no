@@ -82,10 +82,10 @@ Om du lurer på noe som helst vedr studieprogresjon, instituttet eller studiet i
 
 | Studieveileder                              | Område                                                |
 |---------------------------------------------|-------------------------------------------------------|
-| Ida Rosenlund ( ida.rosenlund@uib.no )      | Bachelorprogram, utveksling, innpassing               |
-| Pål Magnus Gunnestad ( pal.gunnestad@uib.no | Masterprogram, forskerutdanning (PhD)                 |
-| Mo Yan Yuen ( mo.yan.yuen@uib.no)           | Eksamen, timeplan, emneevaluering                     |
-| liljan Myhr ( liljan.myhr@uib.no )          | Gruppelederansettelser, klager på karakterfastsetting |
+| Ida Rosenlund  ida.rosenlund@uib.no         | Bachelorprogram, utveksling, innpassing               |
+| Pål Magnus Gunnestad pal.gunnestad@uib.no   | Masterprogram, forskerutdanning (PhD)                 |
+| Mo Yan Yuen  mo.yan.yuen@uib.no             | Eksamen, timeplan, emneevaluering                     |
+| liljan Myhr  liljan.myhr@uib.no             | Gruppelederansettelser, klager på karakterfastsetting |
 
 Det er tryggest å booke time med dem på epost i forkant, men om du har et raskt spørsmål eller to, eller noe som haster, er de som regel å nå på kontoret. Du kan generelt sett spørre hvem som helst om hva som helst, og om de ikke kan svare på spørsmålet ditt, kan de alltid peke deg i retning av noen som kan! 
 
