@@ -6,7 +6,37 @@ Som ny student er det mange ting du må få oversikt over, og overgangen fra vgs
 
 Innholdsfortegnelse:
 
-<!-- TOC -->autoauto- [II Survival guide: "Det alle vet, men ingen forteller deg"](#ii-survival-guide-det-alle-vet-men-ingen-forteller-deg)auto    - [TLDR;](#tldr)auto    - [Livet som (ny) student](#livet-som-ny-student)auto        - [Første Uka](#første-uka)auto        - [Ordliste og nyttige begreper](#ordliste-og-nyttige-begreper)auto        - [Kalender for et typisk høstsemester](#kalender-for-et-typisk-høstsemester)auto        - [Studieveiledere](#studieveiledere)auto        - [Bøker](#bøker)auto        - [Fag](#fag)auto        - [Programmeringen](#programmeringen)auto            - [Om Programmering](#om-programmering)auto            - [IDEs og Editors](#ides-og-editors)auto            - [Git, github, gitlab, bitbucket](#git-github-gitlab-bitbucket)auto            - [Github student pack](#github-student-pack)auto            - [Greia med utviklere og gummiender](#greia-med-utviklere-og-gummiender)auto        - [Matematikken](#matematikken)auto        - [Orakeltjeneste](#orakeltjeneste)auto    - [Forelesninger, innleveringer og eksamen](#forelesninger-innleveringer-og-eksamen)auto        - [Forelesninger](#forelesninger)auto        - [Innleveringer](#innleveringer)auto        - [Eksamen](#eksamen)auto            - [Stryk](#stryk)auto    - [Lesesaler og grupperom](#lesesaler-og-grupperom)auto        - [Institutt for informatikk](#institutt-for-informatikk)auto    - [Studentgrupper og dette med å engasjere seg sosialt](#studentgrupper-og-dette-med-å-engasjere-seg-sosialt)auto        - [Verv](#verv)auto        - [Konferanser](#konferanser)auto        - [**Echo**](#echo)auto        - [Facebook grupper tilknyttet Echo](#facebook-grupper-tilknyttet-echo)auto        - [Bedriftspresentasjoner](#bedriftspresentasjoner)auto        - [For den sikkerhetsinteresserte](#for-den-sikkerhetsinteresserte)autoauto<!-- /TOC -->
+- [II Survival guide: "Det alle vet, men ingen forteller deg"](#II-Survival-guide-Det-alle-vet-men-ingen-forteller-deg)
+  - [TLDR;](#TLDR)
+  - [Livet som (ny) student](#Livet-som-ny-student)
+    - [Første Uka](#Første-Uka)
+    - [Ordliste og nyttige begreper](#Ordliste-og-nyttige-begreper)
+    - [Kalender for et typisk høstsemester](#Kalender-for-et-typisk-høstsemester)
+    - [Studieveiledere](#Studieveiledere)
+    - [Bøker](#Bøker)
+    - [Fag](#Fag)
+    - [Programmeringen](#Programmeringen)
+      - [Om Programmering](#Om-Programmering)
+      - [IDEs og Editors](#IDEs-og-Editors)
+      - [Git, github, gitlab, bitbucket](#Git-github-gitlab-bitbucket)
+      - [Github student pack](#Github-student-pack)
+      - [Greia med utviklere og gummiender](#Greia-med-utviklere-og-gummiender)
+    - [Matematikken](#Matematikken)
+    - [Orakeltjeneste](#Orakeltjeneste)
+  - [Forelesninger, innleveringer og eksamen](#Forelesninger-innleveringer-og-eksamen)
+    - [Forelesninger](#Forelesninger)
+    - [Innleveringer](#Innleveringer)
+    - [Eksamen](#Eksamen)
+      - [Stryk](#Stryk)
+  - [Lesesaler og grupperom](#Lesesaler-og-grupperom)
+    - [Institutt for informatikk](#Institutt-for-informatikk)
+  - [Studentgrupper og dette med å engasjere seg sosialt](#Studentgrupper-og-dette-med-å-engasjere-seg-sosialt)
+    - [Verv](#Verv)
+    - [Konferanser](#Konferanser)
+    - [**Echo**](#Echo)
+    - [Facebook grupper tilknyttet Echo](#Facebook-grupper-tilknyttet-Echo)
+    - [Bedriftspresentasjoner](#Bedriftspresentasjoner)
+    - [For den sikkerhetsinteresserte](#For-den-sikkerhetsinteresserte)
 
 ## TLDR;
 
