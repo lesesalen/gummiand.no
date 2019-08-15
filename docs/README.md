@@ -94,6 +94,12 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 
 > Du må betale semesteravgiften før du får utbetalt studielånet.
 
+### Eduroam
+
+For å komme på nett på UiB, HVL og andre utdanningsinstitusjoner, bruker du et nettverk som heter Eduroam. Dette nettet logger du på med studentkontoen din; brukernavn@uib.no og passord. 
+
+>Eduroam finnes også på alle de største flyplassene i Norge.
+
 ### Helse
 
 Som informatikkstudent vil du bruke mye tid foran en datamaskin eller bøker, og dette gjør man gjerne sittende. Det anbefales på det sterkeste at du passer på din egen helse. For mye tid sittende er en god måte å få problemer senere i livet. Ta pauser med jevne mellomrom, strekk litt på beina og gå deg en liten tur i ny og ne. Pass også på øynene dine; for å stirre på kode som ikke fungerer kan være en skikkelig belastning på øynene. For mange vil det å bruke lesebriller være lurt og [Specsavers](https://www.specsavers.no/) tilbyr synsundersøkelser for en OK pris samt 2-for-1 pris på briller.
@@ -170,6 +176,7 @@ Om du lurer på noe som helst om studieprogresjon, instituttet eller studiet i s
 Det er tryggest å booke time med dem på epost i forkant, men om du har et raskt spørsmål eller to, eller noe som haster, er de som regel å nå på kontoret. Du kan generelt sett spørre hvem som helst om hva som helst, og om de ikke kan svare på spørsmålet ditt, kan de alltid peke deg i retning av noen som kan!
 
 Om du har krav på (eller kan ha krav på) tilrettelagt undervisning eller eksamen, er dette folkene å prate med.
+
 
 ### Bøker
 
