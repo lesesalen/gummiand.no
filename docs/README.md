@@ -164,7 +164,10 @@ Et typisk semester foregår slik:
 
 ### Studieveiledere
 
-Om du lurer på noe som helst om studieprogresjon, instituttet eller studiet i seg selv, er studieveilederne tilgjengelige for deg! De holder til i 4. etasje på Institutt for informatikk, og bak infoskranken på Matnat. Ved II har vi følgende studieveiledere:
+Om du lurer på noe som helst om studieprogresjon, instituttet eller studiet i seg selv, er studieveilederne tilgjengelige for deg! De holder til i 4. etasje på Institutt for informatikk, og bak infoskranken på Matnat.
+
+Den beste måten å komme i kontakt med studieveilederne på instituttet er å sende en epost til **studieveiledere@ii.uib.no**. Mailen går da til samtlige, og da vet man også at saken blir behandlet selv om en av veilederene ikke er på jobb.
+Du kan også ta kontakt med hver enkelt studieveileder direkte:
 
 | Studieveileder                            | Område                                                |
 | ----------------------------------------- | ----------------------------------------------------- |
@@ -176,7 +179,6 @@ Om du lurer på noe som helst om studieprogresjon, instituttet eller studiet i s
 Det er tryggest å booke time med dem på epost i forkant, men om du har et raskt spørsmål eller to, eller noe som haster, er de som regel å nå på kontoret. Du kan generelt sett spørre hvem som helst om hva som helst, og om de ikke kan svare på spørsmålet ditt, kan de alltid peke deg i retning av noen som kan!
 
 Om du har krav på (eller kan ha krav på) tilrettelagt undervisning eller eksamen, er dette folkene å prate med.
-
 
 ### Bøker
 
