@@ -2,7 +2,7 @@
 
 Som ny student er det mange ting du må få oversikt over, og overgangen fra videregående til universitet er for mange utfordrende. Nå er det ditt eget ansvar å holde oversikt over forelesninger, innleveringer og lese til eksamen. I tillegg skal du håndtere et tonn med informasjon og samtidig kose deg i studietiden. Dette er en survival guide for deg som går ditt første år som informatikkstudent.
 
-> Disclaimer: Denne guiden reflekterer i stor grad mine personlige synspunkt og meninger, og representerer hverken Echo, Helt Sikker eller UiB.
+> Disclaimer: Denne guiden reflekterer i stor grad mine personlige synspunkt og meninger, og representerer hverken echo, Helt Sikker eller UiB.
 
 Innholdsfortegnelse:
 
@@ -36,8 +36,8 @@ Innholdsfortegnelse:
   - [Studentgrupper og dette med å engasjere seg sosialt](#studentgrupper-og-dette-med-%C3%A5-engasjere-seg-sosialt)
     - [Verv](#verv)
     - [Konferanser](#konferanser)
-    - [**Echo**](#echo)
-    - [Facebook grupper tilknyttet Echo](#facebook-grupper-tilknyttet-Echo)
+    - [**echo**](#echo)
+    - [Facebook grupper tilknyttet echo](#facebook-grupper-tilknyttet-echo)
     - [Bedriftspresentasjoner](#bedriftspresentasjoner)
     - [For den sikkerhetsinteresserte](#for-den-sikkerhetsinteresserte)
 
@@ -45,8 +45,8 @@ Innholdsfortegnelse:
 
 - Matnat har en [sjekkliste for studiestart](https://www.uib.no/student/127911/sjekkliste-i-studiestarten).
 - Kontaktinfo til studieveiledere finner du [her](#studieveiledere).
-- Alle [bedriftspresentasjoner](#bedriftspresentasjoner) legges ut på echo.uib.no og Echos offisielle Facebookgruppe ca kl. 12, en uke før bedriftspresentasjonens dato.
-- Echo har en [kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
+- Alle [bedriftspresentasjoner](#bedriftspresentasjoner) legges ut på echo.uib.no og echos offisielle Facebookgruppe ca kl. 12, en uke før bedriftspresentasjonens dato.
+- echo har en [kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
 - Booking av grupperom: [https://www.uib.no/foransatte/90989/rombestilling](https://www.uib.no/foransatte/90989/rombestilling)
 
 Nyttige lenker:
@@ -120,7 +120,7 @@ Sammen har også en rekke gode tilbud for din fysiske og psykiske velvære, tilb
 | Kont/Konte            | Nytt eksamensforsøk, normalt tidlig eksamen for studenter som stryker |
 | II                    | Insitutt for informatikk                                              |
 | Matnat                | Matematisk-Naturvitenskapelig fakultet                                |
-| FU                    | Kort for "Fagutvalget", som er Echos tidligere navn                   |
+| FU                    | Kort for "Fagutvalget", som er echos tidligere navn                   |
 | RFB                   | Realfagsbygget. Se "matnat"                                           |
 | Høytek                | Høyteknologisenteret. Thormøhlensgt 55                                |
 | VilVite               | Undervisningslokaler i nabobygget (som er Vitensenteret)              |
@@ -325,7 +325,7 @@ Matnat har dog et stort bibliotek og et fantastisk læringssenter, i tillegg til
 
 ### Institutt for informatikk
 
-Informatikklesesalen i datablokka, også kjent som "lesesalen" blant informatikkstudenter, er en lesesal med store gruppebord. Her er det kjøkken med (gratis) kaffe, kjøleskap, brødrister og mikro. Denne er åpen for alle informatikkstudenter og er "vårt eget territorium". Denne administreres i sin helhet av Echo, og er døgnåpen. Dette er ikke en stille lesesal i den forstand at det er lov å prate sammen og samarbeide. Her er terskelen også veldig lav for å få hjelp. Husk å bruke innestemme. Det er også lov å bare komme for å henge og drikke kaffe. Informatikkfestene pleier også å arrangeres her. Kjøkkenet kan for mange være skummelt da det ofte sitter eldre studenter i sofaen. De aller færreste biter, og om du sier hei først, kommer de garantert til å si hei tilbake!
+Informatikklesesalen i datablokka, også kjent som "lesesalen" blant informatikkstudenter, er en lesesal med store gruppebord. Her er det kjøkken med (gratis) kaffe, kjøleskap, brødrister og mikro. Denne er åpen for alle informatikkstudenter og er "vårt eget territorium". Denne administreres i sin helhet av echo, og er døgnåpen. Dette er ikke en stille lesesal i den forstand at det er lov å prate sammen og samarbeide. Her er terskelen også veldig lav for å få hjelp. Husk å bruke innestemme. Det er også lov å bare komme for å henge og drikke kaffe. Informatikkfestene pleier også å arrangeres her. Kjøkkenet kan for mange være skummelt da det ofte sitter eldre studenter i sofaen. De aller færreste biter, og om du sier hei først, kommer de garantert til å si hei tilbake!
 
 I 2. etg. om du holder hardt venstre etter trappen, er det også et mindre stillerom. Dette er en stille leseslal med skillevegger mellom bordene. Denne er åpen mellom 8 og 17 på hverdager. Det finnes også et par kollokvieøyer og en håndfull grupperom i andre etasje + ellers i bygget. Når disse ikke brukes til undervisning kan de bookes her: [https://www.uib.no/foransatte/90989/rombestilling](https://www.uib.no/foransatte/90989/rombestilling)
 
@@ -335,7 +335,7 @@ Frivillig engasjement er en fantastisk måte å bli kjent med andre likesinnede 
 
 Engasjer deg! Her er det bare fordeler :)
 
-Om du ønsker å arrangere noe for studentene og trenger penger, har Echo et eget søknadsskjema for dette. Det finner du [her](https://docs.google.com/forms/d/e/1FAIpQLSdf8jZhB_yKxEJEa461GmXz3JsdxqMoJLilQ49ZRlnqJw8ayg/viewform)
+Om du ønsker å arrangere noe for studentene og trenger penger, har echo et eget søknadsskjema for dette. Det finner du [her](https://docs.google.com/forms/d/e/1FAIpQLSdf8jZhB_yKxEJEa461GmXz3JsdxqMoJLilQ49ZRlnqJw8ayg/viewform)
 
 ### Verv
 
@@ -343,7 +343,7 @@ Verv i studentforeninger er en fantastisk måte å engasjere seg i studentmiljø
 
 Matnat har en studentavis som må skrives, en studentbar som trenger folk, fagforeningers studentlag, og mye mer. Så lenge du har tid til overs, har du ingenting å tape på å bli med i et lag eller en forening.
 
-Mange vurderer å engasjere seg for sent. Det er kun styret i Echo som velges med ordinært valg hvert år. Andre undergrupper og komitéer har opptak en gang eller to i året ved at man sender inn en søknad. Det er mange som vurderer å engasjere seg for sent. Om du går ditt 3+ studieår, har du dessverre liten sjanse vil å bli valgt, ettersom at man foretrekker studenter som kan være med så lenge som mulig. Avhengig av gruppen eller studentorganisasjonen pleier et verv sjelden å ta mye tid ut av uka, men forhør deg med medlemmer for sikkerhets skyld.
+Mange vurderer å engasjere seg for sent. Det er kun styret i echo som velges med ordinært valg hvert år. Andre undergrupper og komitéer har opptak en gang eller to i året ved at man sender inn en søknad. Det er mange som vurderer å engasjere seg for sent. Om du går ditt 3+ studieår, har du dessverre liten sjanse vil å bli valgt, ettersom at man foretrekker studenter som kan være med så lenge som mulig. Avhengig av gruppen eller studentorganisasjonen pleier et verv sjelden å ta mye tid ut av uka, men forhør deg med medlemmer for sikkerhets skyld.
 
 ### Konferanser
 
@@ -351,40 +351,40 @@ IT-verdenen er bygget på konferanser, hvor man får faglig påfyll og mulighete
 
 Dette er en gyldne mulighet for deg som student. Som frivillig får du bidra til miljøet (mat for CV-en), bli kjent med andre folk og lære nye ting om spennende teknologi! Som frivillig har du ikke vakter hele tiden, så du får nok av tid til å se på foredrag. Du trenger ikke erfaring for å være frivillig, så det er verdt å prøve seg allerede på 1. året.
 
-Call for volunteers lyses ut noen måneder før konferansene, så det er verdt å følge med. Konferanser som [Booster ](https://boosterconf.no)og [JavaZone](https://javazone.no/) publiserer også på Echos facebookside.
+Call for volunteers lyses ut noen måneder før konferansene, så det er verdt å følge med. Konferanser som [Booster ](https://boosterconf.no)og [JavaZone](https://javazone.no/) publiserer også på echos facebookside.
 
-### **Echo**
+### **echo**
 
-Ved II er Echo både fagutvalg og linjeforening. Echo består av 12 demokratisk valgte studenter som velges hver vår samt en rekke undergrupper.
+Ved II er echo både fagutvalg og linjeforening. echo består av 12 demokratisk valgte studenter som velges hver vår samt en rekke undergrupper.
 
-- **Echo** har overordnet ansvar for arrangementer og aktiviteter for studentene ved II samt diverse administrativt ansvar for lesesaler og slikt.
+- **echo** har overordnet ansvar for arrangementer og aktiviteter for studentene ved II samt diverse administrativt ansvar for lesesaler og slikt.
 - **Bedriftskomiteen** arrangerer bedriftspresentasjoner og håndterer kontakt med bedrifter.
 - **Gnist** er ansvarlige for rekruttering og fullføring blant studentene ved II. Arrangerer kræsjkurs, kodekvelder og sosiale arrangementer.
 - **Tilde** arrangerer sosiale arrangementer som fester, quiz, LAN osv.
 - **Makerspacet** håndterer faglige arrangementer samt gir studentene muligheter til å prøve seg på praktiske prosjekter. Via dem har man tilgang til blant annet 3D-printing, lodding osv.
-- **Ølbryggingsgjengen** er ølbryggelaget for II som gjennom Echo får støtte til å lære hvordan man brygger eget øl.
+- **Ølbryggingsgjengen** er ølbryggelaget for II som gjennom echo får støtte til å lære hvordan man brygger eget øl.
 
-Echo har et overordnet ansvar for studentsaker som angår det faglige ved instituttet. Echo jobber utelukkende med å gjøre studiehverdagen for informatikere bedre og er studentenes stemme opp mot instituttet, fakultetet og arbeidsmarkedet. Echo har primært to kommunkasjonskanaler, facebook-siden ["echo – Fagutvalget for informatikk, UiB"](https://www.facebook.com/groups/informatikk/) og nettsiden [https://echo.uib.no/](https://echo.uib.no/). Tommelfingerregelen er at alt publiseres på facebook, mens det meste publiseres på nettsiden. Med det meste tenker jeg på ting som fester, workshops og nyheter. Bedriftspresentasjoner kommer på nettsiden først, så det er lurt å følge med på begge. Arrangementer i regi av echo er også å finne i [Echos kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
+echo har et overordnet ansvar for studentsaker som angår det faglige ved instituttet. echo jobber utelukkende med å gjøre studiehverdagen for informatikere bedre og er studentenes stemme opp mot instituttet, fakultetet og arbeidsmarkedet. echo har primært to kommunkasjonskanaler, facebook-siden ["echo – Fagutvalget for informatikk, UiB"](https://www.facebook.com/groups/informatikk/) og nettsiden [https://echo.uib.no/](https://echo.uib.no/). Tommelfingerregelen er at alt publiseres på facebook, mens det meste publiseres på nettsiden. Med det meste tenker jeg på ting som fester, workshops og nyheter. Bedriftspresentasjoner kommer på nettsiden først, så det er lurt å følge med på begge. Arrangementer i regi av echo er også å finne i [echos kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
 
 Har du noe du vil ta opp? Den beste måten å få sine innspill hørt hos fagutvalget, er å bruke dette [tilbakemeldingsskjemaet](https://docs.google.com/forms/d/e/1FAIpQLSe9wayHe_uX3LZyzG0aWa5sO_LcnI_y_UVPUi0JzixYfrtLhA/viewform).
 
-Om du ønsker å ta opp uønskede hendelser, burde du derimot bruke UiBs ["Si ifra"-system](https://www.uib.no/student/111870/si-fra-om-studentmilj%C3%B8et). Da blir sakene håndtert av studentombudet. Send det gjerne også i Echos tilbakemeldingsskjema og vis til at du også har brukt "si ifra". Det er større sannsynlighet for at hendelsen tas på alvor dersom man informerer de ulike instansene om at hendelsen er rapportert inn til flere.
+Om du ønsker å ta opp uønskede hendelser, burde du derimot bruke UiBs ["Si ifra"-system](https://www.uib.no/student/111870/si-fra-om-studentmilj%C3%B8et). Da blir sakene håndtert av studentombudet. Send det gjerne også i echos tilbakemeldingsskjema og vis til at du også har brukt "si ifra". Det er større sannsynlighet for at hendelsen tas på alvor dersom man informerer de ulike instansene om at hendelsen er rapportert inn til flere.
 
 **Om det er snakk om lovbrudd skal man snakke naturligvis kontakte politiet.**
 
 I begge tilbakemeldingsplattformer er det mulig å gi tilbakemeldinger anonymt. All informasjon om echo, finner du på **echo.uib.no**
 
-Echo har også en samling fun facts på: [https://echo.uib.no/visste-du-at/](https://echo.uib.no/visste-du-at/). Her finner du blant annet link til en OneNote med en del notater på.
+echo har også en samling fun facts på: [https://echo.uib.no/visste-du-at/](https://echo.uib.no/visste-du-at/). Her finner du blant annet link til en OneNote med en del notater på.
 
-### Facebookgrupper tilknyttet Echo
+### Facebookgrupper tilknyttet echo
 
-Echo har flere Facebookgrupper og sider du kan være med i. Her kommer litt info om flere av dem.
+echo har flere Facebookgrupper og sider du kan være med i. Her kommer litt info om flere av dem.
 
 - [**echo – Fagutvalget for informatikk, UiB**](https://www.facebook.com/groups/informatikk/) er den offisielle Facebookgruppen til echo. Her publiseres alt fra nyheter som er aktuelle for studenter til fester og andre faglige arrangement.
 - [**echo Aktiv**](https://www.facebook.com/groups/1785913424994492/) Facebook-gruppe hvor man kan få med folk på aktiviteter som å gå på tur, spille fotball, paintball, konserter etc
-- [**echo Makerspace**](https://www.facebook.com/groups/525846757912285/) Echo har et lite makerspace med 3D-printer og verktøy. Har du et hobbyprosjekt du kunne tenke deg å jobbe med, og trenger hardware? Da kan makerspacet være for deg!
+- [**echo Makerspace**](https://www.facebook.com/groups/525846757912285/) echo har et lite makerspace med 3D-printer og verktøy. Har du et hobbyprosjekt du kunne tenke deg å jobbe med, og trenger hardware? Da kan makerspacet være for deg!
 - [**echo squash**](https://www.facebook.com/groups/282025509313458/) Facebookgruppe som echo Aktiv, men kun for squash. Liker du squash og trenger noen å spille med? Da er dette gruppa for deg!
-- [**Næringslivskontakt for informatikkstudenter, Bergen**](https://www.facebook.com/informatikkjobb/) På denne Facebooksiden, publiserer Echos bedriftskomité stillingsutlysninger som er relevante for IT-studenter. Dette er alt fra deltidsjobber i startups til internships og stillinger for nyutdannede.
+- [**Næringslivskontakt for informatikkstudenter, Bergen**](https://www.facebook.com/informatikkjobb/) På denne Facebooksiden, publiserer echos bedriftskomité stillingsutlysninger som er relevante for IT-studenter. Dette er alt fra deltidsjobber i startups til internships og stillinger for nyutdannede.
 
 ### Bedriftspresentasjoner
 
@@ -392,7 +392,7 @@ Bedriftskomiteen arrangerer 8-12 bedriftspresentasjoner i semesteret. Her kommer
 
 Tid/Sted: Torsdager (som regel), etter kl 16.15 på Høyteknologisenteret
 
-Påmelding: Publiseres på Echos offisielle kommunikasjonskanaler (echo.uib.no og facebook) klokken 12, en uke i forkant. merk: dette gjelder uansett hvilken dag bedriftspresentasjonen er.
+Påmelding: Publiseres på echos offisielle kommunikasjonskanaler (echo.uib.no og facebook) klokken 12, en uke i forkant. merk: dette gjelder uansett hvilken dag bedriftspresentasjonen er.
 
 Ikke alle bedriftspresentasjoner er åpne for alle årstrinn. Hvilke trinn den aktuelle bedriftspresentasjonen er åpen for vil informeres i selve posten og på skjemaet. Om du lyver om årstrinnet ditt under en bedpress, kommer du til å bli utestengt fra samtlige bedriftspresentasjoner i et skoleår.
 
