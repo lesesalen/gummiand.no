@@ -96,13 +96,13 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 
 ### Helse
 
-Som informatikkstudent vil du bruke mye tid foran en datamaskin eller bøker, og dette gjør man gjerne sittende. Det anbefales på det sterkeste at du passer på din egen helse, og for mye tid sittende er en god måte å få problemer senere i livet. Ta pauser med jevne mellomrom, strekk litt på beina og gå deg en liten tur i ny og ne. Pass også på øynene dine, for å stirre på kode som ikke fungerer putter mye belastning på øynene dine. For mange vil det å bruke lesebriller være lurt og [Specsavers](https://www.specsavers.no/) tilbyr full sjekk av øyene for en OK pris samt 2-for-1 pris på briller.
-
-Sammen har også en rekke gode tilbud for din fysiske og psykiske velvære, tilbud inkluderer fastlege, psykolog, tannlege, rådgivning med mer. Se alle tilbudene [her](https://www.sammen.no/no/bergen/helse).
+Som informatikkstudent vil du bruke mye tid foran en datamaskin eller bøker, og dette gjør man gjerne sittende. Det anbefales på det sterkeste at du passer på din egen helse. For mye tid sittende er en god måte å få problemer senere i livet. Ta pauser med jevne mellomrom, strekk litt på beina og gå deg en liten tur i ny og ne. Pass også på øynene dine; for å stirre på kode som ikke fungerer kan være en skikkelig belastning på øynene. For mange vil det å bruke lesebriller være lurt og [Specsavers](https://www.specsavers.no/) tilbyr synsundersøkelser for en OK pris samt 2-for-1 pris på briller.
 
 ### Sammen
 
 Sammen (gamle SiB) er Studentsamskipnaden på Vestlandet som har en rekke tilbud for deg som student. Dette inkluderer studentboliger, trening, mat, helse og råd og karrière. Det anbefales at du leser deg opp på alle tilbudene som er tilgjengelige for deg som student slik at du vet hva du kan benytte deg av i din studieperiode.
+
+Sammen har også en rekke gode tilbud for din fysiske og psykiske velvære, tilbud inkluderer fastlege, psykolog, tannlege, rådgivning med mer. Se alle tilbudene [her](https://www.sammen.no/no/bergen/helse).
 
 ### Ordliste og nyttige begreper
 
