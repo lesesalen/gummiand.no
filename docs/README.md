@@ -33,6 +33,10 @@ Innholdsfortegnelse:
       - [Stryk](#stryk)
   - [Lesesaler og grupperom](#lesesaler-og-grupperom)
     - [Institutt for informatikk](#institutt-for-informatikk)
+  - [Valgfag][#valgfag]
+    - [Informatikk](#informatikk)
+    - [InfoMedia](#informedia)
+    - [Matematikk](#matematikk)
   - [Studentgrupper og dette med å engasjere seg sosialt](#studentgrupper-og-dette-med-%C3%A5-engasjere-seg-sosialt)
     - [Verv](#verv)
     - [Konferanser](#konferanser)
@@ -96,9 +100,9 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 
 ### Eduroam
 
-For å komme på nett på UiB, HVL og andre utdanningsinstitusjoner, bruker du et nettverk som heter Eduroam. Dette nettet logger du på med studentkontoen din; brukernavn@uib.no og passord. 
+For å komme på nett på UiB, HVL og andre utdanningsinstitusjoner, bruker du et nettverk som heter Eduroam. Dette nettet logger du på med studentkontoen din; brukernavn@uib.no og passord.
 
->Eduroam finnes også på alle de største flyplassene i Norge.
+> Eduroam finnes også på alle de største flyplassene i Norge.
 
 ### Helse
 
@@ -328,6 +332,43 @@ Matnat har dog et stort bibliotek og et fantastisk læringssenter, i tillegg til
 Informatikklesesalen i datablokka, også kjent som "lesesalen" blant informatikkstudenter, er en lesesal med store gruppebord. Her er det kjøkken med (gratis) kaffe, kjøleskap, brødrister og mikro. Denne er åpen for alle informatikkstudenter og er "vårt eget territorium". Denne administreres i sin helhet av echo, og er døgnåpen. Dette er ikke en stille lesesal i den forstand at det er lov å prate sammen og samarbeide. Her er terskelen også veldig lav for å få hjelp. Husk å bruke innestemme. Det er også lov å bare komme for å henge og drikke kaffe. Informatikkfestene pleier også å arrangeres her. Kjøkkenet kan for mange være skummelt da det ofte sitter eldre studenter i sofaen. De aller færreste biter, og om du sier hei først, kommer de garantert til å si hei tilbake!
 
 I 2. etg. om du holder hardt venstre etter trappen, er det også et mindre stillerom. Dette er en stille leseslal med skillevegger mellom bordene. Denne er åpen mellom 8 og 17 på hverdager. Det finnes også et par kollokvieøyer og en håndfull grupperom i andre etasje + ellers i bygget. Når disse ikke brukes til undervisning kan de bookes her: [https://www.uib.no/foransatte/90989/rombestilling](https://www.uib.no/foransatte/90989/rombestilling)
+
+## Valgfag
+
+Alle bachelorprogrammene på informatikk har flere valgemner, og det kan være vanskelig å finne ut hvilke fag som passer for ditt studieløp og interesser. Avhengig av hva du vil fokusere på og lære er det et vidt spektrum av mulig valg, og ikke alle fagene er på informatikk. Under følger en samling av fag med beskrivelser.
+
+### Informatikk
+
+<dl>
+<dt>INF112: Systemkonstruksjon (vår)</dt>
+<dd>Prosjektfag, for deg som vil lære deg hvordan prosjekter utvikles professjonelt. Faget er delt opp i gruppearbeid hvor man lager en større applikasjon, gjerne et spill og undervisning om utviklingsmetodikk.</dd>
+<dt>INF115: Databaser og modellering (vår)</dt>
+<dd>Databaser brukes i omtrent alt av utvikling. Faget anbefales for alle som vil drive med utvikling.</dd>
+<dt>INF122: Funksjonell programmering (høst)</dt>
+<dd>For deg som vil lære en helt ny og annerledes måte å programmere og tenke på. Her lærer man Haskell, parsing og funksjonell programmering. Forvent bratt læringskurve, studenter som tar faget er splittet om hva man synes; enten elsker man det eller så hater man det.</dd>
+</dl>
+
+### InfoMedia
+
+Dersom du vil lære deg webutvikling, design og UX må du enten lære det selv på nett eller ta fag på InfoMedia.
+
+<dl>
+<dt>INFO134: Klientprogrammering (vår)</dt>
+<dd>Fremtiden er (dessverre) skrevet i JavaScript, og de aller fleste utviklere vil på et eller annet tidspunkt måtte utvikle en webapplikasjon eller nettside. Dette faget gir en innføring i det du trenger for dette.</dd>
+<dt>INFO263: Interaction Design and Prototyping (vår)</dt>
+<dd>Interaksjonsdesign og god UX er viktig ved utvikling av applikasjoner. Dette faget gir en innføring i prototyping og design av interaktive teknologier som nettsider eller mobilapplikasjoner.</dd>
+</dl>
+
+### Matematikk
+
+Viktig å merke seg at ett matematikkfag kan være statistikk!
+
+<dl>
+<dt>MAT102: Brukarkurs i matematikk II</dt>
+<dd>MAT101 sin lille storebror, ofte brukt som et enkelt matematikkfag for en god karakter.</dd>
+<dt>STAT110: Grunnkurs i statistikk (høst)</dt>
+<dd>Statistikk er en viktig del av flere grener av informatikk, fra maskinlæring til nettverkslast til entropi. Man kan også ta STAT101, men STAT110 anbefales.</dd>
+</dl>
 
 ## Studentgrupper og dette med å engasjere seg sosialt
 
