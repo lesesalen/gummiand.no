@@ -33,7 +33,7 @@ Innholdsfortegnelse:
       - [Stryk](#stryk)
   - [Lesesaler og grupperom](#lesesaler-og-grupperom)
     - [Institutt for informatikk](#institutt-for-informatikk)
-  - [Valgfag][#valgfag]
+  - [Valgfag](#valgfag)
     - [Informatikk](#informatikk)
     - [InfoMedia](#informedia)
     - [Matematikk](#matematikk)
