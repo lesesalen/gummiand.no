@@ -75,15 +75,40 @@ Programmeringssider:
 
 Her følger noen tips til studenthverdagen ved II.
 
-Fagforeninger som [Nito](https://www.nito.no/) og [Tekna](https://www.tekna.no/) har studentmedlemsskap som gir deg de samme fordelene som ordentlige medlemsskap, til ca 300 kr/år. Nito har en engangsavgift, mens Tekna tar 150 kr pr semester. For dette får du et utvalg gode forsikringer, lån og andre goder. Tilbudet er omtrent likt hos begge to.
+Elever og studenter i høyere og annen utdanning som ikke kan jobbe ved siden av utdanningen på grunn av nedsatt funksjonsevne, kan få et ekstrastipend. Ekstrastipendet på 3 763 kroner per måned kommer i tillegg til vanlig studiestøtte fra Lånekassen. Dersom du er deltidsstudent, blir ekstrastipendet redusert tilsvarende deltidsprosenten din. Du finner mer informasjon på [lånekassens sider](https://www.lanekassen.no/nb-NO/Stipend-og-lan/Hoyere-utdanning/Hvor-mye-kan-du-fa/Nye-stotteordninger-for-elever-og-studenter-med-nedsatt-funksjonsevne/Ekstra-stipend-/)
+
+### Fagforeninger 
+Fagforeninger som [Nito](https://www.nito.no/) og [Tekna](https://www.tekna.no/) har studentmedlemskap som gir deg de samme fordelene som ordentlige medlemskap. 
+Hos Nito betaler man en engangsavgift på 350kr, og medlemskap var ut studietiden.
+Hos Tekna betaler man 150kr i semsteret for medlemskap.
+Tilbudet er omtrent likt hos begge to.  
+> _Om du melder deg inn ved en Nito/Tekna stand, får man ofte med en drikkeflaske eller annet merch. Du finner dem ofte på RFB ved i starten av semesteret_
+
+Du får veldig gode forsikringsavtaler gjennom fagforeningene. Om du betaler for forsikring, kan du spare penger på å melde deg inn i fagforening.
+- [Tekna Student forsikringsavtaler](https://www.tekna.no/medlemsfordeler/studentmedlemskap/forsikring-for-studenter/)
+- [Nito Student forsikringsavtaler](https://www.nito.no/medlemsfordel/studentforsikring/)
 
 Begge fagforeningene har studentlag ved UiB og HVL som arrangerer faglige kræsjkurs og kurs i ting som boligkjøp og CV-skriving. I tillegg til ting som ølsmaking og turer. De har ikke alltid de samme kræsjkursene eller foredragsholderne, så det er ikke dumt å være med i begge.
 
-Spotify har studentrabatt.
+### Studentrabatter
 
-Elever og studenter i høyere og annen utdanning som ikke kan jobbe ved siden av utdanningen på grunn av nedsatt funksjonsevne, kan få et ekstrastipend. Ekstrastipendet på 3 763 kroner per måned kommer i tillegg til vanlig studiestøtte fra Lånekassen. Dersom du er deltidsstudent, blir ekstrastipendet redusert tilsvarende deltidsprosenten din. Du finner mer informasjon på [lånekassens sider](https://www.lanekassen.no/nb-NO/Stipend-og-lan/Hoyere-utdanning/Hvor-mye-kan-du-fa/Nye-stotteordninger-for-elever-og-studenter-med-nedsatt-funksjonsevne/Ekstra-stipend-/)
+| Tjeneste | Tilbud |
+|----------|--------|
+|[Spotify har studentpriser](https://www.spotify.com/no/student/verification/)|~~109kr~~ 54kr|
+|[IntelliJ](https://www.jetbrains.com/student/)| Gratis |
+|[Github Education](https://education.github.com/pack)|Masse gratis tilbud for studenter|
+|[Synstest hos Brilleland](https://www.brilleland.no/tilbud/studentrabatt/)|~~740kr~~ 550kr|
+|[Lenovo student](https://www.lenovo.com/no/no/studentrabatt/)| _Opp til 20%_|
+|[Dell student](https://www.dell.com/no-no/shop/dell-advantage/cp/students)| 10% på XPS, 5% på Inspiron|
+|[NextGenTel Fiber](https://www.nextgentel.no/privat/student)|_Opp til 600kr avslag mot bindingstid_|  
+|[Skyss ungdomsbillett](https://www.skyss.no/Billettar-og-prisar/billettar-og-prisar2/30-dagars-ungdomsbillett/)|Billigere enn studentbillett om du er under 21|
+|Vy|Samme prisen, men du må ha studentbevis|
+|[Pizzabakeren](https://www.pizzabakeren.no/studentrabatt)|159kr for stor pizza |
+|Øl|Det er ofte studentrabatt, bare å spørre|
 
-**Har du noen tips? ta kontakt med meg, eller lag en pull request**
+<br/>  
+
+**Har du noen flere? Er et tilbud utgått? Lag en pull request**
 
 ### Første Uka
 
