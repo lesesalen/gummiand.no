@@ -103,7 +103,8 @@ Sammen har også en rekke gode tilbud for din fysiske og psykiske velvære, tilb
 - **12. august:** Semesterstart
 - **1. september:** Frist for å godkjenne utdanningsplan for høstsemesteret **og** betale semesteravgift.
 - **1. desember:** Hvert enkelt emnes timeplan for vårsemesteret blir publisert. I tillegg blir litteraturlister (pensum) og eksamensplan publisert.
-- **9. desember:** Studentweb åpner for neste semesters registrering, men fristen er ikke før 1. februar 2020.
+- **9. desember:** Studentweb åpner for neste semesters registrering.
+- **1. februar:** Påmelding til fag stenger.
 
 Et typisk semester foregår slik:
 
@@ -122,10 +123,11 @@ Du kan også ta kontakt med hver enkelt studieveileder direkte:
 
 | Studieveileder                            | Område                                                |
 | ----------------------------------------- | ----------------------------------------------------- |
-| Ida Rosenlund ida.rosenlund@uib.no        | Bachelorprogram, utveksling, innpassing               |
+| Øystein K. Bondevik (vikar ut 2020) studieveileder@ii.uib.no        | Bachelorprogram, utveksling, innpassing               |
 | Pål Magnus Gunnestad pal.gunnestad@uib.no | Masterprogram, forskerutdanning (PhD)                 |
 | Mo Yan Yuen mo.yan.yuen@uib.no            | Eksamen, timeplan, emneevaluering                     |
 | liljan Myhr liljan.myhr@uib.no            | Gruppelederansettelser, klager på karakterfastsetting |
+> Denne informasjonen kan være utdatert, om du trenger direkte kontakt med en veileder, se [ii.uib.no](https://www.uib.no/ii/122768/studieveiledning), men studieveileder@ii.uib.no vil alltid fungere.
 
 Det er tryggest å booke time med dem på epost i forkant, men om du har et raskt spørsmål eller to, eller noe som haster, er de som regel å nå på kontoret. Du kan generelt sett spørre hvem som helst om hva som helst, og om de ikke kan svare på spørsmålet ditt, kan de alltid peke deg i retning av noen som kan!
 
@@ -147,9 +149,12 @@ Sjekk også ut Bookis-appen for enda flere brukte bøker! Om du liker bøkene di
 
 Første semester har man [INF100](https://www.uib.no/emne/INF100), [MAT111](https://www.uib.no/emne/MAT111) og [ex.phil](https://www.uib.no/fag/exphil). Semesteret etter har man [INF101](https://www.uib.no/emne/INF101), [MNF130](https://www.uib.no/emne/MNF130) og et linjespesifikk fag.
 
-> I det daglige omtales gjerne informatikkfag med bare nummeret deres (utenom INF100). Istedenfor å hele tiden si "INF143", sier man gjerne bare "143". Så om noen prater om et fag uten å nevne fagkoden, er det bare å tenke "informatikkfag". Noen ganger kan det også være et matematikkfag, som har unike fagkoder (feks MAT220). Så om du er i tvil, er det bare å spørre!
+> I det daglige omtales gjerne informatikkfag med bare nummeret deres (utenom INF100). Istedenfor å hele tiden si "INF143", sier man gjerne bare "143". Så om noen prater om et fag uten å nevne fagkoden, er det bare å tenke "informatikkfag". Noen ganger kan det også være et matematikkfag, som har unike fagkoder (feks MAT220). Så om du er i tvil, er det bare å spørre!  
 
-Studentene ved II har en [OneNote](http://bit.ly/echo-onenote) hvor du kan finne notater til en del fag. Notatene dekker ikke alle fag siden den ble skrevet for et par år siden, også er kvaliteten på de forskjellige notatene litt så som så, men sjekk den ut!
+Du kan finne notater til fag på [Lesesalen.com/notes](https://lesesalen.com/notes/), men det finnes også en haug med gamle notater på echo sin [OneNote](http://bit.ly/echo-onenote). 
+> Finner du ikke faget du skal ha? Skriv dine egne noter og send en PR.  
+> Pass på at både notatene du finner, og fag som eldre studenter anbefaler deg, ikke nødvendigvis er samme faget. Mange fag bytter pensum og navn.   
+F.eks. INF143 og INF143A, INF240(0) og INF240(1), INF144 og INF242. 
 
 ### Valg av PC
 
@@ -184,17 +189,31 @@ Codeacademy.com har kurs for mange programmeringsspråk (Feks. Python). Ikke all
 
 #### IDEs og Editors
 
-Når man programmerer har man gjerne to typer verktøy. Enten en IDE eller en editor. En editor er et enkelt redigeringsprogram som gir deg det du trenger, syntax highlighting og auto completion. En IDE er storebroren til disse ; her får man gjerne vertøy som debuggere, avansert refaktorering og kompilatorer innebygd. I INF100 bruker du kanskje Jupiter til alle oppgaver og innleveringer, men til senere vil du innstallere en egen IDE.
+Når man programmerer har man gjerne to typer verktøy. Enten en IDE eller en editor. En editor er et enkelt redigeringsprogram som gir deg det du trenger, syntax highlighting og auto completion. En IDE er storebroren til disse ; her får man gjerne verktøy som debuggere, avansert refaktorering og kompilatorer innebygd. I INF100 bruker du kanskje Jupiter til alle oppgaver og innleveringer, men til senere vil du innstallere en egen IDE.
 
-De (sannsynligvis) beste IDEene utvikles av JetBrains. [Jetbrains](https://www.jetbrains.com/student/) har IDE-er for flere språk. Mest aktuelt for nye studenter er gjerne IntelliJ for Java, og PyCharm for Python. Som student får man tilgang til alle verktøyene deres gratis så lenge man er student, registrer deg på lenken og bruk UiB-eposten din.
+**IntelliJ**  
 
-Eclipse er en annen populær IDE for Java. Denne er gratis for alle, og funker fjell på Linux-systemer. Personlig foretrekker jeg IntelliJ. Bruk IntelliJ.
+De (sannsynligvis) beste IDEene utvikles av JetBrains. [Jetbrains](https://www.jetbrains.com/student/) har IDE-er for flere språk. Mest aktuelt for nye studenter er gjerne IntelliJ for Java, og PyCharm for Python. Som student får man tilgang til alle verktøyene deres gratis så lenge man er student, registrer deg på lenken og bruk UiB-eposten din. 
+
+> Jetbrains lager mange forskjellige IDEer, med forskjellige navn. Det er lite forskjell på IntelliJ og PyCharm, da de i bunn er samme program. Det finnes også en open source versjon kalt Community Edition. IDEer som Android Studio er basert på Community versjonen.
+
+**VS Code**
+[VS Code](https://code.visualstudio.com/) er en open source ***editor*** laget av Microsoft, og må ikke blandes med Visual Studio, Microsoft sin C# og .NET IDE. Gir deg mye av den samme funksjonaliteten som IntelliJ, men kan være litt vanskelig for nybegynnere å sette opp. Funker best for de som ønsker å programmere i flere språk med samme program.
 
 #### Git, GitHub, GitLab, Bitbucket
 
 Git er et verktøy for versjonskontroll og kodedeling. Dette betyr at man blant annet kan lagre hele historikken til hvordan koden har utviklet seg, og det er mulig å gå tilbake til et hvilket som helst punkt. Det anbefales å lære seg git litt før man møter det for første gang, det kan være ganske ulogisk og forvirrende. Codecademy har en flott [tutorial](https://www.codecademy.com/learn/learn-git).
 
 Det finnes flere tjenester som tilbyr Git-versjonskontroll. Den mest kjente er GitHub. Det finnes fag ved instituttet hvor man også bruker GitLab til å administrere innleveringer. En del liker også å bruke Bitbucket. Hvordan man derimot bruker selve Git-teknologien er likt for alle tilbyderne.
+
+- **Git:**  
+Gratis program laget av [Linus Torvalds](https://www.youtube.com/watch?v=4XpnKHJAok8)<br/>
+- **Github:**  
+Privat selskap som drifter git servere for deg. Ble kjøpt opp av Microsoft.<br/>
+- **Gitlab:**  
+Åpen versjon av Github, lar deg _hoste din egen versjon av Github_. UiB bruker dette i fag som INF101.<br/>
+- **BitBucket:**  
+Alternativ til Github, hovedsakelig rettet mot bedrifter. Har bra integrasjon med Jira, et populært prosjektledelsesverktøy.  
 
 På GitHub skiller man gjerne mellom offentlige og private repositories. Et offentlig repository kan hvem som helst finne. Det er en fantastisk måte å vise arbeidet sitt frem for andre studenter og potensielle arbeidsgivere. For mindre prosjekter og innleveringer, er private repositories gode å ha. Disse er ikke synlige for allmennheten, og kun tilgjengelige for deg. Uansett om man velger private eller offentlige repositories, kan man legge til og fjerne samarbeidspartnere etter ønske. Private repositories er gratis på GitHub, GitLab og Bitbucket men med noen restriksjoner dersom man ikke har et Pro-abonnement.
 
