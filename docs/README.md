@@ -97,12 +97,24 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 - Møte opp på programmøtet og de første forelesningene. Det vil være et programmøte hvor oppmøte er obligatorisk (Les: Du mister studieplassen din om du ikke møter). Her får du litt info om hvordan instituttet funker, hvem som er studieveiledere osv. I de første forelesningene blir det gitt praktisk informasjon om det aktuelle faget. Dette er ting som eksamensdato, eksamensform, obligatorisk aktivitet, hvem som er gruppeledere etc.
 
 > Du må betale semesteravgiften før du får utbetalt studielånet.
+> Betal med Vipps, så går pengene gjennom med en gang  
+
+**Frist for betaling er *1. September*, du mister studieretten din om du glemmer dette.**
+
+_Univesitetet/Fakultetet/Instituttet/Forelesere sier ofte at 1. forelesning er obligatorisk, men dette gjelder __kun for 1. klassinger og nye Masterstudenter__. Det er mulig å melde seg opp i fag fram til 1. september / 1. februar, og du blir ikke kastet ut av faget om du går glipp av første forelesning._  
 
 ### Eduroam
 
-For å komme på nett på UiB, HVL og andre utdanningsinstitusjoner, bruker du et nettverk som heter Eduroam. Dette nettet logger du på med studentkontoen din; brukernavn@uib.no og passord.
+For å komme på nett på UiB, HVL og andre utdanningsinstitusjoner, bruker du et nettverk som heter Eduroam.  
+Dette nettet logger du på med studentkontoen din; brukernavn@uib.no og passord.  
+>brukernavn@student.uib.no fungerer ikke etter 2017-12-16  
+> Eduroam har en [config tool](https://cat.eduroam.org/?idp=535) om du ikke klarer å koble deg på  
+> Om du har problemer med Eduroam på f.eks Linux, kan du sjekke [denne siden](https://it.uib.no/en/Eduroam)  
+> Eduroam finnes også på alle de største flyplassene i Norge. 
 
-> Eduroam finnes også på alle de største flyplassene i Norge.
+Om du kobler deg til Eduroam på telefonen, kan den koble seg til når du er på bussen/bybanen, som fort kan bli litt irriterende.
+
+Om du har problemer med Eduroam, kan du koble deg på UiB Gjest. Her kan du logge deg inn med telefonnummer og engangskode eller bruke UiB brukernavnet ditt.  `brukernavn:passord`
 
 ### Helse
 
