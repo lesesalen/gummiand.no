@@ -62,22 +62,25 @@ Sammen (gamle SiB) er Studentsamskipnaden på Vestlandet som har en rekke tilbud
 Sammen har også en rekke gode tilbud for din fysiske og psykiske velvære, tilbud inkluderer fastlege, psykolog, tannlege, rådgivning med mer. Se alle tilbudene [her](https://www.sammen.no/no/bergen/helse).
 
 ### Ordliste og nyttige begreper
-
 | UiB-ord               | Forklaring                                                            |
 | --------------------- | --------------------------------------------------------------------- |
 | Mitt UiB              | UiB sitt internsystem for fag, kommunikasjon, innleveringer etc       |
+| Canvas                | Mitt UiB er en fork av Canvas                                         |
 | SEB                   | Forkortelse for Safe Exam Browser                                     |
 | Sebra                 | Sebra.uib.no: Her oppretter du studentkonto og endrer passord         |
 | Kont/Konte            | Nytt eksamensforsøk, normalt tidlig eksamen for studenter som stryker |
-| II                    | Insitutt for informatikk                                              |
+| ii                    | Institutt for informatikk                                              |
 | Matnat                | Matematisk-Naturvitenskapelig fakultet                                |
-| FU                    | Kort for "Fagutvalget", som er echos tidligere navn                   |
-| RFB                   | Realfagsbygget. Se "matnat"                                           |
+| echo                    | echo er Fagutvalget for informatikkstudenter. [Les mer](#echo)                   |
+| FU eller FUii                 | Kort for "Fagutvalget", echos tidligere navn                   |
+| Høyden                | Hele området rundt UiB sitt campus i Bergen sentrum                   |
+| RFB                   | Realfagsbygget. Hovedbygget til MatNat.                                           |
 | Høytek                | Høyteknologisenteret. Thormøhlensgt 55                                |
+| HiB                   | Høyteknologisenteret i Bergen, ikke Høyskolen i Bergen (Nå kalt HVL)   |
 | VilVite               | Undervisningslokaler i nabobygget (som er Vitensenteret)              |
-| Allegaten             | Undervisningslokale ved Matnat                                        |
-| Administrasjonsbygget | Eksamenslokale i Solheimsgaten på Danmarksplass                       |
-| Høyskolen/HVL         | Høyskolen på Vestlandet. Ligger ved Kronstad bybanestopp              |
+| Allegaten 66/ A66     | Undervisningslokale ved Matnat                                        |
+| Administrasjonsbygget | Eksamenslokalet i Solheimsgaten på Danmarksplass                       |
+| Høyskolen/HVL         | Høyskolen på Vestlandet. Ligger ved Kronstad bybanestopp.             |
 | Oblig                 | Obligatorisk oppgave/innlevering                                      |
 
 &nbsp;
