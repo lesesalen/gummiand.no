@@ -71,6 +71,16 @@ Programmeringssider:
 - Kattis: [https://open.kattis.com/](https://open.kattis.com/)
 - HackerRank: [https://www.hackerrank.com/](https://www.hackerrank.com/)
 
+### Samfunn og sosiale nettverk:
+
+- Discord: [https://discord.gg/FB4T6WF](https://discord.gg/FB4T6WF)
+
+- Facebook: 
+    - [echo sin Facebook gruppe: ](https://www.facebook.com/groups/informatikk/)  
+    Her kommer kunngjøringer, bedpresser etc.  
+    - [echo Aktiv/Sosial: ](https://www.facebook.com/groups/1785913424994492/)  
+    Her kan folk poste om de vil finne på noe sosialt, som fjelltur, brettspill, spille switch på lesesalen etc.
+
 ## Livet som (ny) student
 
 Her følger noen tips til studenthverdagen ved II.
