@@ -323,13 +323,19 @@ MAT111 har tidlig eksamen for studenter med [**gyldig fravær**](https://www.uib
 
 ## Lesesaler og grupperom
 
-> Matnat har ganske få grupperom og de er ofte opptatt.
+> * Matnat har ganske få grupperom og de er ofte opptatt.
+> * Du kan booke rom, eller se om et rom er ledig [her.](https://tp.uib.no/) 
+> * Om nettsiden ikke lar deg booke rom, kan man også skrive opp navnet ditt på lappen som henger på døra. 
+> * Finn grupperommet du har booket med [MazeMap](https://use.mazemap.com/).
+> * Mange grupperom har en stor skjerm, som man kan bruke om du vil følge med på en digital forelesning eller sammarbeide med medstudenter. 
+> * Inviter med deg medstudenter om du tenker å bruke grupperom, for det er ikke så mange av dem.
+> * Grupperommene låses på kvelden og i helgene. Pass på at du aldri går ut av rommet uten nøkkelkort. 
 
 Matnat har dog et stort bibliotek og et fantastisk læringssenter, i tillegg til en større lesesal.
 
 ### Institutt for informatikk
 
-Informatikklesesalen i datablokka, også kjent som "lesesalen" blant informatikkstudenter, er en lesesal med store gruppebord. Her er det kjøkken med (gratis) kaffe, kjøleskap, brødrister og mikro. Denne er åpen for alle informatikkstudenter og er "vårt eget territorium". Denne administreres i sin helhet av echo, og er døgnåpen. Dette er ikke en stille lesesal i den forstand at det er lov å prate sammen og samarbeide. Her er terskelen også veldig lav for å få hjelp. Husk å bruke innestemme. Det er også lov å bare komme for å henge og drikke kaffe. Informatikkfestene pleier også å arrangeres her. Kjøkkenet kan for mange være skummelt da det ofte sitter eldre studenter i sofaen. De aller færreste biter, og om du sier hei først, kommer de garantert til å si hei tilbake!
+Informatikklesesalen i datablokka, også kjent som "lesesalen" blant informatikkstudenter, er en lesesal med store gruppebord. Her er det kjøkken med (gratis) kaffe, kjøleskap, vannkoker, brødrister, pizzaovn og mikrobølgeovn. Denne er åpen for alle informatikkstudenter og er "vårt eget territorium". Denne administreres i sin helhet av echo, og er døgnåpen. Dette er ikke en stille lesesal i den forstand at det er lov å prate sammen og samarbeide. Her er terskelen også veldig lav for å få hjelp. Husk å bruke innestemme. Det er også lov å bare komme for å henge og drikke kaffe. Informatikkfestene pleier også å arrangeres her. Kjøkkenet kan for mange være skummelt da det ofte sitter eldre studenter i sofaen. De aller færreste biter, og om du sier hei først, kommer de garantert til å si hei tilbake!
 
 I 2. etg. om du holder hardt venstre etter trappen, er det også et mindre stillerom. Dette er en stille leseslal med skillevegger mellom bordene. Denne er åpen mellom 8 og 17 på hverdager. Det finnes også et par kollokvieøyer og en håndfull grupperom i andre etasje + ellers i bygget. Når disse ikke brukes til undervisning kan de bookes her: [https://www.uib.no/foransatte/90989/rombestilling](https://www.uib.no/foransatte/90989/rombestilling)
 
