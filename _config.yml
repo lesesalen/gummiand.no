@@ -1,0 +1,8 @@
+title: "Informatikk Survival Guide"
+remote_theme: pmarsceill/just-the-docs
+url: "https://gummiand.no"
+
+permalink: pretty
+heading_anchors: true
+gh_edit_repository: https://github.com/lesesalen/gummiand.no
+repository: lesesalen/gummiand.no
