@@ -1,75 +1,22 @@
-# II Survival guide: "Det alle vet, men ingen forteller deg"
+---
+layout: default
+title: Livet som (ny) student
+nav_order: 2
+description: Tips og nyttig informasjon til deg som ny student ved ii
+permalink: /ny-student/
+last_modified_date: 2020-08-31
+---
 
-Som ny student er det mange ting du må få oversikt over, og overgangen fra videregående til universitet er for mange utfordrende. Nå er det ditt eget ansvar å holde oversikt over forelesninger, innleveringer og lese til eksamen. I tillegg skal du håndtere et tonn med informasjon og samtidig kose deg i studietiden. Dette er en survival guide for deg som går ditt første år som informatikkstudent.
+# Livet som ny student
 
-> Disclaimer: Denne guiden reflekterer i stor grad mine personlige synspunkt og meninger, og representerer hverken echo, Helt Sikker eller UiB.
+{: .no_toc }
 
-Innholdsfortegnelse:
+## Innholdsfortegnelse
 
-- [II Survival guide: "Det alle vet, men ingen forteller deg"](#ii-survival-guide-%22Det-alle-vet-men-ingen-forteller-deg%22)
-  - [TL;DR](#tldr)
-  - [Livet som (ny) student](#livet-som-ny-student)
-    - [Første Uka](#første-uka)
-    - [Helse](#helse)
-    - [Sammen](#sammen)
-    - [Ordliste og nyttige begreper](#ordliste-og-nyttige-begreper)
-    - [Kalender for et typisk høstsemester](#kalender-for-et-typisk-h%C3%B8stsemester)
-    - [Studieveiledere](#studieveiledere)
-    - [Bøker](#bøker)
-    - [Fag](#fag)
-    - [Valg av PC](#valg-av-pc)
-    - [Programmeringen](#programmeringen)
-      - [Om Programmering](#om-Programmering)
-      - [IDEs og Editors](#ides-og-editors)
-      - [Git, GitHub, GitLab, Bitbucket](#git-github-gitlab-bitbucket)
-      - [GitHub Student Developer Pack](#github-student-pack)
-      - [Greia med utviklere og gummiender](#greia-med-utviklere-og-gummiender)
-    - [Matematikken](#matematikken)
-    - [Orakeltjeneste](#orakeltjeneste)
-  - [Forelesninger, innleveringer og eksamen](#forelesninger-innleveringer-og-eksamen)
-    - [Forelesninger](#forelesninger)
-    - [Innleveringer](#innleveringer)
-    - [Eksamen](#eksamen)
-      - [Stryk](#stryk)
-  - [Lesesaler og grupperom](#lesesaler-og-grupperom)
-    - [Institutt for informatikk](#institutt-for-informatikk)
-  - [Valgfag](#valgfag)
-    - [Informatikk](#informatikk)
-    - [InfoMedia](#informedia)
-    - [Matematikk](#matematikk)
-  - [Studentgrupper og dette med å engasjere seg sosialt](#studentgrupper-og-dette-med-%C3%A5-engasjere-seg-sosialt)
-    - [Verv](#verv)
-    - [Konferanser](#konferanser)
-    - [**echo**](#echo)
-    - [Facebook grupper tilknyttet echo](#facebook-grupper-tilknyttet-echo)
-    - [Bedriftspresentasjoner](#bedriftspresentasjoner)
-    - [For den sikkerhetsinteresserte](#for-den-sikkerhetsinteresserte)
+{: .no_toc .text-delta }
 
-## TL;DR
-
-- Matnat har en [sjekkliste for studiestart](https://www.uib.no/student/127911/sjekkliste-i-studiestarten).
-- Kontaktinfo til studieveiledere finner du [her](#studieveiledere).
-- Alle [bedriftspresentasjoner](#bedriftspresentasjoner) legges ut på echo.uib.no og echos offisielle Facebookgruppe ca kl. 12, en uke før bedriftspresentasjonens dato.
-- echo har en [kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
-- Booking av grupperom: [https://www.uib.no/foransatte/90989/rombestilling](https://www.uib.no/foransatte/90989/rombestilling)
-
-Nyttige lenker:
-
-- GitHub Student Developer Pack: [https://education.github.com/pack](https://education.github.com/pack)
-- Khan Academy: [https://nb.khanacademy.org/](https://nb.khanacademy.org/)
-- Wolfram Alpha: [https://www.wolframalpha.com/](https://www.wolframalpha.com/)
-
-IDEs:
-
-- JetBrains: [https://www.jetbrains.com/student/](https://www.jetbrains.com/student/) (IntelliJ, PyCharm, WebStorm etc)
-- Eclipse: [https://www.eclipse.org/](https://www.eclipse.org/) (men bruk IntelliJ)
-
-Programmeringssider:
-
-- CodingBat: [https://codingbat.com/python](https://codingbat.com/python)
-- Codecademy: [https://www.codecademy.com/](https://www.codecademy.com/)
-- Kattis: [https://open.kattis.com/](https://open.kattis.com/)
-- HackerRank: [https://www.hackerrank.com/](https://www.hackerrank.com/)
+1. Innholdsfortegnelse
+   {:toc}
 
 ## Livet som (ny) student
 
@@ -278,165 +225,3 @@ Instituttet har sin egen orakeltjeneste. Et par timer, to ganger i uka står en 
 Hver torsdag fra 13-15 steker de vafler, så de kan gjerne kjennes igjen på lukta. Vaflene er helt gratis og for alle, så man trenger virkelig ikke stille spørsmål for å kvalifisere til en vaffel.
 
 > Protip: Om noen steker vafler på lesesalen, blir de sannsynligvis lønnet av universitetet for å svare på spørsmål. Det betyr at ingen spørsmål er for dumme!
-
-## Forelesninger, innleveringer og eksamen
-
-### Forelesninger
-
-En av de største overgangene fra videregående til universitetet er hvordan undervisningen foregår. I en forelesning kan fort være 250 studenter og en foreleser, og ofte blir kun teorien gjennomgått.
-
-I tillegg til forelesningene har man gjerne ukentlige gruppetimer hvor man kan jobbe med ukesoppgaver og innleveringer. Her er det også enklere å stille spørsmål. Selv om det ofte er fullt mulig å stille spørsmål i forelesningene.
-
-En stor forskjell er dog at dette som regel ikke er obligatorisk. Det er med andre ord ditt eget ansvar å delta på forelesninger og gruppetimer.
-
-Du har med andre ord ansvar for din egen læring! Om forelesningene ikke fungerer for deg, reis på lesesalen og les deg opp med hjelp av andre ressurser. Det finnes som regel mange kilder til læring, så det gjelder å finne den som funker best for deg.
-
-Realistiske tips til å være student:
-
-1. Gå i gruppetimer / kollokviegrupper
-2. Gjør (litt) av ekstraoppgavene
-3. Gå i (noen) forelesninger
-
-Om du ikke vil i en forelesning burde du fortsatt reise på lesesalen. Selv om jeg ikke har særlig tro på læring ved osmose, er det lurt å være deltakende i miljøet.
-
-- Du blir kjent med andre studenter
-- Du vet ikke hvem du kan spørre om hjelp uten å ha truffet dem.
-- Vi har mange "kjøkkenforelesninger" hvor noen kanskje har funnet noe kult, eller har et hobbyprosjekt de vil snakke om eller jobbe med.
-
-### Innleveringer
-
-De aller fleste fagene har arbeidskrav i form av innleveringer. Noen har også deleksamener som gjerne teller for 10-ish prosent av sluttkarakteren. Fagene funker som regel enten slik at du må bestå for eksempel 6/8 innleveringer, eller at du får et ekstra forsøk om du skulle stryke. Det er som regel ikke lov til å samarbeide "offisielt" på oppgaver som er obligatoriske arbeidskrav, og universitet er strenge på plagiat. Husk at det dog er lov til å hjelpe hverandre. Personlig tenker jeg at samarbeid er lurt, så lenge du har i bakhodet at det er forskjell på å få hjelp og å skrive av og at du fort gjør deg selv en bjørnetjeneste om du ikke lærer deg pensum.
-
-Hvordan hvert fag fungerer blir gjerne opplyst om på **første** forelesning i tillegg til fagets emnesider på [uib.no](https://www.uib.no/) og [mitt.uib.no](https://mitt.uib.no/).
-
-### Eksamen
-
-Omtrent alle fag ved II har avsluttende eksamen som karaktergrunnlag i faget. Ofte får du gjerne 30% av sluttkarakteren fra de obligatoriske innleveringene, og 70% fra eksamen. Karakterfordelingen er fra A til F, og tilsvarer karakter A=6 og F=1 (stryk) og man trenger som regel 40% (E) på avsluttende eksamen for å stå i faget. Ved UiB har man tre forsøk på å stå et fag. Dette betyr at man normal sett kan gå opp til eksamen i et fag tre ganger, men det er mulig å søke om et fjerde forsøk om det er snakk om et obligatorisk fag. Om du skal trekke deg fra eksamen, er det smart å melde seg av på studentweb senest 14 dager før eksamensdato. På denne måten unngår du å bruke et forsøk. Du kan når som helst melde deg opp til konteeksamen, gitt at arbeidskravene er bestått. Arbeidskrav teller ofte som bestått også ett påfølgende semester. Vi har skriftlig, muntlig og digital eksamen. Skriftlig eksamen er med penn og gjennomslagsark, muntlig eksamen er nettopp det og digital eksamen tar man ved å bruke Insperas Safe Exam Browser (SEB). Her bruker man gjerne sin egen maskin og laster ned programvaren på forhånd. SEB kjører kun på Windows og OSX, og kan ikke kjøres i en VM eller på Linux. UiB har lånemaskiner tilgjengelig under eksamen som du kan bruke om du for eksempel kun har Linux, men dette må bestilles på forhånd. Under eksamen får du et dagspassord, også er maskinen ellers låst ned i denne perioden. Eksamensformen er avklart ved semesterstart, og ingen fag har muntlig eksamen første studieår.
-
-Ved II pleier man å ha en av to lengder på eksamen, enten tre eller fem timer. Tretimers eksamen kan avholdes enten fra 9-12 eller fra 15-18. Dette vil "settes i stein" 14 dager før eksamen, men kan svinge litt før det. Eksamensdato er bestemt ved semesterstart, mens tid og sted ofte kommer senere. Femtimers eksamen er alltid 9-14. **Merk:** En del fag ved Matnat og II har fått så mange studenter at eksamen ofte holdes ved to helt separate steder, alltid sjekk på studentweb hvor _du_ må gå.
-
-#### Stryk
-
-Om du skulle stryke et fag, stopper ikke studieprogresjonen din, men om det er et obligatorisk fag for graden, må dette faget være bestått innen du er ferdig. Du kan fritt melde deg til påfølgende konteeksamen. Om man skulle stryke for eksempel INF142 som går på våren, er konten ofte i midten av september. Og tilsvarende februar/mars for fag som går på høsten. **Unntaket** til denne regelen er fag som går (undervises) både høst og vår, som **INF100**. Da er det ikke tidlig eksamen, men ordinær eksamen påfølgende semester. Så lenge det er plass i faget kan du når som helst ta et fag på nytt, så lenge du ikke har brukt tre forsøk.
-
-MAT111 har tidlig eksamen for studenter med [**gyldig fravær**](https://www.uib.no/student/108981/rett-til-ny-vurdering). Siden dette faget går høst og vår, er det ellers ikke tidlig eksamen. Om du stryker eller vil melde deg til eksamen på nytt, vil denne være i den ordinære eksamensperioden (midten av mai til midten av juni)
-
-## Lesesaler og grupperom
-
-> Matnat har ganske få grupperom og de er ofte opptatt.
-
-Matnat har dog et stort bibliotek og et fantastisk læringssenter, i tillegg til en større lesesal.
-
-### Institutt for informatikk
-
-Informatikklesesalen i datablokka, også kjent som "lesesalen" blant informatikkstudenter, er en lesesal med store gruppebord. Her er det kjøkken med (gratis) kaffe, kjøleskap, brødrister og mikro. Denne er åpen for alle informatikkstudenter og er "vårt eget territorium". Denne administreres i sin helhet av echo, og er døgnåpen. Dette er ikke en stille lesesal i den forstand at det er lov å prate sammen og samarbeide. Her er terskelen også veldig lav for å få hjelp. Husk å bruke innestemme. Det er også lov å bare komme for å henge og drikke kaffe. Informatikkfestene pleier også å arrangeres her. Kjøkkenet kan for mange være skummelt da det ofte sitter eldre studenter i sofaen. De aller færreste biter, og om du sier hei først, kommer de garantert til å si hei tilbake!
-
-I 2. etg. om du holder hardt venstre etter trappen, er det også et mindre stillerom. Dette er en stille leseslal med skillevegger mellom bordene. Denne er åpen mellom 8 og 17 på hverdager. Det finnes også et par kollokvieøyer og en håndfull grupperom i andre etasje + ellers i bygget. Når disse ikke brukes til undervisning kan de bookes her: [https://www.uib.no/foransatte/90989/rombestilling](https://www.uib.no/foransatte/90989/rombestilling)
-
-## Valgfag
-
-Alle bachelorprogrammene på informatikk har flere valgemner, og det kan være vanskelig å finne ut hvilke fag som passer for ditt studieløp og interesser. Avhengig av hva du vil fokusere på og lære er det et vidt spektrum av mulig valg, og ikke alle fagene er på informatikk. Under følger en samling av fag med beskrivelser.
-
-### Informatikk
-
-<dl>
-<dt>INF112: Systemkonstruksjon (vår)</dt>
-<dd>Prosjektfag, for deg som vil lære deg hvordan prosjekter utvikles professjonelt. Faget er delt opp i gruppearbeid hvor man lager en større applikasjon, gjerne et spill og undervisning om utviklingsmetodikk.</dd>
-<dt>INF115: Databaser og modellering (vår)</dt>
-<dd>Databaser brukes i omtrent alt av utvikling. Faget anbefales for alle som vil drive med utvikling.</dd>
-<dt>INF122: Funksjonell programmering (høst)</dt>
-<dd>For deg som vil lære en helt ny og annerledes måte å programmere og tenke på. Her lærer man Haskell, parsing og funksjonell programmering. Forvent bratt læringskurve, studenter som tar faget er splittet om hva man synes; enten elsker man det eller så hater man det.</dd>
-</dl>
-
-### InfoMedia
-
-Dersom du vil lære deg webutvikling, design og UX må du enten lære det selv på nett eller ta fag på InfoMedia.
-
-<dl>
-<dt>INFO134: Klientprogrammering (vår)</dt>
-<dd>Fremtiden er (dessverre) skrevet i JavaScript, og de aller fleste utviklere vil på et eller annet tidspunkt måtte utvikle en webapplikasjon eller nettside. Dette faget gir en innføring i det du trenger for dette.</dd>
-<dt>INFO263: Interaction Design and Prototyping (vår)</dt>
-<dd>Interaksjonsdesign og god UX er viktig ved utvikling av applikasjoner. Dette faget gir en innføring i prototyping og design av interaktive teknologier som nettsider eller mobilapplikasjoner.</dd>
-</dl>
-
-### Matematikk
-
-Viktig å merke seg at ett matematikkfag kan være statistikk!
-
-<dl>
-<dt>MAT102: Brukarkurs i matematikk II</dt>
-<dd>MAT101 sin lille storebror, ofte brukt som et enkelt matematikkfag for en god karakter.</dd>
-<dt>STAT110: Grunnkurs i statistikk (høst)</dt>
-<dd>Statistikk er en viktig del av flere grener av informatikk, fra maskinlæring til nettverkslast til entropi. Man kan også ta STAT101, men STAT110 anbefales.</dd>
-</dl>
-
-## Studentgrupper og dette med å engasjere seg sosialt
-
-Frivillig engasjement er en fantastisk måte å bli kjent med andre likesinnede studenter, få litt faglig påfyll og bygge nettverk. Mange studenter oppdager for sent at de gjerne skulle hatt et verv eller to på CV-en.
-
-Engasjer deg! Her er det bare fordeler :)
-
-Om du ønsker å arrangere noe for studentene og trenger penger, har echo et eget søknadsskjema for dette. Det finner du [her](https://docs.google.com/forms/d/e/1FAIpQLSdf8jZhB_yKxEJEa461GmXz3JsdxqMoJLilQ49ZRlnqJw8ayg/viewform)
-
-### Verv
-
-Verv i studentforeninger er en fantastisk måte å engasjere seg i studentmiljøet. På informatikk har vi en mengde komitéer og grupper, som alle stadig trenger folk!
-
-Matnat har en studentavis som må skrives, en studentbar som trenger folk, fagforeningers studentlag, og mye mer. Så lenge du har tid til overs, har du ingenting å tape på å bli med i et lag eller en forening.
-
-Mange vurderer å engasjere seg for sent. Det er kun styret i echo som velges med ordinært valg hvert år. Andre undergrupper og komitéer har opptak en gang eller to i året ved at man sender inn en søknad. Det er mange som vurderer å engasjere seg for sent. Om du går ditt 3+ studieår, har du dessverre liten sjanse vil å bli valgt, ettersom at man foretrekker studenter som kan være med så lenge som mulig. Avhengig av gruppen eller studentorganisasjonen pleier et verv sjelden å ta mye tid ut av uka, men forhør deg med medlemmer for sikkerhets skyld.
-
-### Konferanser
-
-IT-verdenen er bygget på konferanser, hvor man får faglig påfyll og muligheten til å treffe andre i fagmiljøet. Disse koster dessverre mange tusen kroner, og er out of reach for de aller fleste studenter. Konferanser er store dyr som trenger mange mennesker, og som ofte er drevet på frivillighet.
-
-Dette er en gyldne mulighet for deg som student. Som frivillig får du bidra til miljøet (mat for CV-en), bli kjent med andre folk og lære nye ting om spennende teknologi! Som frivillig har du ikke vakter hele tiden, så du får nok av tid til å se på foredrag. Du trenger ikke erfaring for å være frivillig, så det er verdt å prøve seg allerede på 1. året.
-
-Call for volunteers lyses ut noen måneder før konferansene, så det er verdt å følge med. Konferanser som [Booster ](https://boosterconf.no)og [JavaZone](https://javazone.no/) publiserer også på echos facebookside.
-
-### **echo**
-
-Ved II er echo både fagutvalg og linjeforening. echo består av 12 demokratisk valgte studenter som velges hver vår samt en rekke undergrupper.
-
-- **echo** har overordnet ansvar for arrangementer og aktiviteter for studentene ved II samt diverse administrativt ansvar for lesesaler og slikt.
-- **Bedriftskomiteen** arrangerer bedriftspresentasjoner og håndterer kontakt med bedrifter.
-- **Gnist** er ansvarlige for rekruttering og fullføring blant studentene ved II. Arrangerer kræsjkurs, kodekvelder og sosiale arrangementer.
-- **Tilde** arrangerer sosiale arrangementer som fester, quiz, LAN osv.
-- **Makerspacet** håndterer faglige arrangementer samt gir studentene muligheter til å prøve seg på praktiske prosjekter. Via dem har man tilgang til blant annet 3D-printing, lodding osv.
-- **Ølbryggingsgjengen** er ølbryggelaget for II som gjennom echo får støtte til å lære hvordan man brygger eget øl.
-
-echo har et overordnet ansvar for studentsaker som angår det faglige ved instituttet. echo jobber utelukkende med å gjøre studiehverdagen for informatikere bedre og er studentenes stemme opp mot instituttet, fakultetet og arbeidsmarkedet. echo har primært to kommunkasjonskanaler, facebook-siden ["echo – Fagutvalget for informatikk, UiB"](https://www.facebook.com/groups/informatikk/) og nettsiden [https://echo.uib.no/](https://echo.uib.no/). Tommelfingerregelen er at alt publiseres på facebook, mens det meste publiseres på nettsiden. Med det meste tenker jeg på ting som fester, workshops og nyheter. Bedriftspresentasjoner kommer på nettsiden først, så det er lurt å følge med på begge. Arrangementer i regi av echo er også å finne i [echos kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
-
-Har du noe du vil ta opp? Den beste måten å få sine innspill hørt hos fagutvalget, er å bruke dette [tilbakemeldingsskjemaet](https://docs.google.com/forms/d/e/1FAIpQLSe9wayHe_uX3LZyzG0aWa5sO_LcnI_y_UVPUi0JzixYfrtLhA/viewform).
-
-Om du ønsker å ta opp uønskede hendelser, burde du derimot bruke UiBs ["Si ifra"-system](https://www.uib.no/student/111870/si-fra-om-studentmilj%C3%B8et). Da blir sakene håndtert av studentombudet. Send det gjerne også i echos tilbakemeldingsskjema og vis til at du også har brukt "si ifra". Det er større sannsynlighet for at hendelsen tas på alvor dersom man informerer de ulike instansene om at hendelsen er rapportert inn til flere.
-
-**Om det er snakk om lovbrudd skal man snakke naturligvis kontakte politiet.**
-
-I begge tilbakemeldingsplattformer er det mulig å gi tilbakemeldinger anonymt. All informasjon om echo, finner du på **echo.uib.no**
-
-echo har også en samling fun facts på: [https://echo.uib.no/visste-du-at/](https://echo.uib.no/visste-du-at/). Her finner du blant annet link til en OneNote med en del notater på.
-
-### Facebookgrupper tilknyttet echo
-
-echo har flere Facebookgrupper og sider du kan være med i. Her kommer litt info om flere av dem.
-
-- [**echo – Fagutvalget for informatikk, UiB**](https://www.facebook.com/groups/informatikk/) er den offisielle Facebookgruppen til echo. Her publiseres alt fra nyheter som er aktuelle for studenter til fester og andre faglige arrangement.
-- [**echo Aktiv**](https://www.facebook.com/groups/1785913424994492/) Facebook-gruppe hvor man kan få med folk på aktiviteter som å gå på tur, spille fotball, paintball, konserter etc
-- [**echo Makerspace**](https://www.facebook.com/groups/525846757912285/) echo har et lite makerspace med 3D-printer og verktøy. Har du et hobbyprosjekt du kunne tenke deg å jobbe med, og trenger hardware? Da kan makerspacet være for deg!
-- [**echo squash**](https://www.facebook.com/groups/282025509313458/) Facebookgruppe som echo Aktiv, men kun for squash. Liker du squash og trenger noen å spille med? Da er dette gruppa for deg!
-- [**Næringslivskontakt for informatikkstudenter, Bergen**](https://www.facebook.com/informatikkjobb/) På denne Facebooksiden, publiserer echos bedriftskomité stillingsutlysninger som er relevante for IT-studenter. Dette er alt fra deltidsjobber i startups til internships og stillinger for nyutdannede.
-
-### Bedriftspresentasjoner
-
-Bedriftskomiteen arrangerer 8-12 bedriftspresentasjoner i semesteret. Her kommer bedrifter for å presentere seg overfor studenter og bli kjent med dem. Selve presentasjonen varer gjerne en til halvannen time, og etterfølges av mat og drikke. Da reiser man gjerne ut og spiser på en restaurant på bedriftens regning. Hvilke bedrifter som kommer, varierer stort. Her er alt fra sikkerhetsselskap som Mnemonic, til NAV og konsulentselskap som Bekk og Computas.
-
-Tid/Sted: Torsdager (som regel), etter kl 16.15 på Høyteknologisenteret
-
-Påmelding: Publiseres på echos offisielle kommunikasjonskanaler (echo.uib.no og facebook) klokken 12, en uke i forkant. merk: dette gjelder uansett hvilken dag bedriftspresentasjonen er.
-
-Ikke alle bedriftspresentasjoner er åpne for alle årstrinn. Hvilke trinn den aktuelle bedriftspresentasjonen er åpen for vil informeres i selve posten og på skjemaet. Om du lyver om årstrinnet ditt under en bedpress, kommer du til å bli utestengt fra samtlige bedriftspresentasjoner i et skoleår.
-
-### For den sikkerhetsinteresserte
-
-Ved II finnes det en faggruppe som heter **Helt Sikker**. Helt Sikker er en studentorganisasjon/linjeforening som har som målsetning å tilby studenter en arena for å lære informasjonssikkerhet, og samtidig bygge et miljø for sikkerhetsinteresserte studenter. Helt Sikker arrangerer workshops, CTF-er, foredrag mm. Om dette høres spennende ut, finner du mer informasjon på [heltsikker.no](https://www.heltsikker.no/) eller på deres [facebook-side.](https://www.facebook.com/groups/heltsikker/)
