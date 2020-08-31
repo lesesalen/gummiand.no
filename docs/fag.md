@@ -36,8 +36,6 @@ Alle bachelorprogrammene på informatikk har flere valgemner, og det kan være v
 Dersom du vil lære deg webutvikling, design og UX må du enten lære det selv på nett eller ta fag på InfoMedia.
 
 <dl>
-<dt>INFO134: Klientprogrammering (vår)</dt>
-<dd>Fremtiden er (dessverre) skrevet i JavaScript, og de aller fleste utviklere vil på et eller annet tidspunkt måtte utvikle en webapplikasjon eller nettside. Dette faget gir en innføring i det du trenger for dette.</dd>
 <dt>INFO263: Interaction Design and Prototyping (vår)</dt>
 <dd>Interaksjonsdesign og god UX er viktig ved utvikling av applikasjoner. Dette faget gir en innføring i prototyping og design av interaktive teknologier som nettsider eller mobilapplikasjoner.</dd>
 </dl>

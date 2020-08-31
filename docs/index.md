@@ -17,9 +17,10 @@ Som ny student er det mange ting du må få oversikt over, og overgangen fra vid
 
 - Matnat har en [sjekkliste for studiestart](https://www.uib.no/student/127911/sjekkliste-i-studiestarten).
 - Kontaktinfo til studieveiledere finner du [her](#studieveiledere).
-- Alle [bedriftspresentasjoner](#bedriftspresentasjoner) legges ut på echo.uib.no og echos offisielle Facebookgruppe ca kl. 12, en uke før bedriftspresentasjonens dato.
-- echo har en [kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
-- Booking av grupperom: [https://www.uib.no/foransatte/90989/rombestilling](https://www.uib.no/foransatte/90989/rombestilling)
+- [Bedriftspresentasjoner](#bedriftspresentasjoner) kommer på [echo.uib.no](https://echo.uib.no/) og [echos offisielle Facebookgruppe](#Facebookgrupper) ca kl. 12, en uke før bedriftspresentasjonens dato. Vanligvis Torsdag.
+- echo har en egen kalender: [Google](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo), eller som [iCal](https://calendar.google.com/calendar/ical/t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com/public/basic.ics)
+- Finn timeplaner og book grupperom: [https://tp.uib.no/](https://tp.uib.no)
+- Sier `rom H205M3` deg lite? Sjekk [MazeMap](https://use.mazemap.com/)
 
 Nyttige lenker:
 
@@ -30,7 +31,7 @@ Nyttige lenker:
 IDEs:
 
 - JetBrains: [https://www.jetbrains.com/student/](https://www.jetbrains.com/student/) (IntelliJ, PyCharm, WebStorm etc)
-- Eclipse: [https://www.eclipse.org/](https://www.eclipse.org/) (men bruk IntelliJ)
+- VS Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 Programmeringssider:
 
@@ -38,3 +39,13 @@ Programmeringssider:
 - Codecademy: [https://www.codecademy.com/](https://www.codecademy.com/)
 - Kattis: [https://open.kattis.com/](https://open.kattis.com/)
 - HackerRank: [https://www.hackerrank.com/](https://www.hackerrank.com/)
+ 
+### Samfunn og sosiale nettverk:
+
+- Discord: [https://discord.gg/FB4T6WF](https://discord.gg/FB4T6WF)
+- Facebook: 
+    - [echo sin Facebook gruppe: ](https://www.facebook.com/groups/informatikk/)  
+    Her kommer kunngjøringer, bedpresser etc.  
+    - [echo Aktiv/Sosial: ](https://www.facebook.com/groups/1785913424994492/)  
+    Her kan folk poste om de vil finne på noe sosialt, som fjelltur, brettspill, spille switch på lesesalen etc.
+

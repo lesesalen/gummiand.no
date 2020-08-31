@@ -7,6 +7,8 @@ permalink: /verv-og-grupper/
 last_modified_date: 2020-08-31
 ---
 
+# Verv og grupper
+
 ## Innholdsfortegnelse
 
 {: .no_toc .text-delta }
@@ -47,7 +49,7 @@ Ved II er echo både fagutvalg og linjeforening. echo består av 12 demokratisk 
 - **Gnist** er ansvarlige for rekruttering og fullføring blant studentene ved II. Arrangerer kræsjkurs, kodekvelder og sosiale arrangementer.
 - **Tilde** arrangerer sosiale arrangementer som fester, quiz, LAN osv.
 - **Makerspacet** håndterer faglige arrangementer samt gir studentene muligheter til å prøve seg på praktiske prosjekter. Via dem har man tilgang til blant annet 3D-printing, lodding osv.
-- **Ølbryggingsgjengen** er ølbryggelaget for II som gjennom echo får støtte til å lære hvordan man brygger eget øl.
+- **Bryggelaget ii** er et samarbeidsprosjekt mellom echo og ii. De brygger øl i 3. etasje.
 
 echo har et overordnet ansvar for studentsaker som angår det faglige ved instituttet. echo jobber utelukkende med å gjøre studiehverdagen for informatikere bedre og er studentenes stemme opp mot instituttet, fakultetet og arbeidsmarkedet. echo har primært to kommunkasjonskanaler, facebook-siden ["echo – Fagutvalget for informatikk, UiB"](https://www.facebook.com/groups/informatikk/) og nettsiden [https://echo.uib.no/](https://echo.uib.no/). Tommelfingerregelen er at alt publiseres på facebook, mens det meste publiseres på nettsiden. Med det meste tenker jeg på ting som fester, workshops og nyheter. Bedriftspresentasjoner kommer på nettsiden først, så det er lurt å følge med på begge. Arrangementer i regi av echo er også å finne i [echos kalender](https://calendar.google.com/calendar/embed?src=t3rc186t378bvsv4mjpie6l1ic%40group.calendar.google.com&ctz=Europe%2FOslo)
 
@@ -61,15 +63,21 @@ I begge tilbakemeldingsplattformer er det mulig å gi tilbakemeldinger anonymt. 
 
 echo har også en samling fun facts på: [https://echo.uib.no/visste-du-at/](https://echo.uib.no/visste-du-at/). Her finner du blant annet link til en OneNote med en del notater på.
 
-### Facebookgrupper tilknyttet echo
+### Facebookgrupper
 
 echo har flere Facebookgrupper og sider du kan være med i. Her kommer litt info om flere av dem.
 
+**Grupper underlagt echo**
 - [**echo – Fagutvalget for informatikk, UiB**](https://www.facebook.com/groups/informatikk/) er den offisielle Facebookgruppen til echo. Her publiseres alt fra nyheter som er aktuelle for studenter til fester og andre faglige arrangement.
 - [**echo Aktiv**](https://www.facebook.com/groups/1785913424994492/) Facebook-gruppe hvor man kan få med folk på aktiviteter som å gå på tur, spille fotball, paintball, konserter etc
+- [**echo Fjellturchallenge**](https://www.facebook.com/groups/747988622245069/) Konkurranse om å gå flest fjellturer på et semester
 - [**echo Makerspace**](https://www.facebook.com/groups/525846757912285/) echo har et lite makerspace med 3D-printer og verktøy. Har du et hobbyprosjekt du kunne tenke deg å jobbe med, og trenger hardware? Da kan makerspacet være for deg!
-- [**echo squash**](https://www.facebook.com/groups/282025509313458/) Facebookgruppe som echo Aktiv, men kun for squash. Liker du squash og trenger noen å spille med? Da er dette gruppa for deg!
 - [**Næringslivskontakt for informatikkstudenter, Bergen**](https://www.facebook.com/informatikkjobb/) På denne Facebooksiden, publiserer echos bedriftskomité stillingsutlysninger som er relevante for IT-studenter. Dette er alt fra deltidsjobber i startups til internships og stillinger for nyutdannede.
+
+**Interessegrupper og andre organisasjoner**
+- [Helt sikker](https://www.facebook.com/groups/heltsikker/)
+- [Informatikkband](https://www.facebook.com/groups/722075571587466/)
+- [echo Squash](https://www.facebook.com/groups/282025509313458/)
 
 ### Bedriftspresentasjoner
 
