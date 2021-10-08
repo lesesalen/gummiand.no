@@ -55,7 +55,7 @@ Begge fagforeningene har studentlag ved UiB og HVL som arrangerer faglige kræsj
 
 <br/>  
 
-**Har du noen flere? Er et tilbud utgått? Lag en pull request**
+**Vet du om flere tilbud? Er et tilbud utgått? Lag en pull request**
 
 ### Første Uka
 
@@ -93,7 +93,9 @@ Om du har problemer med Eduroam, kan du koble deg på UiB Gjest. Her kan du logg
 Som informatikkstudent vil du bruke mye tid foran en datamaskin eller bøker, og dette gjør man gjerne sittende. Det anbefales på det sterkeste at du passer på din egen helse. For mye tid sittende er en god måte å få problemer senere i livet. Ta pauser med jevne mellomrom, strekk litt på beina og gå deg en liten tur i ny og ne. Pass også på øynene dine; for å stirre på kode som ikke fungerer kan være en skikkelig belastning på øynene. For mange vil det å bruke lesebriller være lurt og briller er ikke så dyrt. [Databriller er ikke nødvendig](https://www.tmc.edu/news/2020/01/debunking-blue-light-glasses-claims-to-focus-on-proven-eye-issues/), men selv om du bare har ***litt dårlig syn***, burde du bruke briller når du jobber med skole.
 
 ### Trening
+
 Her er en liste over alle treningssentere i Bergen. Om du liker å trene med venner, så havner man som regel på Sammen trening. Om du trener alene, så er det mange andre å velge mellom  
+
 #### **[Sammen trening](https://www.sammen.no/no/bergen/trening)**
 Sammen er billigst, og koster kun 1200kr per semester. Det er da 200kr/mnd.  
 Sammen har [dårlige åpningstider](https://www.sammen.no/no/bergen/trening/apningstider), spesielt i helgene og rundt eksamensperiodene.
@@ -149,6 +151,7 @@ Sammen (tidligere kalt SiB) er Studentsamskipnaden på Vestlandet som har en rek
 Sammen har også en rekke gode tilbud for din fysiske og psykiske velvære, tilbud inkluderer fastlege, psykolog, tannlege, rådgivning med mer. Se alle tilbudene [her](https://www.sammen.no/no/bergen/helse).
 
 ### Ordliste og nyttige begreper
+
 | UiB-ord               | Forklaring                                                            |
 | --------------------- | --------------------------------------------------------------------- |
 | Mitt UiB              | UiB sitt internsystem for fag, kommunikasjon, innleveringer etc       |
@@ -169,8 +172,6 @@ Sammen har også en rekke gode tilbud for din fysiske og psykiske velvære, tilb
 | Administrasjonsbygget | Eksamenslokalet i Solheimsgaten på Danmarksplass                       |
 | Høyskolen/HVL         | Høyskolen på Vestlandet. Ligger ved Kronstad bybanestopp.             |
 | Oblig                 | Obligatorisk oppgave/innlevering                                      |
-
-&nbsp;
 
 | Tech-ord                    | Forklaring                                                                             |
 | --------------------------- | -------------------------------------------------------------------------------------- |
@@ -209,14 +210,16 @@ Et typisk semester foregår slik:
 Om du lurer på noe som helst om studieprogresjon, instituttet eller studiet i seg selv, er studieveilederne tilgjengelige for deg! De holder til i 4. etasje på Institutt for informatikk, og bak infoskranken på Matnat.
 
 Den beste måten å komme i kontakt med studieveilederne på instituttet er å sende en epost til **studieveiledere@ii.uib.no**. Mailen går da til samtlige, og da vet man også at saken blir behandlet selv om en av veilederene ikke er på jobb.
+
 Du kan også ta kontakt med hver enkelt studieveileder direkte:
 
 | Studieveileder                            | Område                                                |
 | ----------------------------------------- | ----------------------------------------------------- |
-| Øystein K. Bondevik (vikar ut 2020) studieveileder@ii.uib.no        | Bachelorprogram, utveksling, innpassing               |
+| Ida Rosenlund ida.rosenlund@uib.no        | Bachelorprogram, utveksling, innpassing               |
 | Pål Magnus Gunnestad pal.gunnestad@uib.no | Masterprogram, forskerutdanning (PhD)                 |
 | Mo Yan Yuen mo.yan.yuen@uib.no            | Eksamen, timeplan, emneevaluering                     |
 | liljan Myhr liljan.myhr@uib.no            | Gruppelederansettelser, klager på karakterfastsetting |
+
 > Denne informasjonen kan være utdatert, om du trenger direkte kontakt med en veileder, se [ii.uib.no](https://www.uib.no/ii/122768/studieveiledning), men studieveileder@ii.uib.no vil alltid fungere.
 
 Det er tryggest å booke time med dem på epost i forkant, men om du har et raskt spørsmål eller to, eller noe som haster, er de som regel å nå på kontoret. Du kan generelt sett spørre hvem som helst om hva som helst, og om de ikke kan svare på spørsmålet ditt, kan de alltid peke deg i retning av noen som kan!
@@ -296,14 +299,9 @@ Git er et verktøy for versjonskontroll og kodedeling. Dette betyr at man blant 
 
 Det finnes flere tjenester som tilbyr Git-versjonskontroll. Den mest kjente er GitHub. Det finnes fag ved instituttet hvor man også bruker GitLab til å administrere innleveringer. En del liker også å bruke Bitbucket. Hvordan man derimot bruker selve Git-teknologien er likt for alle tilbyderne.
 
-- **Git:**  
-Gratis program laget av [Linus Torvalds](https://www.youtube.com/watch?v=4XpnKHJAok8)<br/>
-- **Github:**  
-Privat selskap som drifter git servere for deg. Ble kjøpt opp av Microsoft.<br/>
-- **Gitlab:**  
-Åpen versjon av Github, lar deg _hoste din egen versjon av Github_. UiB bruker dette i fag som INF101.<br/>
-- **BitBucket:**  
-Alternativ til Github, hovedsakelig rettet mot bedrifter. Har bra integrasjon med Jira, et populært prosjektledelsesverktøy.  
+- **Git:** Den underliggende og orginale teknologien for alle tjenester som bygger på git.
+- **GitHub:** Den mest populære plattformen for versjonskontroll.
+- **GitLab/BitBucket:** Alternativ til GitHub
 
 På GitHub skiller man gjerne mellom offentlige og private repositories. Et offentlig repository kan hvem som helst finne. Det er en fantastisk måte å vise arbeidet sitt frem for andre studenter og potensielle arbeidsgivere. For mindre prosjekter og innleveringer, er private repositories gode å ha. Disse er ikke synlige for allmennheten, og kun tilgjengelige for deg. Uansett om man velger private eller offentlige repositories, kan man legge til og fjerne samarbeidspartnere etter ønske. Private repositories er gratis på GitHub, GitLab og Bitbucket men med noen restriksjoner dersom man ikke har et Pro-abonnement.
 
