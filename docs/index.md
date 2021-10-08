@@ -39,13 +39,12 @@ Programmeringssider:
 - Codecademy: [https://www.codecademy.com/](https://www.codecademy.com/)
 - Kattis: [https://open.kattis.com/](https://open.kattis.com/)
 - HackerRank: [https://www.hackerrank.com/](https://www.hackerrank.com/)
- 
+
 ### Samfunn og sosiale nettverk:
 
 - Discord: [https://discord.gg/FB4T6WF](https://discord.gg/FB4T6WF)
-- Facebook: 
-    - [echo](https://www.facebook.com/groups/informatikk/)  
-    Her kommer kunngjøringer, bedpresser etc.  
-    - [EFO - echo Fritidsordning](https://www.facebook.com/groups/1785913424994492/)  
+- Facebook:
+  - [echo](https://www.facebook.com/groups/informatikk/)  
+    Her kommer kunngjøringer, bedpresser etc.
+  - [EFO - echo Fritidsordning](https://www.facebook.com/groups/1785913424994492/)  
     Her kan folk poste om de vil finne på noe sosialt, som fjelltur, brettspill, spille switch på lesesalen etc.
-
