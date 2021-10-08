@@ -8,15 +8,13 @@ last_modified_date: 2020-08-31
 ---
 
 # Valgfag
-
 {: .no_toc}
 
 ## Innholdsfortegnelse
-
 {: .no_toc .text-delta }
 
 1. Innholdsfortegnelse
-   {:toc}
+{:toc}
 
 Alle bachelorprogrammene på informatikk har flere valgemner, og det kan være vanskelig å finne ut hvilke fag som passer for ditt studieløp og interesser. Avhengig av hva du vil fokusere på og lære er det et vidt spektrum av mulig valg, og ikke alle fagene er på informatikk. Under følger en samling av fag med beskrivelser.
 
