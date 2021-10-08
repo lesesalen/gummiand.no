@@ -68,6 +68,7 @@ echo har også en samling fun facts på: [https://echo.uib.no/visste-du-at/](htt
 echo har flere Facebookgrupper og sider du kan være med i. Her kommer litt info om flere av dem.
 
 **Grupper underlagt echo**
+
 - [**echo – Fagutvalget for informatikk, UiB**](https://www.facebook.com/groups/informatikk/) er den offisielle Facebookgruppen til echo. Her publiseres alt fra nyheter som er aktuelle for studenter til fester og andre faglige arrangement.
 - [**echo Aktiv**](https://www.facebook.com/groups/1785913424994492/) Facebook-gruppe hvor man kan få med folk på aktiviteter som å gå på tur, spille fotball, paintball, konserter etc
 - [**echo Fjellturchallenge**](https://www.facebook.com/groups/747988622245069/) Konkurranse om å gå flest fjellturer på et semester
@@ -75,6 +76,7 @@ echo har flere Facebookgrupper og sider du kan være med i. Her kommer litt info
 - [**Næringslivskontakt for informatikkstudenter, Bergen**](https://www.facebook.com/informatikkjobb/) På denne Facebooksiden, publiserer echos bedriftskomité stillingsutlysninger som er relevante for IT-studenter. Dette er alt fra deltidsjobber i startups til internships og stillinger for nyutdannede.
 
 **Interessegrupper og andre organisasjoner**
+
 - [Helt sikker](https://www.facebook.com/groups/heltsikker/)
 - [Informatikkband](https://www.facebook.com/groups/722075571587466/)
 - [echo Squash](https://www.facebook.com/groups/282025509313458/)

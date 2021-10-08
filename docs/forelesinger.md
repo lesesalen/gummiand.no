@@ -60,13 +60,13 @@ MAT111 har tidlig eksamen for studenter med [**gyldig fravær**](https://www.uib
 
 ## Lesesaler og grupperom
 
-> * Matnat har ganske få grupperom og de er ofte opptatt.
-> * Du kan booke rom, eller se om et rom er ledig [her.](https://tp.uib.no/) 
-> * Om nettsiden ikke lar deg booke rom, kan man også skrive opp navnet ditt på lappen som henger på døra. 
-> * Finn grupperommet du har booket med [MazeMap](https://use.mazemap.com/).
-> * Mange grupperom har en stor skjerm, som man kan bruke om du vil følge med på en digital forelesning eller sammarbeide med medstudenter. 
-> * Inviter med deg medstudenter om du tenker å bruke grupperom, for det er ikke så mange av dem.
-> * Grupperommene låses på kvelden og i helgene. Pass på at du aldri går ut av rommet uten nøkkelkort. 
+> - Matnat har ganske få grupperom og de er ofte opptatt.
+> - Du kan booke rom, eller se om et rom er ledig [her.](https://tp.uib.no/)
+> - Om nettsiden ikke lar deg booke rom, kan man også skrive opp navnet ditt på lappen som henger på døra.
+> - Finn grupperommet du har booket med [MazeMap](https://use.mazemap.com/).
+> - Mange grupperom har en stor skjerm, som man kan bruke om du vil følge med på en digital forelesning eller sammarbeide med medstudenter.
+> - Inviter med deg medstudenter om du tenker å bruke grupperom, for det er ikke så mange av dem.
+> - Grupperommene låses på kvelden og i helgene. Pass på at du aldri går ut av rommet uten nøkkelkort.
 
 Matnat har dog et stort bibliotek og et fantastisk læringssenter, i tillegg til en større lesesal.
 
