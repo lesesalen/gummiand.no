@@ -8,13 +8,13 @@ last_modified_date: 2020-08-31
 ---
 
 # Verv og grupper
+{: .no_toc }
 
 ## Innholdsfortegnelse
-
 {: .no_toc .text-delta }
 
 1. Innholdsfortegnelse
-   {:toc}
+{:toc}
 
 ## Studentgrupper og dette med å engasjere seg sosialt
 
