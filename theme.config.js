@@ -1,7 +1,7 @@
 export default {
   github: "https://github.com/lesesalen/gummiand.no",
   docsRepositoryBase: "https://github.com/lesesalen/gummiand.no/blob/master",
-  titleSuffix: " – Gummiand",
+  titleSuffix: " | Gummiand",
   nextLinks: true,
   prevLinks: true,
   search: true,
@@ -18,41 +18,49 @@ export default {
       </span>
     </>
   ),
-  head: (
-    <>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta name="description" content="Gummiand: II Survival Guide" />
-      <meta name="og:description" content="Gummiand: II Survival Guide" />
-      <meta name="og:title" content="Gummiand: II Survival Guide" />
-      <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="/apple-icon-180x180.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="192x192"
-        href="/android-icon-192x192.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="/favicon-32x32.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="96x96"
-        href="/favicon-96x96.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="/favicon-16x16.png"
-      />
-    </>
-  ),
+  head: ({ title, meta }) => {
+    return (
+      <>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta httpEquiv="Content-Language" content="no" />
+        <meta
+          name="description"
+          content={meta.description ?? "Gummiand: II Survival Guide"}
+        />
+        <meta
+          name="og:description"
+          content={meta.description ?? "Gummiand: II Survival Guide"}
+        />
+        <meta
+          name="og:title"
+          content={
+            title ? `${title} | Gummiand` : "Gummiand: II Survival Guide"
+          }
+        />
+        <link
+          rel="apple-touch-icon"
+          sizes="180x180"
+          href="/apple-touch-icon.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="192x192"
+          href="/android-chrome-192x192.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="16x16"
+          href="/favicon-16x16.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href="/favicon-32x32.png"
+        />
+      </>
+    );
+  },
 };
