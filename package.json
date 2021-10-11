@@ -5,6 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "next",
+    "lint": "next lint",
     "start": "next start",
     "build": "next build",
     "format": "prettier --check pages",
@@ -28,6 +29,8 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
     "prettier": "2.4.1"
   }
 }

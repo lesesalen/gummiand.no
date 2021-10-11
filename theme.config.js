@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   github: "https://github.com/lesesalen/gummiand.no",
   docsRepositoryBase: "https://github.com/lesesalen/gummiand.no/blob/master",
   titleSuffix: " | Gummiand",
