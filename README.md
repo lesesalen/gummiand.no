@@ -16,11 +16,12 @@ Om det er noe som mangler, eller er galt er det bare å clone repoet og lage en 
 
 ## Utvikling
 
-Dersom du vil se lokalt det du jobber med kan du bruke Docker til å vise siden lokalt:
+Nettsiden er skrevet i [`Nextra`](https://nextra.vercel.app/), så for å kjøre siden lokalt trenger du å installere [Node.js](https://nodejs.org/en/)
+på maskinen din. Se intrukser på nettsidere deres. Etter det kan du kjøre:
 
 ```sh
-$ docker build -t gummiand .
-$ docker run -it --rm -p 4000:4000 -v "$PWD":/usr/src/app:z --name gummiand gummiand
+$ npm install
+$ npm run dev
 ```
 
-Og åpne `localhost:4000` i nettleseren din. Men du skal ikke trenge det med mindre du gjør større endringer, som f.eks. å flytte filer eller konfigurere rotfiler osv.
+Nettleseren din kommer antakeligvis til å automatisk åpnes på `localhost:3000`, om ikke kan du gå der manuelt selv. Men du skal ikke trenge det med mindre du gjør større endringer, som f.eks. å flytte filer eller konfigurere rotfiler osv.

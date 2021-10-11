@@ -1,20 +1,4 @@
----
-layout: default
-title: Verv og grupper
-nav_order: 3
-description: Verv og grupper som det kan være viktig å vite om på ii/MatNat
-permalink: /verv-og-grupper/
-last_modified_date: 2020-08-31
----
-
 # Verv og grupper
-{: .no_toc }
-
-## Innholdsfortegnelse
-{: .no_toc .text-delta }
-
-1. Innholdsfortegnelse
-{:toc}
 
 ## Studentgrupper og dette med å engasjere seg sosialt
 
@@ -24,7 +8,7 @@ Engasjer deg! Her er det bare fordeler :)
 
 Om du ønsker å arrangere noe for studentene og trenger penger, har echo et eget søknadsskjema for dette. Det finner du [her](https://docs.google.com/forms/d/e/1FAIpQLSdf8jZhB_yKxEJEa461GmXz3JsdxqMoJLilQ49ZRlnqJw8ayg/viewform)
 
-### Verv
+## Verv
 
 Verv i studentforeninger er en fantastisk måte å engasjere seg i studentmiljøet. På informatikk har vi en mengde komitéer og grupper, som alle stadig trenger folk!
 
@@ -32,7 +16,7 @@ Matnat har en studentavis som må skrives, en studentbar som trenger folk, fagfo
 
 Mange vurderer å engasjere seg for sent. Det er kun styret i echo som velges med ordinært valg hvert år. Andre undergrupper og komitéer har opptak en gang eller to i året ved at man sender inn en søknad. Det er mange som vurderer å engasjere seg for sent. Om du går ditt 3+ studieår, har du dessverre liten sjanse vil å bli valgt, ettersom at man foretrekker studenter som kan være med så lenge som mulig. Avhengig av gruppen eller studentorganisasjonen pleier et verv sjelden å ta mye tid ut av uka, men forhør deg med medlemmer for sikkerhets skyld.
 
-### Konferanser
+## Konferanser
 
 IT-verdenen er bygget på konferanser, hvor man får faglig påfyll og muligheten til å treffe andre i fagmiljøet. Disse koster dessverre mange tusen kroner, og er out of reach for de aller fleste studenter. Konferanser er store dyr som trenger mange mennesker, og som ofte er drevet på frivillighet.
 
@@ -40,7 +24,7 @@ Dette er en gyldne mulighet for deg som student. Som frivillig får du bidra til
 
 Call for volunteers lyses ut noen måneder før konferansene, så det er verdt å følge med. Konferanser som [Booster ](https://boosterconf.no)og [JavaZone](https://javazone.no/) publiserer også på echos facebookside.
 
-### **echo**
+## **echo**
 
 Ved II er echo både fagutvalg og linjeforening. echo består av 12 demokratisk valgte studenter som velges hver vår samt en rekke undergrupper.
 
@@ -63,7 +47,7 @@ I begge tilbakemeldingsplattformer er det mulig å gi tilbakemeldinger anonymt. 
 
 echo har også en samling fun facts på: [https://echo.uib.no/visste-du-at/](https://echo.uib.no/visste-du-at/). Her finner du blant annet link til en OneNote med en del notater på.
 
-### Facebookgrupper
+## Facebookgrupper
 
 echo har flere Facebookgrupper og sider du kan være med i. Her kommer litt info om flere av dem.
 
@@ -81,7 +65,7 @@ echo har flere Facebookgrupper og sider du kan være med i. Her kommer litt info
 - [Informatikkband](https://www.facebook.com/groups/722075571587466/)
 - [echo Squash](https://www.facebook.com/groups/282025509313458/)
 
-### Bedriftspresentasjoner
+## Bedriftspresentasjoner
 
 Bedriftskomiteen arrangerer 8-12 bedriftspresentasjoner i semesteret. Her kommer bedrifter for å presentere seg overfor studenter og bli kjent med dem. Selve presentasjonen varer gjerne en til halvannen time, og etterfølges av mat og drikke. Da reiser man gjerne ut og spiser på en restaurant på bedriftens regning. Hvilke bedrifter som kommer, varierer stort. Her er alt fra sikkerhetsselskap som Mnemonic, til NAV og konsulentselskap som Bekk og Computas.
 
@@ -91,6 +75,6 @@ Påmelding: Publiseres på echos offisielle kommunikasjonskanaler (echo.uib.no o
 
 Ikke alle bedriftspresentasjoner er åpne for alle årstrinn. Hvilke trinn den aktuelle bedriftspresentasjonen er åpen for vil informeres i selve posten og på skjemaet. Om du lyver om årstrinnet ditt under en bedpress, kommer du til å bli utestengt fra samtlige bedriftspresentasjoner i et skoleår.
 
-### For den sikkerhetsinteresserte
+## For den sikkerhetsinteresserte
 
 Ved II finnes det en faggruppe som heter **Helt Sikker**. Helt Sikker er en studentorganisasjon/linjeforening som har som målsetning å tilby studenter en arena for å lære informasjonssikkerhet, og samtidig bygge et miljø for sikkerhetsinteresserte studenter. Helt Sikker arrangerer workshops, CTF-er, foredrag mm. Om dette høres spennende ut, finner du mer informasjon på [heltsikker.no](https://www.heltsikker.no/) eller på deres [facebook-side.](https://www.facebook.com/groups/heltsikker/)

@@ -1,28 +1,10 @@
----
-layout: default
-title: Livet som (ny) student
-nav_order: 2
-description: Tips og nyttig informasjon til deg som ny student ved ii
-permalink: /ny-student/
-last_modified_date: 2020-08-31
----
-
 # Livet som ny student
-{: .no_toc }
-
-## Innholdsfortegnelse
-{: .no_toc .text-delta }
-
-1. Innholdsfortegnelse
-{:toc}
-
-## Livet som (ny) student
 
 Her følger noen tips til studenthverdagen ved II.
 
 Elever og studenter i høyere og annen utdanning som ikke kan jobbe ved siden av utdanningen på grunn av nedsatt funksjonsevne, kan få et ekstrastipend. Ekstrastipendet på 3 763 kroner per måned kommer i tillegg til vanlig studiestøtte fra Lånekassen. Dersom du er deltidsstudent, blir ekstrastipendet redusert tilsvarende deltidsprosenten din. Du finner mer informasjon på [lånekassens sider](https://www.lanekassen.no/nb-NO/Stipend-og-lan/Hoyere-utdanning/Hvor-mye-kan-du-fa/Nye-stotteordninger-for-elever-og-studenter-med-nedsatt-funksjonsevne/Ekstra-stipend-/)
 
-### Fagforeninger
+## Fagforeninger
 
 Fagforeninger som [Nito](https://www.nito.no/) og [Tekna](https://www.tekna.no/) har studentmedlemskap som gir deg de samme fordelene som ordentlige medlemskap.
 Hos Nito betaler man en engangsavgift på 350kr, og medlemskap var ut studietiden.
@@ -38,7 +20,7 @@ Du får veldig gode forsikringsavtaler gjennom fagforeningene. Om du betaler for
 
 Begge fagforeningene har studentlag ved UiB og HVL som arrangerer faglige kræsjkurs og kurs i ting som boligkjøp og CV-skriving. I tillegg til ting som ølsmaking og turer. De har ikke alltid de samme kræsjkursene eller foredragsholderne, så det er ikke dumt å være med i begge.
 
-### Studentrabatter
+## Studentrabatter
 
 | Tjeneste                                                                                                        | Tilbud                                         |
 | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
@@ -58,7 +40,7 @@ Begge fagforeningene har studentlag ved UiB og HVL som arrangerer faglige kræsj
 
 **Vet du om flere tilbud? Er et tilbud utgått? Lag en pull request**
 
-### Første Uka
+## Første Uka
 
 Disse linkene er stappfulle av nyttig informasjon og tidsfrister: [UiBs sjekkliste for studiestart](https://www.uib.no/student/127911/sjekkliste-i-studiestarten) og [Matnat sin guide for hva som skjer rundt semesterstart](https://www.uib.no/matnat/52774/velkommen-som-ny-student#uke-33-12-nbsp-16-august-).
 
@@ -76,7 +58,7 @@ Den første uka er det mange ting som skjer: Klassemottak og fadderuke, forelesn
 
 _Univesitetet/Fakultetet/Instituttet/Forelesere sier ofte at 1. forelesning er obligatorisk, men dette gjelder **kun for 1. klassinger og nye Masterstudenter**. Det er mulig å melde seg opp i fag fram til 1. september / 1. februar, og du blir ikke kastet ut av faget om du går glipp av første forelesning._
 
-### Eduroam
+## Eduroam
 
 For å komme på nett på UiB, HVL og andre utdanningsinstitusjoner, bruker du et nettverk som heter Eduroam.  
 Dette nettet logger du på med studentkontoen din; brukernavn@uib.no og passord.
@@ -90,15 +72,15 @@ Om du kobler deg til Eduroam på telefonen, kan den koble seg til når du er på
 
 Om du har problemer med Eduroam, kan du koble deg på UiB Gjest. Her kan du logge deg inn med telefonnummer og engangskode eller bruke UiB brukernavnet ditt. `brukernavn:passord`
 
-### Helse
+## Helse
 
 Som informatikkstudent vil du bruke mye tid foran en datamaskin eller bøker, og dette gjør man gjerne sittende. Det anbefales på det sterkeste at du passer på din egen helse. For mye tid sittende er en god måte å få problemer senere i livet. Ta pauser med jevne mellomrom, strekk litt på beina og gå deg en liten tur i ny og ne. Pass også på øynene dine; for å stirre på kode som ikke fungerer kan være en skikkelig belastning på øynene. For mange vil det å bruke lesebriller være lurt og briller er ikke så dyrt. [Databriller er ikke nødvendig](https://www.tmc.edu/news/2020/01/debunking-blue-light-glasses-claims-to-focus-on-proven-eye-issues/), men selv om du bare har **_litt dårlig syn_**, burde du bruke briller når du jobber med skole.
 
-### Trening
+## Trening
 
 Her er en liste over alle treningssentere i Bergen. Om du liker å trene med venner, så havner man som regel på Sammen trening. Om du trener alene, så er det mange andre å velge mellom
 
-#### **[Sammen trening](https://www.sammen.no/no/bergen/trening)**
+### **[Sammen trening](https://www.sammen.no/no/bergen/trening)**
 
 Sammen er billigst, og koster kun 1200kr per semester. Det er da 200kr/mnd.  
 Sammen har [dårlige åpningstider](https://www.sammen.no/no/bergen/trening/apningstider), spesielt i helgene og rundt eksamensperiodene.
@@ -108,7 +90,7 @@ Det er ofte stappet i rushtider (12.00 og 16.00), og i koronatidene kan det bli 
 
 > Alle andre er ordinære treningssentre, med lav studentandel. Unngå å trene mellom 07.00-09.00 og 15.00-18.00 om du ikke liker å stå i kø.
 
-#### **[SATS](https://www.sats.no/bli-medlem/student/)**
+### **[SATS](https://www.sats.no/bli-medlem/student/)**
 
 SATS er størst i Norge, og tilbyr mange sentere i Bergen.  
 Bor du nærme Lagunen Storsenter eller Horisont Åsane, så har de store sentere på toppen av senteret.
@@ -116,30 +98,30 @@ SATS har ganske like åpningstider som Sammen, med unntak av [Danmarksplass](htt
 Studentpris er 20% avslag, så grunnpakke er ca. 350kr/mnd med 12 måneder bindingstid.
 De tilbyr masse gruppetrening, som koster ekstra, og tredemøllene blir plutselig opptatt på grunn av en løpetime.
 
-#### **[iTrain](https://www.itrain.no/bli-medlem-naa)**
+### **[iTrain](https://www.itrain.no/bli-medlem-naa)**
 
 For deg som liker å trene klokka 03.22 på en onsdag.  
 iTrain har 3 knøttsmå sentere i Bergen, men tilbyr døgnåpen tilgang. Ja, det er folk som kommer og trener der midt på natta.
 Studentpris er 1674kr/semester (279kr/mnd).
 
-#### **[Evo fitness](https://evofitness.no/)**
+### **[Evo fitness](https://evofitness.no/)**
 
 Evo er et ganske nytt senter i Bergen. De har ubemannet åpningstid fra 05.00-24.00.  
 De har ikke studentpriser, og koster 379kr/mnd.
 
-#### **[nr1Fitness](https://www.nr1fitness.no/studentpakken/)**
+### **[nr1Fitness](https://www.nr1fitness.no/studentpakken/)**
 
 De har 10 sentere i Bergen. Jeg tror at de tidligere var døgnåpne, men er nå åpne fra 05.00-24.00.  
 Studenter kan trene på alle sentere i Bergen for 275kr/mnd uten binding.
 
-#### **[Bergen Tennis Arena](https://bergentennisarena.no/?page_id=2612)**
+### **[Bergen Tennis Arena](https://bergentennisarena.no/?page_id=2612)**
 
 Paradis tennis klubb har et digert senter på Slettebakken, men et treningssenter.
 Innmelding i PKT koster 450kr(nif).  
 Uten binding: 359kr/mnd
 Med binding: 312kr/mnd inkl. PKT medlemskap
 
-#### Annet:
+### Annet:
 
 Det finnes en rekke andre tilbud i Bergen, bla.
 
@@ -152,13 +134,13 @@ Det finnes en rekke andre tilbud i Bergen, bla.
 - [Svømming](https://adoarena.no/no/)
 - [Tennis](https://bergentennisarena.no/)
 
-### Sammen
+## Sammen
 
 Sammen (tidligere kalt SiB) er Studentsamskipnaden på Vestlandet som har en rekke tilbud for deg som student. Dette inkluderer studentboliger, trening, mat, helse og råd og karrière. Det anbefales at du leser deg opp på alle tilbudene som er tilgjengelige for deg som student slik at du vet hva du kan benytte deg av i din studieperiode.
 
 Sammen har også en rekke gode tilbud for din fysiske og psykiske velvære, tilbud inkluderer fastlege, psykolog, tannlege, rådgivning med mer. Se alle tilbudene [her](https://www.sammen.no/no/bergen/helse).
 
-### Ordliste og nyttige begreper
+## Ordliste og nyttige begreper
 
 | UiB-ord               | Forklaring                                                            |
 | --------------------- | --------------------------------------------------------------------- |
@@ -197,7 +179,7 @@ Sammen har også en rekke gode tilbud for din fysiske og psykiske velvære, tilb
 | TL;DR                       | "Too long; didn't read"                                                                |
 | Linux                       | "Type operativsystem", alternativt til Windows og OSX                                  |
 
-### Kalender for et typisk høstsemester
+## Kalender for et typisk høstsemester
 
 - **12. august:** Semesterstart
 - **1. september:** Frist for å godkjenne utdanningsplan for høstsemesteret **og** betale semesteravgift.
@@ -213,7 +195,7 @@ Et typisk semester foregår slik:
 - Det er høstferie andre-ish uka i oktober. Da pleier en del forelesere også å ha forelesningsfri.
 - I slutten av november begynner eksamensperioden. Forelesninger og innleveringer pleier normalt å gå ut første uka i desember. Etter det er det eksamenslesing og ingen forelesninger resten av semesteret. Siste dato eksamen _kan_ avholdes er 22. desember, men det er relativt sjelden. Når du har avlagt din siste eksamen er semesteret over.
 
-### Studieveiledere
+## Studieveiledere
 
 Om du lurer på noe som helst om studieprogresjon, instituttet eller studiet i seg selv, er studieveilederne tilgjengelige for deg! De holder til i 4. etasje på Institutt for informatikk, og bak infoskranken på Matnat.
 
@@ -234,7 +216,7 @@ Det er tryggest å booke time med dem på epost i forkant, men om du har et rask
 
 Om du har krav på (eller kan ha krav på) tilrettelagt undervisning eller eksamen, er dette folkene å prate med.
 
-### Bøker
+## Bøker
 
 Pensumbøker er dyre. En del bøker er greie å ha nye, mens andre er supre å kjøpe brukt. I en del fag kan du også slippe unna med å bruke en eldre versjon også. Det som skiller er som regel et kapittel og noen oppgavetekster, så i fag som INF142 går det helt fint å bruke en eldre utgave. Ofte bruker man også samme utgave i flere år, så det pleier å være mulig å få tak i brukte bøker i OK+ stand. Du trenger aldri pensumbøkene til første forelesning, så det er ikke vits i å stresse med å ha gjort alle innkjøpene til semesterstart. Mange bøker kan man også finne gratis på nettet i PDF-format, om det er mer din jam.
 
@@ -246,7 +228,7 @@ Sjekk ut Facebookgrupper som
 
 Sjekk også ut Bookis-appen for enda flere brukte bøker! Om du liker bøkene dine nye, er det også helt OK, men sjekk ut [Adlibris](https://www.adlibris.com/no). Bøkene er som regel en god del billigere der enn på [Akademika](https://www.akademika.no/). Akademika finner du forøvrig på studentsenteret på Nygårdshøyden om du trenger kalkulator, bøker eller annet materiell. Adlibris kan noen ganger ta litt tid, men pleier å være verdt det!
 
-### Fag
+## Fag
 
 Første semester har man [INF100](https://www.uib.no/emne/INF100), [MAT111](https://www.uib.no/emne/MAT111) og [ex.phil](https://www.uib.no/fag/exphil). Semesteret etter har man [INF101](https://www.uib.no/emne/INF101), [MNF130](https://www.uib.no/emne/MNF130) og et linjespesifikk fag.
 
@@ -258,13 +240,13 @@ Du kan finne notater til fag på [Lesesalen.com/notes](https://lesesalen.com/not
 > Pass på at både notatene du finner, og fag som eldre studenter anbefaler deg, ikke nødvendigvis er samme faget. Mange fag bytter pensum og navn.  
 > F.eks. INF143 og INF143A, INF240(0) og INF240(1), INF144 og INF242.
 
-### Valg av PC
+## Valg av PC
 
 Det er ofte mye usikkerhet når det kommer til hvilken PC og operativsystem en skal velge. På informatikkstudiet bruker omtrent like mange Windows som OSX som en eller annen Linuxdistro. Det eneste som er verdt å merke seg er at eksamensprogramvaren ikke er Linuxkompatibelt og krever en lånepc (se [eksamen](#eksamen)).
 
 Om du skal velge PC ut fra et kriterie, burde det (etter min mening) være Ram (minne). Velg 16GB, så har du nok til å kjøre nettleser, IDE og virtuelle maskiner samtidig også. Dette er en PC du skal dra med deg, så vekt er kanskje en faktor å vurdere. Stikkontakter finnes i alle auditorium, så batterilevetid er nok mindre viktig. Under mitt første år brukte jeg skole-PCen fra videregående, og den funket også helt fint, selv om den ikke var topspekket.
 
-### Programmeringen
+## Programmeringen
 
 > Å lære seg programmering er som å lære å lese på nytt
 
@@ -272,7 +254,7 @@ De fleste av studentene som går på dette instituttet kunne ikke programmere f�
 
 > Det tar tid før koding og lesing av kode faller naturlig, ikke forvent å mestre det med en gang
 
-#### Om Programmering
+### Om Programmering
 
 I ditt første semester lærer du å programmere i Python (INF100). I INF101 kommer du til å lære Java. Avhengig av valgfag og studieprogram vil du kanskje komme borti Haskell og C++ på senere tidspunkt. I løpet av studietiden kommer du til å bli kjent med en hel drøss med teknologier, og selv om det kanskje høres helt overveldende ut med en gang, vil alt gi mening etterhvert. For selv om du i første semester, føler du har mer enn nok med Python, kommer du etterhvert til å kunne programmere så godt at språket du programmerer i ikke spiller stor rolle.
 
@@ -289,7 +271,7 @@ Det arrangeres også en del arrangement i kompetitiv programmering (etter vanlig
 
 Codeacademy.com har kurs for mange programmeringsspråk (Feks. Python). Ikke alle kursene er gratis, men mange er!
 
-#### IDEs og Editors
+### IDEs og Editors
 
 Når man programmerer har man gjerne to typer verktøy. Enten en IDE eller en editor. En editor er et enkelt redigeringsprogram som gir deg det du trenger, syntax highlighting og auto completion. En IDE er storebroren til disse ; her får man gjerne verktøy som debuggere, avansert refaktorering og kompilatorer innebygd. I INF100 bruker du kanskje Jupiter til alle oppgaver og innleveringer, men til senere vil du innstallere en egen IDE.
 
@@ -302,7 +284,7 @@ De (sannsynligvis) beste IDEene utvikles av JetBrains. [Jetbrains](https://www.j
 **VS Code**
 [VS Code](https://code.visualstudio.com/) er en open source **_editor_** laget av Microsoft, og må ikke blandes med Visual Studio, Microsoft sin C# og .NET IDE. Gir deg mye av den samme funksjonaliteten som IntelliJ, men kan være litt vanskelig for nybegynnere å sette opp. Funker best for de som ønsker å programmere i flere språk med samme program.
 
-#### Git, GitHub, GitLab, Bitbucket
+### Git, GitHub, GitLab, Bitbucket
 
 Git er et verktøy for versjonskontroll og kodedeling. Dette betyr at man blant annet kan lagre hele historikken til hvordan koden har utviklet seg, og det er mulig å gå tilbake til et hvilket som helst punkt. Det anbefales å lære seg git litt før man møter det for første gang, det kan være ganske ulogisk og forvirrende. Codecademy har en flott [tutorial](https://www.codecademy.com/learn/learn-git).
 
@@ -316,17 +298,17 @@ På GitHub skiller man gjerne mellom offentlige og private repositories. Et offe
 
 Men frykt ikke. Det finnes håp!
 
-#### GitHub Student Developer Pack
+### GitHub Student Developer Pack
 
 Ved å registrere studentkontoen din, kan du få masse snacks gratis [her](https://education.github.com/pack). Dette inkluderer gratis GitHub, Bootstrap Studio, GitKraken (for de som liker grafiske grensesnitt for git), JetBrains lisenser, et gratis domene i ett år, og mye mer.
 
 Første semester gjøres det meste av kodingen i Jupiter, så det er ikke nødvendig å stresse seg med å lære seg alt med en gang. Men det er kjekt å vite at disse tingene eksisterer, når det blir aktuelt!
 
-#### Greia med utviklere og gummiender
+### Greia med utviklere og gummiender
 
 Gummiender er en populær meme blant IT-folk, og refererer til "rubber duck debugging". Ofte er alt du trenger for å løse et problem, å forklare koden høyt til deg selv eller andre. Noen bruker medstudenter, andre bruker gummiender og noen bruker ingenting. Valget er helt opp til deg! Men dette er faktisk en god måte å få et nytt perspektiv på problemet.
 
-### Matematikken
+## Matematikken
 
 Matematikken er for mange tøff det første året. I MAT111 har man 8 obligatoriske innleveringer i løpet av semesteret, hvor 6 av dem må bestås. Det arrangeres gruppetimer hver uke hvor man kan jobbe med oppgaver og få hjelp av en gruppeleder som selv er student og har tatt faget. Om du er typen som ikke trives særlig godt i forelesninger anbefaler jeg virkelig å gå i gruppetimene! I dem kan du i stor grad jobbe i ditt eget tempo og få veiledningen tilpasset det du faktisk sliter med på det tidspunktet.
 
@@ -334,7 +316,7 @@ Matematikken er for mange tøff det første året. I MAT111 har man 8 obligatori
 
 [Wolfram Alpha](https://www.wolframalpha.com/) er en kraftig nettbasert kalkulator/orakelside. Fantastisk for å løse seige ligninger. Den finnes også som mobilapp. Pro-versjonen av appen er en engangsbetaling á 32 kr, mens Wolfram Alpha Pro koster \$4.75 i måneden.
 
-### Orakeltjeneste
+## Orakeltjeneste
 
 Instituttet har sin egen orakeltjeneste. Et par timer, to ganger i uka står en gruppe eldre studenter på kjøkkenet på lesesalen, for å svare på spørsmål. De har røde gensere og fagkoder på ryggen som viser hvilke fag de er mest komfortable med å bistå i. Man kan generelt spørre hvem som helst på lesesalen, om de ikke kan svare på spørsmålet, kjenner de garantert noen som kan!
 
