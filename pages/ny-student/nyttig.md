@@ -1,3 +1,7 @@
+---
+description: Nyttig informasjon, forkortelser og lignende.
+---
+
 # Nyttig informasjon
 
 ## Ordliste og nyttige begreper

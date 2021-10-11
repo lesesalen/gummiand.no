@@ -1,3 +1,7 @@
+---
+description: Hvordan forholde deg til forelesinger, innleveringer og eksamner
+---
+
 # Forelesninger, innleveringer og eksamen
 
 ## Forelesninger

@@ -1,6 +1,6 @@
 ---
 title: Informatikk Survival Guide
-description: Gummiand en samling tips og triks for nye studenter som veteranene" ved II har samlet gjennom sin tid ved UiB
+description: Gummiand en samling tips og triks for nye studenter som veteranene ved II har samlet gjennom sin tid ved UiB
 ---
 
 # II Survival guide: "Det alle vet, men ingen forteller deg"
