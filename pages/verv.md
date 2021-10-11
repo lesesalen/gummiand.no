@@ -1,3 +1,7 @@
+---
+description: Verv og grupper som det kan være viktig å vite om på ii/MatNat
+---
+
 # Verv og grupper
 
 ## Studentgrupper og dette med å engasjere seg sosialt

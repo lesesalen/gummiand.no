@@ -1,3 +1,7 @@
+---
+description: Tilbud og muligheter for trening og psykisk helse.
+---
+
 # Helse
 
 Som informatikkstudent vil du bruke mye tid foran en datamaskin eller bøker, og dette gjør man gjerne sittende. Det anbefales på det sterkeste at du passer på din egen helse. For mye tid sittende er en god måte å få problemer senere i livet. Ta pauser med jevne mellomrom, strekk litt på beina og gå deg en liten tur i ny og ne. Pass også på øynene dine; for å stirre på kode som ikke fungerer kan være en skikkelig belastning på øynene. For mange vil det å bruke lesebriller være lurt og briller er ikke så dyrt. [Databriller er ikke nødvendig](https://www.tmc.edu/news/2020/01/debunking-blue-light-glasses-claims-to-focus-on-proven-eye-issues/), men selv om du bare har **_litt dårlig syn_**, burde du bruke briller når du jobber med skole.

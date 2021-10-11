@@ -1,3 +1,7 @@
+---
+description: Hva og hvordan programmerer man?
+---
+
 # Programmeringen
 
 > Å lære seg programmering er som å lære å lese på nytt

@@ -1,3 +1,7 @@
+---
+description: Det viktigste du trenger som ny student på informatikk.
+---
+
 # Livet som ny student
 
 Her følger noen tips til studenthverdagen ved II.

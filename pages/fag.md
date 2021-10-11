@@ -1,3 +1,8 @@
+---
+title: Valgfag
+description: Det er ikke alltid like lett å vite hvilke fag som du burde ta, her er en liten oversikt
+---
+
 # Valgfag
 
 Alle bachelorprogrammene på informatikk har flere valgemner, og det kan være vanskelig å finne ut hvilke fag som passer for ditt studieløp og interesser. Avhengig av hva du vil fokusere på og lære er det et vidt spektrum av mulig valg, og ikke alle fagene er på informatikk. Under følger en samling av fag med beskrivelser.
