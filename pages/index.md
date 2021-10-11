@@ -1,10 +1,6 @@
 ---
-layout: default
 title: Informatikk Survival Guide
-nav_order: 1
 description: Gummiand en samling tips og triks for nye studenter som veteranene" ved II har samlet gjennom sin tid ved UiB
-permalink: /
-last_modified_date: 2020-08-31
 ---
 
 # II Survival guide: "Det alle vet, men ingen forteller deg"
