@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "next",
     "start": "next start",
-    "build": "next build"
+    "build": "next build",
+    "format": "prettier --check pages",
+    "format:fix": "prettier --write pages"
   },
   "repository": {
     "type": "git",
