@@ -61,3 +61,7 @@ Matnat har dog et stort bibliotek og et fantastisk læringssenter, i tillegg til
 Informatikklesesalen i datablokka, også kjent som "lesesalen" blant informatikkstudenter, er en lesesal med store gruppebord. Her er det kjøkken med (gratis) kaffe, kjøleskap, vannkoker, brødrister, pizzaovn og mikrobølgeovn. Denne er åpen for alle informatikkstudenter og er "vårt eget territorium". Denne administreres i sin helhet av echo, og er døgnåpen. Dette er ikke en stille lesesal i den forstand at det er lov å prate sammen og samarbeide. Her er terskelen også veldig lav for å få hjelp. Husk å bruke innestemme. Det er også lov å bare komme for å henge og drikke kaffe. Informatikkfestene pleier også å arrangeres her. Kjøkkenet kan for mange være skummelt da det ofte sitter eldre studenter i sofaen. De aller færreste biter, og om du sier hei først, kommer de garantert til å si hei tilbake!
 
 I 2. etg. om du holder hardt venstre etter trappen, er det også et mindre stillerom. Dette er en stille leseslal med skillevegger mellom bordene. Denne er åpen mellom 8 og 17 på hverdager. Det finnes også et par kollokvieøyer og en håndfull grupperom i andre etasje + ellers i bygget. Når disse ikke brukes til undervisning kan de bookes her: [https://www.uib.no/foransatte/90989/rombestilling](https://www.uib.no/foransatte/90989/rombestilling)
+
+# Hei
+
+Dette er mine endringer.
