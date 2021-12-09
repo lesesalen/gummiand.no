@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/lesesalen/gummiand.no#readme",
   "dependencies": {
-    "next": "11.1.2",
+    "next": "11.1.3",
     "nextra": "1.1.0",
     "nextra-theme-docs": "1.2.6",
     "react": "17.0.2",
