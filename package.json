@@ -23,14 +23,14 @@
   "homepage": "https://github.com/lesesalen/gummiand.no#readme",
   "dependencies": {
     "next": "12.1.0",
-    "nextra": "1.1.0",
+    "nextra": "4.6.1",
     "nextra-theme-docs": "1.2.6",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "eslint": "7.32.0",
-    "eslint-config-next": "11.1.2",
+    "eslint": "10.5.0",
+    "eslint-config-next": "16.2.9",
     "prettier": "2.4.1"
   }
 }
